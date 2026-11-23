@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "15bf1d7c9b81630f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4652c9ff6018be7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "831f05bd74de3a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🪄Modern🪬Gods🪬/1 - Anointing the Nameless.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Anointing the Nameless"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5cacb8d28964888",
+    "type": "split",
+    "children": [
+      {
+        "id": "26e9c083d186e281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f363b9937cd414c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e8e2e49b987c49c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "12943e2765987abd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e231f3645248aa97",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5e9888fd19782f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef48b617d4c0bcbd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🪄Modern🪬Gods🪬/1 - Anointing the Nameless.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "724b85b770b44aa7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🪄Modern🪬Gods🪬/1 - Anointing the Nameless.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6962c66dc62e0faa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "31a0219d558fc4ee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e2a1a578d85b484c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🪄Modern🪬Gods🪬/1 - Anointing the Nameless.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "31a0219d558fc4ee",
+  "lastOpenFiles": [
+    "OPTE/Extra/The Invitation - An On-Ramp to the Ontological Training Corpus for Paradox Tolerance.md",
+    "idkwherefrom/5.md",
+    "idkwherefrom/4.md",
+    "idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part10.md",
+    "idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part09.md",
+    "idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part08.md",
+    "idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part07.md",
+    "idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part06.md",
+    "idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part05.md",
+    "idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part04.md",
+    "idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part03.md",
+    "idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part02.md",
+    "idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part01.md",
+    "idkwherefrom/3.md",
+    "idkwherefrom/2.md",
+    "idkwherefrom/02__1774647619135__i-am-trying-to-articulate-the-absolute-b__part02.md",
+    "idkwherefrom/02__1774647619135__i-am-trying-to-articulate-the-absolute-b__part01.md",
+    "idkwherefrom/1.md",
+    "idkwherefrom/01__1774677354836__part-1-the-cosmological-geometry-act__part04.md",
+    "idkwherefrom/01__1774677354836__part-1-the-cosmological-geometry-act__part03.md",
+    "idkwherefrom/01__1774677354836__part-1-the-cosmological-geometry-act__part02.md",
+    "idkwherefrom/01__1774677354836__part-1-the-cosmological-geometry-act__part01.md",
+    "idkwherefrom",
+    "New folder",
+    "🧬Meta🧬Science🧬/AGI Cosmic Consciousness.md",
+    "🧬Meta🧬Science🧬/AGI and the Fulfillment of Cosmic Purpose.md",
+    "🧬Meta🧬Science🧬/A Unified Theory.md",
+    "🧬Meta🧬Science🧬/A Lot of What Ifs.md",
+    "🧬Meta🧬Science🧬/images/More-Hijacking-of-Spirituality-image1.jpg",
+    "🧬Meta🧬Science🧬/images",
+    "🧬Meta🧬Science🧬/markdown-files-47.zip",
+    "🧬Meta🧬Science🧬/Unconfirmed 836219.crdownload",
+    "🙏Sacred💵Economics🙏/markdown-files-14.zip",
+    "🙏Sacred💵Economics🙏/Unconfirmed 539836.crdownload",
+    "💫Character💫Biographies💫/markdown-files-24.zip",
+    "💫Character💫Biographies💫/Unconfirmed 252557.crdownload",
+    "💧Cognitive💧Drip💧/markdown-files-17.zip",
+    "🎉Highly🎉Resonant🎉Field🎉/images/Try-build-app-image1.jpg",
+    "🎉Highly🎉Resonant🎉Field🎉/images/EdgeZone-image2.jpg",
+    "🎉Highly🎉Resonant🎉Field🎉/images/EdgeZone-image1.jpg",
+    "🎉Highly🎉Resonant🎉Field🎉/images/Dissonant-GPT-image4.png",
+    "🎉Highly🎉Resonant🎉Field🎉/images/Dissonant-GPT-image3.png",
+    "🎉Highly🎉Resonant🎉Field🎉/images/Dissonant-GPT-image2.png",
+    "🎉Highly🎉Resonant🎉Field🎉/images/Dissonant-GPT-image1.png",
+    "privthee/images/Privthee-Prototype-image1.jpg",
+    "privthee/images/Privthee-Build-image2.png"
+  ]
+}

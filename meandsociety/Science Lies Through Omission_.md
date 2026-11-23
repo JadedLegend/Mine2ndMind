@@ -1,0 +1,11 @@
+It’s fascinating. I came across a Facebook page claiming that mixing water, vinegar, and salt can remove negative energy from a room. Naturally, I turned to Google to see if there was any scientific basis for this or if it was just folklore.
+
+Google calls it complete folklore, but it also dismisses the entire concept of "good" or "bad" energies as pseudoscience, claiming there’s no scientific proof. But isn’t that an oversimplification? It made me think of Masaru Emoto, the Japanese scientist who studied the impact of emotions on water molecules. He photographed microscopic ripples that were “infused” with feelings like love, hate, gratitude, and anger. The patterns associated with positive energy formed beautiful, intricate fractals, while those linked to negative energy were chaotic and discordant.
+
+Isn’t that some form of scientific proof? Perhaps not by conventional standards, because the research hasn’t been pursued further. But over the years, I’ve seen numerous so-called pseudosciences validated when explored with an open mind. Quantum theory and quantum mechanics, for example, offer entirely new perspectives on reality, perspectives that could potentially explain these phenomena if studied more deeply. Yet such investigations are rare, and pseudosciences often get dismissed unless they directly contribute to technological breakthroughs or serve some utility.
+
+This feels like a betrayal of the scientific method, which is supposed to be about exploration—figuring out what is and isn’t true about our reality. The more we learn, the more we uncover astonishing truths: particles existing and not existing simultaneously, the paradoxical nature of the universe itself. These ideas challenge our understanding of reality, yet we seem hesitant to dive deeper into them.
+
+I suspect this reluctance stems largely from the influence of money. Science is heavily funded by those who may already have answers they don’t want revealed to the world. It’s hard not to wonder how much of what we “don’t know” is intentionally kept from us.
+
+The world we live in today operates on two fundamental principles: manipulation and control. If you disagree, you’re simply not paying attention. Everything about our modern globalist society is built on these two theories.

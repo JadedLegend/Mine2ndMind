@@ -1,0 +1,17 @@
+I just finished watching "The Walking Dead: Rick & Michonne" on Netflix—a six-episode journey that balances themes of family, humanity, and survival against a backdrop of societal collapse and moral ambiguity.
+
+The season opens with Rick’s point of view, showing his life after the bridge explosion. Rescued and imprisoned by the CRM (Civic Republic Military), one of the last mega-communities in North America, Rick spends years attempting escape. The first scene shows him chopping off his own hand—a haunting visual that underscores his desperation. Over time, the CRM’s oppressive systems test his resolve, reshaping his memories and calling him to serve something greater, though deeply flawed.
+
+Michonne’s journey, on the other hand, begins with her leaving Alexandria in search of Rick. Along the way, she forms bonds and gains followers, only to lose them in a tragic attack by the CRM. Reuniting with Rick under grim circumstances, she faces the moral and existential dilemmas of integrating into a system that thrives on control and secrecy. Both characters wrestle with their roles in a world where family and humanity collide with systemic corruption.
+
+The series navigates clashing perspectives: Do you prioritize your family’s safety, or fulfill a moral obligation to humanity? Early episodes highlight the tension, while the final ones weave these opposing forces into a complementary narrative about interdependence. The series asks difficult questions about trust, sacrifice, and the cost of survival.
+
+One standout moment comes in the “Echelon Briefing,” where General Beale explains the grim reality: humans have only 14 years before all non-necrotized flesh succumbs to the undead plague. His vision of the post-apocalyptic world as a “museum” of humanity’s fleeting domination is haunting. Beale’s admission of orchestrating atrocities—such as the destruction of Omaha and plans to eliminate Portland—reveals the CRM’s philosophy: centralized power at any cost.
+
+Rick, disillusioned by the CRM’s true intentions, takes matters into his own hands. Meanwhile, Michonne uncovers plans to exterminate thousands of innocents under the guise of survival. Their individual journeys converge in a climactic act of rebellion that topples the CRM’s grip. The series ends with a powerful reunion between Rick, Michonne, and their children, including Rick Jr., who delivers the poignant final line: “I always knew you would come home.” Rick asks, "How?" The final reply, "I never stopped believing."
+
+This series subtly mirrors the complexities of modern society: systems designed to protect often manipulate and harm, creating “zombies” out of those trapped in cycles of fear and disinformation. The parallels between the Walking Dead universe and our own are unsettling yet thought-provoking.
+
+At its core, this season explores the tension between individual and collective humanity, ultimately suggesting they are inseparable. The resolution offers hope, but as always, hints at hidden threats waiting to emerge. Like life itself, the Walking Dead universe reminds us that moments of order inevitably invite chaos.
+
+Reflecting on this series, I’m struck by how my perspectives have shifted even since watching it yesterday. It feels as though I’ve lived countless lives, each adding layers of trauma, wisdom, and growth. This unreality, this constant flux, feels like the grounding of ultimate reality—an idea that lingers long after the final scene.
