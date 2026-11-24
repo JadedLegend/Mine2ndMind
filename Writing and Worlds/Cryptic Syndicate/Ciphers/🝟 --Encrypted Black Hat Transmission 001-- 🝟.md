@@ -1,3 +1,7 @@
+---
+aliases: ["🝟 --Encrypted Black Hat Transmission #001-- 🝟"]
+---
+
 🝟 \*\*Encrypted Black Hat Transmission #001\*\* 🝟
 
 🝖 + 🝣 = 🝒 {⽰ + ䷼ = ⊨}

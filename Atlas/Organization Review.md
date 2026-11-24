@@ -36,7 +36,7 @@ The Git update removed the large numbered Collaborative Panentheism discussion c
 
 Each area now has a brief Overview, a Working Synthesis with source links and a reading-scope note, and a complete Index. The indexes cover all retained source files. Syntheses are editorial readings of selected entry documents and excerpts; they do not replace the longer sources or claim that all archives were read end to end.
 
-Alternate titles from removed copies and shortened filenames are added as aliases where doing so does not require changing existing source frontmatter. Source prose and code are preserved apart from actual link updates. Long path names were shortened where necessary for Windows compatibility; the path map preserves the original names.
+Alternate titles from removed copies and shortened filenames are added as aliases while preserving existing source metadata. Source prose and code are preserved apart from actual link updates. Long path names were shortened where necessary for Windows compatibility; the path map preserves the original names. Obsidian link delimiters were removed from one filename and the imported title remains searchable as an alias.
 
 ## Continuing the memory layer
 

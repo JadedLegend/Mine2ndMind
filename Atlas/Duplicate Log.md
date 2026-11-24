@@ -11,9 +11,9 @@ tags:
 
 On November 23, 2026, the user confirmed the duplicate groups from the first cleanup. This pass removed 59 redundant versions across 55 connected groups. Some pairs were revisions or formatting variants; their removal follows the user’s confirmation, rather than a claim that every pair was byte-identical.
 
-Preferred copies favor named collections, ordered OPTE sections, descriptive keys, and polished or fuller versions. Coherent Cabal keeps the interface specification, and Cryptic Reincarnation keeps the polished episode copies listed below. Alternate titles are preserved as aliases where the preferred source had no existing frontmatter.
+Preferred copies favor named collections, ordered OPTE sections, descriptive keys, and polished or fuller versions. Coherent Cabal keeps the interface specification, and Cryptic Reincarnation keeps the polished episode copies listed below. Alternate titles are preserved as aliases while preserving existing source metadata.
 
-To recover a removed version, use its original path below with `git show 2664a86:"original/path.md"`. The original SHA-256 values are in the path map.
+To recover a removed version, use its original path below with `git show 2664a86:"original/path.md"`. The path map records both `git_blob_sha256` for the exact bytes recovered from Git and `checkout_sha256` for the original Windows checkout bytes. Line endings can make these differ.
 
 ## Existence, Paradox, Consciousness, Resonance, Patterns, and Cycles
 

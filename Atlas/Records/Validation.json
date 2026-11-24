@@ -8,8 +8,7 @@
   "duplicate_groups": 55,
   "discussion_remnants_removed": 1,
   "preferred_source_hashes_verified": 950,
-  "source_notes_indexed_once": 950,
-  "generated_internal_links_checked": 1389,
+  "generated_internal_links_checked": 2399,
   "source_internal_links_checked": 108,
   "preexisting_unresolved_source_references": 104,
   "new_unresolved_source_references": 0,
@@ -20,5 +19,13 @@
   "source_notes_compared_to_git": 946,
   "word_originals_byte_compared_to_git": 4,
   "code_blocks_compared_to_git": 27,
-  "source_wording_preservation_failures": []
+  "source_wording_preservation_failures": [],
+  "source_files_indexed_once": 950,
+  "git_blob_hashes_independently_verified": 1010,
+  "future_template_dates_verified": 2,
+  "non_native_files_enabled": true,
+  "obsidian_delimiter_filenames": 0,
+  "recent_paths_valid": true,
+  "consolidation_log_entries": 1,
+  "final_review": "Fresh review completed; material and minor findings fixed and verified."
 }

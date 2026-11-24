@@ -1,8 +1,5 @@
 ---
-title: "{{title}}"
-date: 2026-11-23
-tags:
-  - atlas/template
+date: "{{date:YYYY-MM-DD}}"
 ---
 
 # {{title}}

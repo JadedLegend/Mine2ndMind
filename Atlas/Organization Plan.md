@@ -53,8 +53,8 @@
 
 - [x] Check generated links, duplicate redirects, collision safety, inventories, JSON configuration, and whitespace.
 - [x] Compare pre-existing unresolved source links separately from migration-caused breaks.
-- [ ] Obtain a fresh review of the completed migration and address material findings.
-- [ ] Record verification results and commit the completed local change.
+- [x] Obtain a fresh review of the completed migration and address material findings.
+- [x] Record verification results and commit the completed local change.
 
 ## Progress and implementation decisions
 
@@ -67,3 +67,17 @@
 - Preservation verification: source wording compared with Git after masking link markup and removing newly added aliases; four Word originals byte-compared; 27 code blocks compared unchanged.
 - Link verification: 1,389 generated internal links resolve; zero new unresolved source references. The 104 pre-existing unresolved references are recorded separately.
 - Filename normalization: removed one stray backtick, retaining its original title as an alias and its old path in the migration record.
+
+## Final review and fixes
+
+A fresh read-only review covered commit `13f79d5` against the approved plan. The final pass corrected the following findings:
+
+- Renamed the cipher file containing an Obsidian heading delimiter, retained its imported title as an alias, and repaired its recorded paths.
+- Changed both capture templates to use the insertion date and removed redundant date text from the decision template.
+- Distinguished Windows checkout SHA-256 from baseline Git-blob SHA-256 for all 1,010 originals, with independent verification against Git bytes.
+- Enabled Show all file types for Word originals and records; added a native Markdown lookup for searching old paths.
+- Added the remaining RestRecovey alias while preserving existing source metadata, removed the repeated import-log entry, and pruned stale recent-folder history.
+
+Final verification: all 2,399 generated internal links resolve under heading-aware Obsidian parsing; all 950 retained sources are indexed exactly once; all 946 source-note payloads and 27 code blocks preserve original wording/code apart from link markup and added aliases; all four Word originals are byte-identical to Git. The 104 pre-existing unresolved source references remain recorded, with no new unresolved source references.
+
+Desktop rendering and external-app launches remain untested. The source-linked syntheses explicitly cover selected entry sources and excerpts. No review findings remain deferred.

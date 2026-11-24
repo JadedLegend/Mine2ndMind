@@ -17,7 +17,9 @@ New notes default to Inbox in this vault. The built-in Templates plugin is point
 
 ## Find a source
 
-Use **Ctrl+O** for a title or alternate title, and **Ctrl+Shift+F** for a phrase. Each area has an Overview, a Working Synthesis, and a complete Index. If you remember an old folder name, search [[Atlas/Records/Path Map.csv|the path map]]. Source notes keep one home; link them from other contexts instead of copying them.
+Use **Ctrl+O** for a title or alternate title, and **Ctrl+Shift+F** for a phrase. Each area has an Overview, a Working Synthesis, and a complete Index. If you remember an old folder name, search [[Atlas/Records/Path Lookup|the Markdown path lookup]]; its old paths participate in Obsidian’s note search. Source notes keep one home; link them from other contexts instead of copying them.
+
+The [[Atlas/Records/Path Map.csv|CSV path map]] also records recovery hashes. Open it in an associated text or spreadsheet application to search its rows. This vault enables **Show all file types**, making the CSV, JSON records, and Word originals visible for linking and browsing even though Obsidian does not edit them natively. See [Obsidian’s Files and links settings](https://help.obsidian.md/settings#Show%20all%20file%20types).
 
 ## Recover a choice or solved problem
 
@@ -25,7 +27,7 @@ Use [[Atlas/Templates/Decision|the decision template]] when there is something u
 
 ## File when the connection is clear
 
-Choose Projects, Skills and AI, Writing and Worlds, Music, Ideas and Research, or Personal. Preserve a named project or creative world inside the area. In Obsidian, enable **Automatically update internal links** and move or rename notes within Obsidian so its links follow the change.
+Choose Projects, Skills and AI, Writing and Worlds, Music, Ideas and Research, or Personal. Preserve a named project or creative world inside the area. Add the new note to that area’s Index and refresh its overview or synthesis when useful; those pages are maintained manually. In Obsidian, **Automatically update internal links** is enabled. Move or rename notes within Obsidian so its links follow the change.
 
 ## Grow summaries from the sources
 

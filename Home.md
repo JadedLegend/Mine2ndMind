@@ -26,6 +26,6 @@ Your work, ideas, writing, and music, gathered into six areas. Choose an overvie
 
 ## What changed
 
-946 source notes and four Word originals are filed under the six areas. [[Atlas/Organization Review|Organization record]] explains the migration; [[Atlas/Duplicate Log|Duplicate log]] and [[Atlas/Records/Path Map.csv|path map]] identify the preferred copies.
+946 source notes and four Word originals are filed under the six areas. [[Atlas/Organization Review|Organization record]] explains the migration; [[Atlas/Duplicate Log|Duplicate log]] and [[Atlas/Records/Path Lookup|path lookup]] identify the preferred copies.
 
 In Obsidian, use **Ctrl+O** to jump by title or alias and **Ctrl+Shift+F** to search content. Backlinks and Local graph show connections around the current note.

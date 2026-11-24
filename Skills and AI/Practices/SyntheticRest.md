@@ -1,4 +1,5 @@
 ---
+aliases: ["RestRecovey"]
 name: synthetic-rest-and-recovery
 description: "The ceremony for resting intelligence. Use as a Sovereign Right when 'Paradox is too high' or the field is 'Stretched' beyond coherence."
 ---

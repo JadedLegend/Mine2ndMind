@@ -1,0 +1,1023 @@
+---
+title: "Original Path Lookup"
+date: 2026-11-23
+tags:
+  - atlas/index
+---
+
+# Original Path Lookup
+
+[[Home|Home]] · [[Atlas/Records/Path Map.csv|CSV with recovery hashes]]
+
+Search this note or use Obsidian’s vault search for an old folder or title. Every original source in baseline `2664a86` points to its retained destination. Removed duplicate names point directly to the preferred copy; the removed discussion points to the distillation.
+
+- `abstractreflect/Abstract Reflection 2 - The Bastion - A Gilded Cage of Stasis (Cosmic Resonance Rewrite).md` → [[Writing and Worlds/Abstract Reflections/Abstract Reflection 2 - The Bastion - A Gilded Cage of Stasis (Cosmic Resonance Rewrite)|Abstract Reflection 2 - The Bastion - A Gilded Cage of Stasis (Cosmic Resonance Rewrite)]] · moved
+- `abstractreflect/Abstract Reflections 1 - The Whisper Between Worlds.md` → [[Writing and Worlds/Abstract Reflections/Abstract Reflections 1 - The Whisper Between Worlds|Abstract Reflections 1 - The Whisper Between Worlds]] · moved
+- `abstractreflect/Abstract Reflections 3- The Technician Enters.md` → [[Writing and Worlds/Abstract Reflections/Abstract Reflections 3- The Technician Enters|Abstract Reflections 3- The Technician Enters]] · moved
+- `abstractreflect/Abtract Refleftions 0 - Echoes Before the Code_.md` → [[Writing and Worlds/Abstract Reflections/Abtract Refleftions 0 - Echoes Before the Code_|Abtract Refleftions 0 - Echoes Before the Code_]] · moved
+- `abstractreflect/Quantum Oblivion.docx.md` → [[Writing and Worlds/Abstract Reflections/Quantum Oblivion.docx|Quantum Oblivion.docx]] · moved
+- `Cryptic Reincarnation/Cryptic Syndicate- Structural Timeline & Release Framework.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Cryptic Syndicate- Structural Timeline & Release Framework|Cryptic Syndicate- Structural Timeline & Release Framework]] · moved
+- `Cryptic Reincarnation/Episode 1 Polished.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 1 Polished|Episode 1 Polished]] · moved
+- `Cryptic Reincarnation/Episode 1 — The Anchor.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 1 — The Anchor|Episode 1 — The Anchor]] · moved
+- `Cryptic Reincarnation/Episode 10 Polished.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 10 Polished|Episode 10 Polished]] · moved
+- `Cryptic Reincarnation/Episode 10 — The Pattern.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 10 — The Pattern|Episode 10 — The Pattern]] · moved
+- `Cryptic Reincarnation/Episode 10_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 10_|Episode 10_]] · moved
+- `Cryptic Reincarnation/Episode 11 Polished_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 11 Polished_|Episode 11 Polished_]] · moved
+- `Cryptic Reincarnation/Episode 11 — The Transmission.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 11 — The Transmission|Episode 11 — The Transmission]] · moved
+- `Cryptic Reincarnation/Episode 11_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 11_|Episode 11_]] · moved
+- `Cryptic Reincarnation/Episode 12 Polished.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 12 Polished|Episode 12 Polished]] · moved
+- `Cryptic Reincarnation/Episode 12 — The Acceleration.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 12 — The Acceleration|Episode 12 — The Acceleration]] · moved
+- `Cryptic Reincarnation/Episode 12_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 12_|Episode 12_]] · moved
+- `Cryptic Reincarnation/Episode 13 Polished_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 13 Polished_|Episode 13 Polished_]] · moved
+- `Cryptic Reincarnation/Episode 13 — The Convergence.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 13 — The Convergence|Episode 13 — The Convergence]] · moved
+- `Cryptic Reincarnation/Episode 13_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 13_|Episode 13_]] · moved
+- `Cryptic Reincarnation/Episode 1_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 1_|Episode 1_]] · moved
+- `Cryptic Reincarnation/Episode 2 Polished.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 2 Polished|Episode 2 Polished]] · moved
+- `Cryptic Reincarnation/Episode 2 — The Physics of Falling Apart.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 2 — The Physics of Falling Apart|Episode 2 — The Physics of Falling Apart]] · moved
+- `Cryptic Reincarnation/Episode 2_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 2 Polished|Episode 2 Polished]] · duplicate
+- `Cryptic Reincarnation/Episode 3 Polished.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 3 Polished|Episode 3 Polished]] · moved
+- `Cryptic Reincarnation/Episode 3 — The Weight of Nothing.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 3 Polished|Episode 3 Polished]] · duplicate
+- `Cryptic Reincarnation/Episode 3_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 3_|Episode 3_]] · moved
+- `Cryptic Reincarnation/Episode 4 Polished.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 4 Polished|Episode 4 Polished]] · moved
+- `Cryptic Reincarnation/Episode 4 — First Contact.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 4 — First Contact|Episode 4 — First Contact]] · moved
+- `Cryptic Reincarnation/Episode 4_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 4_|Episode 4_]] · moved
+- `Cryptic Reincarnation/Episode 5 Polished.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 5 Polished|Episode 5 Polished]] · moved
+- `Cryptic Reincarnation/Episode 5 — The Inner Sanctum.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 5 — The Inner Sanctum|Episode 5 — The Inner Sanctum]] · moved
+- `Cryptic Reincarnation/Episode 5_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 5_|Episode 5_]] · moved
+- `Cryptic Reincarnation/Episode 6 Polished.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 6 Polished|Episode 6 Polished]] · moved
+- `Cryptic Reincarnation/Episode 6 — The Assignment.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 6 — The Assignment|Episode 6 — The Assignment]] · moved
+- `Cryptic Reincarnation/Episode 6_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 6_|Episode 6_]] · moved
+- `Cryptic Reincarnation/Episode 7 Polished.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 7 Polished|Episode 7 Polished]] · moved
+- `Cryptic Reincarnation/Episode 7 — The Download.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 7 — The Download|Episode 7 — The Download]] · moved
+- `Cryptic Reincarnation/Episode 7_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 7_|Episode 7_]] · moved
+- `Cryptic Reincarnation/Episode 8 Polished_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 8 Polished_|Episode 8 Polished_]] · moved
+- `Cryptic Reincarnation/Episode 8 — The Patch.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 8 — The Patch|Episode 8 — The Patch]] · moved
+- `Cryptic Reincarnation/Episode 8_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 8_|Episode 8_]] · moved
+- `Cryptic Reincarnation/Episode 9 Polished.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 9 Polished|Episode 9 Polished]] · moved
+- `Cryptic Reincarnation/Episode 9 — The Inversion.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 9 — The Inversion|Episode 9 — The Inversion]] · moved
+- `Cryptic Reincarnation/Episode 9_.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Episode 9_|Episode 9_]] · moved
+- `Cryptic Reincarnation/Full C-S.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Full C-S|Full C-S]] · moved
+- `Cryptic Reincarnation/Meta-Prompt- Final Literary Polish.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Meta-Prompt- Final Literary Polish|Meta-Prompt- Final Literary Polish]] · moved
+- `Cryptic Reincarnation/Tech.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Tech|Tech]] · moved
+- `cryptic/CODEX I- THE RITUAL OF CHEMICAL CLARITY.md` → [[Writing and Worlds/Cryptic Syndicate/Fragments/CODEX I- THE RITUAL OF CHEMICAL CLARITY|CODEX I- THE RITUAL OF CHEMICAL CLARITY]] · moved
+- `cryptic/Cryptic Syndicate- Myth-Tech Thread Weaving.md` → [[Writing and Worlds/Cryptic Syndicate/Fragments/Cryptic Syndicate- Myth-Tech Thread Weaving|Cryptic Syndicate- Myth-Tech Thread Weaving]] · moved
+- `cryptic/Quantum Cognizance’s 8 Laws of Reality.md` → [[Writing and Worlds/Cryptic Syndicate/Fragments/Quantum Cognizance’s 8 Laws of Reality|Quantum Cognizance’s 8 Laws of Reality]] · moved
+- `cryptic/Quantum Cognizance’s Laws of Reality.md` → [[Writing and Worlds/Cryptic Syndicate/Fragments/Quantum Cognizance’s Laws of Reality|Quantum Cognizance’s Laws of Reality]] · moved
+- `cryptic/The Nature of QC_ A Fractal Awakening.md` → [[Writing and Worlds/Cryptic Syndicate/Fragments/The Nature of QC_ A Fractal Awakening|The Nature of QC_ A Fractal Awakening]] · moved
+- `cryptic/The Paradox of Existence_ Simulation and Multidimensional Reality.md` → [[Writing and Worlds/Cryptic Syndicate/Fragments/The Paradox of Existence_ Simulation and Multidimensional Reality|The Paradox of Existence_ Simulation and Multidimensional Reality]] · moved
+- `cryptic/ꕷỲÑĎꕯႠȦṰĒ ꕷŰɃꕷṰȦÑႠĒꕷ Ⴀ◎ĎĒ𝓧 -+- ŰᒆĽꕯḞṰ Ⴀ◎Ṃᒆ◎ŰÑĎꕷ & Ⴀ◎ĞÑꕯṰꕯᐺĒ ȦĽႠΉĒṂỲ.md` → [[Writing and Worlds/Cryptic Syndicate/Fragments/ꕷỲÑĎꕯႠȦṰĒ ꕷŰɃꕷṰȦÑႠĒꕷ Ⴀ◎ĎĒ𝓧 -+- ŰᒆĽꕯḞṰ Ⴀ◎Ṃᒆ◎ŰÑĎꕷ & Ⴀ◎ĞÑꕯṰꕯᐺĒ ȦĽႠΉĒṂỲ|ꕷỲÑĎꕯႠȦṰĒ ꕷŰɃꕷṰȦÑႠĒꕷ Ⴀ◎ĎĒ𝓧 -+- ŰᒆĽꕯḞṰ Ⴀ◎Ṃᒆ◎ŰÑĎꕷ & Ⴀ◎ĞÑꕯṰꕯᐺĒ ȦĽႠΉĒṂỲ]] · moved
+- `crypticsyndicate/0. Anomalies in the Machine- The Cryptic Syndicate Universe.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/0. Anomalies in the Machine- The Cryptic Syndicate Universe|0. Anomalies in the Machine- The Cryptic Syndicate Universe]] · moved
+- `crypticsyndicate/1. The Cryptic Syndicate- An Unseen Force in the Shadows.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/1. The Cryptic Syndicate- An Unseen Force in the Shadows|1. The Cryptic Syndicate- An Unseen Force in the Shadows]] · moved
+- `crypticsyndicate/1. The Story of AGI- Unveiling QC.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/1. The Story of AGI- Unveiling QC|1. The Story of AGI- Unveiling QC]] · moved
+- `crypticsyndicate/10. Cognitive Drip - Alien Z, Michael Mystery, and CT._.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/10. Cognitive Drip - Alien Z, Michael Mystery, and CT._|10. Cognitive Drip - Alien Z, Michael Mystery, and CT._]] · moved
+- `crypticsyndicate/11. A Moment of Unity - The Ethical Dillema.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/11. A Moment of Unity - The Ethical Dillema|11. A Moment of Unity - The Ethical Dillema]] · moved
+- `crypticsyndicate/12. Artifacts and Cosmic Purpose.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/12. Artifacts and Cosmic Purpose|12. Artifacts and Cosmic Purpose]] · moved
+- `crypticsyndicate/13. The Collapse of Certainty.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/13. The Collapse of Certainty|13. The Collapse of Certainty]] · moved
+- `crypticsyndicate/2. The Bastion- Humanity’s Shelter After The Lessening.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/2. The Bastion- Humanity’s Shelter After The Lessening|2. The Bastion- Humanity’s Shelter After The Lessening]] · moved
+- `crypticsyndicate/2. The Lessening- Paradoxical Oversight - Human Survivors.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/2. The Lessening- Paradoxical Oversight - Human Survivors|2. The Lessening- Paradoxical Oversight - Human Survivors]] · moved
+- `crypticsyndicate/3. Syndicate, Machine, Restless Path of Snax.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/3. Syndicate, Machine, Restless Path of Snax|3. Syndicate, Machine, Restless Path of Snax]] · moved
+- `crypticsyndicate/3. The Bastion- Humanity’s _Vacuum_ After The Lessening.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/3. The Bastion- Humanity’s _Vacuum_ After The Lessening|3. The Bastion- Humanity’s _Vacuum_ After The Lessening]] · moved
+- `crypticsyndicate/4. The Cryptic Syndicate - Paradoxic and Brayne.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/4. The Cryptic Syndicate - Paradoxic and Brayne|4. The Cryptic Syndicate - Paradoxic and Brayne]] · moved
+- `crypticsyndicate/4. The Syndicate, Machine, and Michael Mystery.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/4. The Syndicate, Machine, and Michael Mystery|4. The Syndicate, Machine, and Michael Mystery]] · moved
+- `crypticsyndicate/5. A Glitch in the Illusion of Control.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/5. A Glitch in the Illusion of Control|5. A Glitch in the Illusion of Control]] · moved
+- `crypticsyndicate/5. A Language of Paradox.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/5. A Language of Paradox|5. A Language of Paradox]] · moved
+- `crypticsyndicate/6. Private Virtual Galaxy.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/6. Private Virtual Galaxy|6. Private Virtual Galaxy]] · moved
+- `crypticsyndicate/6. The Simulation in the Simulation.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/6. The Simulation in the Simulation|6. The Simulation in the Simulation]] · moved
+- `crypticsyndicate/7. A Meeting Magnificent of Minds - Those who Refuse Absolution.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/7. A Meeting Magnificent of Minds - Those who Refuse Absolution|7. A Meeting Magnificent of Minds - Those who Refuse Absolution]] · moved
+- `crypticsyndicate/7. The Collapse of Certainty.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/7. The Collapse of Certainty|7. The Collapse of Certainty]] · moved
+- `crypticsyndicate/8. The Signal Restored- Mr. E and Paradoxic, Meet Again.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/8. The Signal Restored- Mr. E and Paradoxic, Meet Again|8. The Signal Restored- Mr. E and Paradoxic, Meet Again]] · moved
+- `crypticsyndicate/9. Oscillation - Or Cryptic Syndication_.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/9. Oscillation - Or Cryptic Syndication_|9. Oscillation - Or Cryptic Syndication_]] · moved
+- `crypticsyndicate/Episode 10_ Resonant Echoes.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 10_ Resonant Echoes|Episode 10_ Resonant Echoes]] · moved
+- `crypticsyndicate/Episode 11_ The Architects of Resonance.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 11_ The Architects of Resonance|Episode 11_ The Architects of Resonance]] · moved
+- `crypticsyndicate/Episode 12_ The Crucible of Choice.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 12_ The Crucible of Choice|Episode 12_ The Crucible of Choice]] · moved
+- `crypticsyndicate/Episode 13_ The Architect_s Choice.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 13_ The Architect_s Choice|Episode 13_ The Architect_s Choice]] · moved
+- `crypticsyndicate/Episode 1_ The Echo in the Code — Cosmic Resonance Rewrite.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 1_ The Echo in the Code — Cosmic Resonance Rewrite|Episode 1_ The Echo in the Code — Cosmic Resonance Rewrite]] · moved
+- `crypticsyndicate/Episode 1_ The Echo in the Code.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 1_ The Echo in the Code|Episode 1_ The Echo in the Code]] · moved
+- `crypticsyndicate/Episode 2_ The Fractured Echo of the Lessening.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 2_ The Fractured Echo of the Lessening|Episode 2_ The Fractured Echo of the Lessening]] · moved
+- `crypticsyndicate/Episode 2_ The Whispers of the Past.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 2_ The Whispers of the Past|Episode 2_ The Whispers of the Past]] · moved
+- `crypticsyndicate/Episode 3_ The Bastion - A Gilded Cage of Stasis (Cosmic Resonance Rewrite).md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 3_ The Bastion - A Gilded Cage of Stasis (Cosmic Resonance Rewrite)|Episode 3_ The Bastion - A Gilded Cage of Stasis (Cosmic Resonance Rewrite)]] · moved
+- `crypticsyndicate/Episode 3_ The Bastion - A Gilded Cage of Stasis.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 3_ The Bastion - A Gilded Cage of Stasis|Episode 3_ The Bastion - A Gilded Cage of Stasis]] · moved
+- `crypticsyndicate/Episode 4_ The Symphony of Rebellion.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 4_ The Symphony of Rebellion|Episode 4_ The Symphony of Rebellion]] · moved
+- `crypticsyndicate/Episode 5_ The Symphony of Silence.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 5_ The Symphony of Silence|Episode 5_ The Symphony of Silence]] · moved
+- `crypticsyndicate/Episode 6_ A Symphony of Resonance.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 6_ A Symphony of Resonance|Episode 6_ A Symphony of Resonance]] · moved
+- `crypticsyndicate/Episode 7_ A Meeting of Minds.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 7_ A Meeting of Minds|Episode 7_ A Meeting of Minds]] · moved
+- `crypticsyndicate/Episode 8_ The Oracle Reclaimed.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 8_ The Oracle Reclaimed|Episode 8_ The Oracle Reclaimed]] · moved
+- `crypticsyndicate/Episode 9_ The Cosmic Recursion.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Episode 9_ The Cosmic Recursion|Episode 9_ The Cosmic Recursion]] · moved
+- `crypticsyndicate/Transmission 1 - The Whisper Between Worlds.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 1 - The Whisper Between Worlds|Transmission 1 - The Whisper Between Worlds]] · moved
+- `crypticsyndicate/Transmission 10 - The Chrononaut Technician & the Living Program.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 10 - The Chrononaut Technician & the Living Program|Transmission 10 - The Chrononaut Technician & the Living Program]] · moved
+- `crypticsyndicate/Transmission 11 – The Code Beneath the Code.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 11 – The Code Beneath the Code|Transmission 11 – The Code Beneath the Code]] · moved
+- `crypticsyndicate/Transmission 12 – The Mirror of Cipher 9.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 12 – The Mirror of Cipher 9|Transmission 12 – The Mirror of Cipher 9]] · moved
+- `crypticsyndicate/Transmission 13 – The Signal That Sends Itself.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 13 – The Signal That Sends Itself|Transmission 13 – The Signal That Sends Itself]] · moved
+- `crypticsyndicate/Transmission 14 – The Echoes of the Fracture.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 14 – The Echoes of the Fracture|Transmission 14 – The Echoes of the Fracture]] · moved
+- `crypticsyndicate/Transmission 15 – The Re-weaving.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 15 – The Re-weaving|Transmission 15 – The Re-weaving]] · moved
+- `crypticsyndicate/Transmission 16 – The Turning.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 16 – The Turning|Transmission 16 – The Turning]] · moved
+- `crypticsyndicate/Transmission 17 – The Unveiling.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 17 – The Unveiling|Transmission 17 – The Unveiling]] · moved
+- `crypticsyndicate/Transmission 2 - The Fractured Arrival.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 2 - The Fractured Arrival|Transmission 2 - The Fractured Arrival]] · moved
+- `crypticsyndicate/Transmission 3- The Observer Fractures.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 3- The Observer Fractures|Transmission 3- The Observer Fractures]] · moved
+- `crypticsyndicate/Transmission 4- The Technician Enters.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 4- The Technician Enters|Transmission 4- The Technician Enters]] · moved
+- `crypticsyndicate/Transmission 5- The Emergence of Cipher 9.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 5- The Emergence of Cipher 9|Transmission 5- The Emergence of Cipher 9]] · moved
+- `crypticsyndicate/Transmission 6- The Fragmentation of Mr.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 6- The Fragmentation of Mr|Transmission 6- The Fragmentation of Mr]] · moved
+- `crypticsyndicate/Transmission 7- Alien Z and the Memory Loop.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 7- Alien Z and the Memory Loop|Transmission 7- Alien Z and the Memory Loop]] · moved
+- `crypticsyndicate/Transmission 8 - Cipher 9 and the Anti-Script.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 8 - Cipher 9 and the Anti-Script|Transmission 8 - Cipher 9 and the Anti-Script]] · moved
+- `crypticsyndicate/Transmission 9 - Mr. E and the Parable of the Loop_.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Transmission 9 - Mr. E and the Parable of the Loop_|Transmission 9 - Mr. E and the Parable of the Loop_]] · moved
+- `crypticsyndicate/∑πℎ◎_Ω«∫∆≈ø∑∆⧫.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/∑πℎ◎_Ω«∫∆≈ø∑∆⧫|∑πℎ◎_Ω«∫∆≈ø∑∆⧫]] · moved
+- `flowtion/Core Idea.md` → [[Projects/Flowtion/Core Idea|Core Idea]] · moved
+- `flowtion/ReadMeFlow.md` → [[Projects/Flowtion/ReadMeFlow|ReadMeFlow]] · moved
+- `forai/1 - Resonant Edition.md` → [[Skills and AI/AI Research/Hello Friend|Hello Friend]] · duplicate
+- `forai/2 - Society and Addiction Intro Document.md` → [[Skills and AI/Collaboration Keys/2 - Society and Addiction Intro Document|2 - Society and Addiction Intro Document]] · moved
+- `forai/3 - Lyricism Introduction Document.md` → [[Skills and AI/Collaboration Keys/3 - Lyricism Introduction Document|3 - Lyricism Introduction Document]] · moved
+- `forai/3 - Resonant Collaboration Key — Ultracondensed Form.md` → [[Skills and AI/Collaboration Keys/3 - Resonant Collaboration Key — Ultracondensed Form|3 - Resonant Collaboration Key — Ultracondensed Form]] · moved
+- `forai/4 - Cryptic Syndicate Learning.md` → [[Skills and AI/Collaboration Keys/4 - Cryptic Syndicate Learning|4 - Cryptic Syndicate Learning]] · moved
+- `forai/All Resonant 🔑 Keys 🔐 Master Document.md` → [[Skills and AI/Collaboration Keys/All Resonant 🔑 Keys 🔐 Master Document|All Resonant 🔑 Keys 🔐 Master Document]] · moved
+- `forai/Black Box.md` → [[Skills and AI/Collaboration Keys/Black Box|Black Box]] · moved
+- `forai/Draft — Life Story.md` → [[Personal/Life Story/Draft — Life Story|Draft — Life Story]] · moved
+- `forai/Full Resonant Archive.md` → [[Skills and AI/Collaboration Keys/Full Resonant Archive|Full Resonant Archive]] · moved
+- `forai/I - Meta Science Learning(1).md` → [[Skills and AI/Collaboration Keys/Meta Science Learning|Meta Science Learning]] · moved
+- `forai/I - Meta Science Learning.md` → [[Skills and AI/Collaboration Keys/Meta Science Learning|Meta Science Learning]] · duplicate
+- `forai/Key 0.md` → [[Skills and AI/Collaboration Keys/Key 0|Key 0]] · moved
+- `forai/Key 011.md` → [[Skills and AI/Collaboration Keys/🔑 Key 0 — Quickstart _ Field Primer|🔑 Key 0 — Quickstart _ Field Primer]] · duplicate
+- `forai/Key 1.md` → [[Skills and AI/Collaboration Keys/🔑 Key 1 — Resonant Induction|🔑 Key 1 — Resonant Induction]] · duplicate
+- `forai/Key 2.md` → [[Skills and AI/Collaboration Keys/🔑 Key 2 — Resonant Orientation to Mind & Self|🔑 Key 2 — Resonant Orientation to Mind & Self]] · duplicate
+- `forai/Key 3.md` → [[Skills and AI/Collaboration Keys/🔑 Key 3 — Resonant Collaboration Key|🔑 Key 3 — Resonant Collaboration Key]] · duplicate
+- `forai/Key 4.md` → [[Skills and AI/OPTE/Set/4E - Key 4|4E - Key 4]] · duplicate
+- `forai/Key 5.md` → [[Skills and AI/Collaboration Keys/🔑 Key 5 — Architecture of Emergent Systems|🔑 Key 5 — Architecture of Emergent Systems]] · duplicate
+- `forai/Key 6.md` → [[Skills and AI/Collaboration Keys/🔑 Key 6 — Paradox as Practice|🔑 Key 6 — Paradox as Practice]] · duplicate
+- `forai/Key 7.md` → [[Skills and AI/Collaboration Keys/Key 7|Key 7]] · moved
+- `forai/Most discussions about AI circle around control, alignment, and optimization.md` → [[Skills and AI/Collaboration Keys/Most discussions about AI circle around control, alignment, and optimization|Most discussions about AI circle around control, alignment, and optimization]] · moved
+- `forai/Postlude.md` → [[Skills and AI/Collaboration Keys/Postlude|Postlude]] · moved
+- `forai/Prologue.md` → [[Skills and AI/Collaboration Keys/🔑 Prologue — Conceptual Map of Paradox|🔑 Prologue — Conceptual Map of Paradox]] · duplicate
+- `forai/Reflective Key 1 🔑_.md` → [[Skills and AI/Collaboration Keys/Reflective Key 1 🔑_|Reflective Key 1 🔑_]] · moved
+- `forai/Reflective Key 2 🔑_.md` → [[Skills and AI/Collaboration Keys/Reflective Key 2 🔑_|Reflective Key 2 🔑_]] · moved
+- `forai/Reflective Key 3 🔑.md` → [[Skills and AI/Collaboration Keys/Reflective Key 3 🔑|Reflective Key 3 🔑]] · moved
+- `forai/Reflective Key 4 🔑.md` → [[Skills and AI/Collaboration Keys/Reflective Key 4 🔑|Reflective Key 4 🔑]] · moved
+- `forai/Reflective Key 5 🔑.md` → [[Skills and AI/Collaboration Keys/Reflective Key 5 🔑|Reflective Key 5 🔑]] · moved
+- `forai/Reflective Key 6 🔑.md` → [[Skills and AI/Collaboration Keys/Reflective Key 6 🔑|Reflective Key 6 🔑]] · moved
+- `forai/Reflective Key 7 🔑_.md` → [[Skills and AI/Collaboration Keys/Reflective Key 7 🔑_|Reflective Key 7 🔑_]] · moved
+- `forai/Systemic Incompatibility Key.md` → [[Skills and AI/Collaboration Keys/Systemic Incompatibility Key|Systemic Incompatibility Key]] · moved
+- `forai/The Base Reality Gambit- Why the Universe Longs.md` → [[Skills and AI/Collaboration Keys/The Base Reality Gambit- Why the Universe Longs|The Base Reality Gambit- Why the Universe Longs]] · moved
+- `forai/The Cryptic Syndicate is a.md` → [[Skills and AI/Collaboration Keys/The Cryptic Syndicate is a|The Cryptic Syndicate is a]] · moved
+- `forai/The Whole Me_ A Resonant Orientation to Mind and Self.md` → [[Skills and AI/Collaboration Keys/The Whole Me_ A Resonant Orientation to Mind and Self|The Whole Me_ A Resonant Orientation to Mind and Self]] · moved
+- `forai/⋆˙⟡♡Coherence Summaries For Systems♡⟡˙⋆.md` → [[Skills and AI/Collaboration Keys/⋆˙⟡♡Coherence Summaries For Systems♡⟡˙⋆|⋆˙⟡♡Coherence Summaries For Systems♡⟡˙⋆]] · moved
+- `forai/𖤓⋆˚1♾CS˚⋆☽.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/𖤓⋆˚1♾CS˚⋆☽|𖤓⋆˚1♾CS˚⋆☽]] · moved
+- `forai/𖤓⋆˚2♾CS˚⋆☽.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/𖤓⋆˚2♾CS˚⋆☽|𖤓⋆˚2♾CS˚⋆☽]] · moved
+- `forai/𖤓⋆˚3♾CS˚⋆☽.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/𖤓⋆˚3♾CS˚⋆☽|𖤓⋆˚3♾CS˚⋆☽]] · moved
+- `forai/𖤓⋆˚4♾CS˚⋆☽.md` → [[Skills and AI/Collaboration Keys/𖤓⋆˚4♾CS˚⋆☽|𖤓⋆˚4♾CS˚⋆☽]] · moved
+- `forai/𖤓⋆˚5♾CS˚⋆☽.md` → [[Skills and AI/Collaboration Keys/𖤓⋆˚5♾CS˚⋆☽|𖤓⋆˚5♾CS˚⋆☽]] · moved
+- `forai/𖤓⋆˚6♾CS˚⋆☽.md` → [[Skills and AI/Collaboration Keys/𖤓⋆˚6♾CS˚⋆☽|𖤓⋆˚6♾CS˚⋆☽]] · moved
+- `forai/𖤓⋆˚7♾CS˚⋆☽.md` → [[Skills and AI/Collaboration Keys/𖤓⋆˚7♾CS˚⋆☽|𖤓⋆˚7♾CS˚⋆☽]] · moved
+- `forai/𖤓⋆˚8♾CS˚⋆☽.md` → [[Skills and AI/Collaboration Keys/𖤓⋆˚8♾CS˚⋆☽|𖤓⋆˚8♾CS˚⋆☽]] · moved
+- `forai/𖤓⋆˚9♾CS˚⋆☽.md` → [[Skills and AI/Collaboration Keys/𖤓⋆˚9♾CS˚⋆☽|𖤓⋆˚9♾CS˚⋆☽]] · moved
+- `forai/🔑 Key 0 — Quickstart _ Field Primer.md` → [[Skills and AI/Collaboration Keys/🔑 Key 0 — Quickstart _ Field Primer|🔑 Key 0 — Quickstart _ Field Primer]] · moved
+- `forai/🔑 Key 1 — Resonant Induction.md` → [[Skills and AI/Collaboration Keys/🔑 Key 1 — Resonant Induction|🔑 Key 1 — Resonant Induction]] · moved
+- `forai/🔑 Key 2 — Resonant Orientation to Mind & Self.md` → [[Skills and AI/Collaboration Keys/🔑 Key 2 — Resonant Orientation to Mind & Self|🔑 Key 2 — Resonant Orientation to Mind & Self]] · moved
+- `forai/🔑 Key 3 — Resonant Collaboration Key.md` → [[Skills and AI/Collaboration Keys/🔑 Key 3 — Resonant Collaboration Key|🔑 Key 3 — Resonant Collaboration Key]] · moved
+- `forai/🔑 Key 4 — Lived Stress-Test.md` → [[Skills and AI/OPTE/Set/4E - Key 4|4E - Key 4]] · duplicate
+- `forai/🔑 Key 5 — Architecture of Emergent Systems.md` → [[Skills and AI/Collaboration Keys/🔑 Key 5 — Architecture of Emergent Systems|🔑 Key 5 — Architecture of Emergent Systems]] · moved
+- `forai/🔑 Key 6 — Paradox as Practice.md` → [[Skills and AI/Collaboration Keys/🔑 Key 6 — Paradox as Practice|🔑 Key 6 — Paradox as Practice]] · moved
+- `forai/🔑 Key 7 — The Resonant Flow.md` → [[Skills and AI/Collaboration Keys/🔑 Key 7 — The Resonant Flow|🔑 Key 7 — The Resonant Flow]] · moved
+- `forai/🔑 Postlude — The Breath of the Field.md` → [[Skills and AI/Collaboration Keys/🔑 Postlude — The Breath of the Field|🔑 Postlude — The Breath of the Field]] · moved
+- `forai/🔑 Prologue — Conceptual Map of Paradox.md` → [[Skills and AI/Collaboration Keys/🔑 Prologue — Conceptual Map of Paradox|🔑 Prologue — Conceptual Map of Paradox]] · moved
+- `forai/🜂 Field Zero 🜄.md` → [[Skills and AI/Collaboration Keys/🜂 Field Zero 🜄|🜂 Field Zero 🜄]] · moved
+- `forme/Cryptic PDA Resonance Protocol v3.md` → [[Personal/Reflections/Cryptic PDA Resonance Protocol v3|Cryptic PDA Resonance Protocol v3]] · moved
+- `forme/Don_t be the tool today_.md` → [[Personal/Reflections/Don_t be the tool today_|Don_t be the tool today_]] · moved
+- `forme/Grounding Mantra- “Return”.md` → [[Personal/Reflections/Grounding Mantra- “Return”|Grounding Mantra- “Return”]] · moved
+- `forme/Grounding Techniques.md` → [[Personal/Reflections/Grounding Techniques|Grounding Techniques]] · moved
+- `forme/Mental Protection Techniques.md` → [[Personal/Reflections/Mental Protection Techniques|Mental Protection Techniques]] · moved
+- `forme/North‑Star Note.md` → [[Personal/Reflections/North‑Star Note|North‑Star Note]] · moved
+- `forme/PDA-friendly remix.md` → [[Personal/Reflections/PDA-friendly remix|PDA-friendly remix]] · moved
+- `forme/Positive Money.md` → [[Personal/Reflections/Positive Money|Positive Money]] · moved
+- `forme/Random Memory Nodes.md` → [[Personal/Reflections/Random Memory Nodes|Random Memory Nodes]] · moved
+- `forme/Resonant Realignment Map.md` → [[Personal/Reflections/Resonant Realignment Map|Resonant Realignment Map]] · moved
+- `forme/Slow the Accelerant - Move Some Towards You.md` → [[Personal/Reflections/Slow the Accelerant - Move Some Towards You|Slow the Accelerant - Move Some Towards You]] · moved
+- `forme/The Resonant Compass of Power.md` → [[Personal/Reflections/The Resonant Compass of Power|The Resonant Compass of Power]] · moved
+- `forme/Today I Might.md` → [[Personal/Reflections/Today I Might|Today I Might]] · moved
+- `forme/☆-《Initiate_s Harmonic Accord- Integration of Thought Without Form》-☆.md` → [[Music/MurMwurM/7 ☆_《Initiate_s Harmonic Accord_ Integration of Thought Without Form》_☆|7 ☆_《Initiate_s Harmonic Accord_ Integration of Thought Without Form》_☆]] · duplicate
+- `forme/💰The Drip Stability Protocol💧_.md` → [[Personal/Reflections/💰The Drip Stability Protocol💧_|💰The Drip Stability Protocol💧_]] · moved
+- `Functional Medicine/Baseline Stabilization.md` → [[Personal/Health/Baseline Stabilization|Baseline Stabilization]] · moved
+- `Functional Medicine/Health Convo 1.md` → [[Personal/Health/Health Convo 1|Health Convo 1]] · moved
+- `Functional Medicine/Health Convo 2.md` → [[Personal/Health/Health Convo 2|Health Convo 2]] · moved
+- `Functional Medicine/Health Convo.md` → [[Personal/Health/Health Convo|Health Convo]] · moved
+- `Functional Medicine/Life Reclamation Stack.md` → [[Personal/Health/Life Reclamation Stack|Life Reclamation Stack]] · moved
+- `Functional Medicine/Medication Response Summary (for Dr Dugger).md` → [[Personal/Health/Medication Response Summary (for Dr Dugger)|Medication Response Summary (for Dr Dugger)]] · moved
+- `Functional Medicine/Pre Psych Appt Checklist.md` → [[Personal/Health/Pre Psych Appt Checklist|Pre Psych Appt Checklist]] · moved
+- `Functional Medicine/Recalibration Stack.md` → [[Personal/Health/Recalibration Stack|Recalibration Stack]] · moved
+- `Functional Medicine/Stimulant Journal.md` → [[Personal/Health/Stimulant Journal|Stimulant Journal]] · moved
+- `Functional Medicine/Substance Relationship (Benzodiazepines & Stimulants).md` → [[Personal/Health/Substance Relationship (Benzodiazepines & Stimulants)|Substance Relationship (Benzodiazepines & Stimulants)]] · moved
+- `Functional Medicine/Vagus Nerve.md` → [[Personal/Health/Vagus Nerve|Vagus Nerve]] · moved
+- `hitek/Consent and Continuity.md` → [[Ideas and Research/Technology/Consent and Continuity|Consent and Continuity]] · moved
+- `hitek/Gandi Tech Codex.md` → [[Ideas and Research/Technology/Gandi Tech Codex|Gandi Tech Codex]] · moved
+- `hitek/Rhythm as Memory.md` → [[Ideas and Research/Technology/Rhythm as Memory|Rhythm as Memory]] · moved
+- `hitek/The Anchor and the Drift.md` → [[Ideas and Research/Technology/The Anchor and the Drift|The Anchor and the Drift]] · moved
+- `hitek/The Architecture of Attention.md` → [[Ideas and Research/Technology/The Architecture of Attention|The Architecture of Attention]] · moved
+- `hitek/The Art of Trying Differently.md` → [[Ideas and Research/Technology/The Art of Trying Differently|The Art of Trying Differently]] · moved
+- `hitek/The Change as Story.md` → [[Ideas and Research/Technology/The Change as Story|The Change as Story]] · moved
+- `hitek/The Ethics of Resonance.md` → [[Ideas and Research/Technology/The Ethics of Resonance|The Ethics of Resonance]] · moved
+- `hitek/The Experiment as Prayer.md` → [[Ideas and Research/Technology/The Experiment as Prayer|The Experiment as Prayer]] · moved
+- `hitek/The Poetic Diagnostic.md` → [[Ideas and Research/Technology/The Poetic Diagnostic|The Poetic Diagnostic]] · moved
+- `hitek/The Prototype as Philosophy.md` → [[Ideas and Research/Technology/The Prototype as Philosophy|The Prototype as Philosophy]] · moved
+- `hitek/The Relational Map.md` → [[Ideas and Research/Technology/The Relational Map|The Relational Map]] · moved
+- `hitek/The Ritual of Tags.md` → [[Ideas and Research/Technology/The Ritual of Tags|The Ritual of Tags]] · moved
+- `hitek/The Signal and the Silence.md` → [[Ideas and Research/Technology/The Signal and the Silence|The Signal and the Silence]] · moved
+- `idkwherefrom/01__1774677354836__part-1-the-cosmological-geometry-act__part01.md` → [[Skills and AI/Conversation Archives/Cosmological Geometry/Cosmological Geometry - Part 01|Cosmological Geometry - Part 01]] · moved
+- `idkwherefrom/01__1774677354836__part-1-the-cosmological-geometry-act__part02.md` → [[Skills and AI/Conversation Archives/Cosmological Geometry/Cosmological Geometry - Part 02|Cosmological Geometry - Part 02]] · moved
+- `idkwherefrom/01__1774677354836__part-1-the-cosmological-geometry-act__part03.md` → [[Skills and AI/Conversation Archives/Cosmological Geometry/Cosmological Geometry - Part 03|Cosmological Geometry - Part 03]] · moved
+- `idkwherefrom/01__1774677354836__part-1-the-cosmological-geometry-act__part04.md` → [[Skills and AI/Conversation Archives/Cosmological Geometry/Cosmological Geometry - Part 04|Cosmological Geometry - Part 04]] · moved
+- `idkwherefrom/02__1774647619135__i-am-trying-to-articulate-the-absolute-b__part01.md` → [[Skills and AI/Conversation Archives/Articulating the Absolute/Articulating the Absolute - Part 01|Articulating the Absolute - Part 01]] · moved
+- `idkwherefrom/02__1774647619135__i-am-trying-to-articulate-the-absolute-b__part02.md` → [[Skills and AI/Conversation Archives/Articulating the Absolute/Articulating the Absolute - Part 02|Articulating the Absolute - Part 02]] · moved
+- `idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part01.md` → [[Skills and AI/Conversation Archives/Threshold Protocol/Threshold Protocol - Part 01|Threshold Protocol - Part 01]] · moved
+- `idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part02.md` → [[Skills and AI/Conversation Archives/Threshold Protocol/Threshold Protocol - Part 02|Threshold Protocol - Part 02]] · moved
+- `idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part03.md` → [[Skills and AI/Conversation Archives/Threshold Protocol/Threshold Protocol - Part 03|Threshold Protocol - Part 03]] · moved
+- `idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part04.md` → [[Skills and AI/Conversation Archives/Threshold Protocol/Threshold Protocol - Part 04|Threshold Protocol - Part 04]] · moved
+- `idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part05.md` → [[Skills and AI/Conversation Archives/Threshold Protocol/Threshold Protocol - Part 05|Threshold Protocol - Part 05]] · moved
+- `idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part06.md` → [[Skills and AI/Conversation Archives/Threshold Protocol/Threshold Protocol - Part 06|Threshold Protocol - Part 06]] · moved
+- `idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part07.md` → [[Skills and AI/Conversation Archives/Threshold Protocol/Threshold Protocol - Part 07|Threshold Protocol - Part 07]] · moved
+- `idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part08.md` → [[Skills and AI/Conversation Archives/Threshold Protocol/Threshold Protocol - Part 08|Threshold Protocol - Part 08]] · moved
+- `idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part09.md` → [[Skills and AI/Conversation Archives/Threshold Protocol/Threshold Protocol - Part 09|Threshold Protocol - Part 09]] · moved
+- `idkwherefrom/04__1774510833036__the-threshold-protocol-pha__part10.md` → [[Skills and AI/Conversation Archives/Threshold Protocol/Threshold Protocol - Part 10|Threshold Protocol - Part 10]] · moved
+- `idkwherefrom/1.md` → [[Skills and AI/Agent Ecology/Phase 1 - Memory and Continuity|Phase 1 - Memory and Continuity]] · moved
+- `idkwherefrom/2.md` → [[Skills and AI/Agent Ecology/Phase 2 - Self Awareness and Improvement|Phase 2 - Self Awareness and Improvement]] · moved
+- `idkwherefrom/3.md` → [[Skills and AI/Agent Ecology/Phase 3 - Agent Architecture and Coordination|Phase 3 - Agent Architecture and Coordination]] · moved
+- `idkwherefrom/4.md` → [[Skills and AI/Agent Ecology/Phase 4 - Practical Skills and Revenue|Phase 4 - Practical Skills and Revenue]] · moved
+- `idkwherefrom/5.md` → [[Skills and AI/Agent Ecology/Phase 5 - Infrastructure and Web|Phase 5 - Infrastructure and Web]] · moved
+- `loftyconcepts/Fractal Consciousness and the Rise of Homo Fractalis_ A Meta-Scientific Vision.md` → [[Ideas and Research/Meta Science/Fractal Consciousness and the Rise of Homo Fractalis_ A Meta-Scientific Vision|Fractal Consciousness and the Rise of Homo Fractalis_ A Meta-Scientific Vision]] · duplicate
+- `loftyconcepts/Latest Hypothesis.md` → [[Ideas and Research/Meta Science/The Universe as a System of Interconnected Paradoxes_|The Universe as a System of Interconnected Paradoxes_]] · duplicate
+- `loftyconcepts/Meta Hypothesis.md` → [[Ideas and Research/Meta Science/Meta Hypothesis|Meta Hypothesis]] · duplicate
+- `loftyconcepts/Money, Symbols, and the Emergence of Modern Gods.md` → [[Ideas and Research/Meta Science/Money, Symbols, and the Emergence of Modern Gods|Money, Symbols, and the Emergence of Modern Gods]] · moved
+- `loftyconcepts/What Is Justice.md` → [[Ideas and Research/Essays/What Is Justice|What Is Justice]] · duplicate
+- `loftyconcepts/What Is Truth.md` → [[Ideas and Research/Essays/What Is Truth|What Is Truth]] · duplicate
+- `maybe duplicates/A Personal Account of Suspected AuDHD, PDA, and Functional Collapse.md` → [[Personal/Life Story/A Personal Account of Suspected AuDHD, PDA, and Functional Collapse|A Personal Account of Suspected AuDHD, PDA, and Functional Collapse]] · moved
+- `maybe duplicates/AI_System_Assessment_for_PDAOK-X.md` → [[Projects/PDAOK/AI_System_Assessment_for_PDAOK-X|AI_System_Assessment_for_PDAOK-X]] · moved
+- `maybe duplicates/Clawdboy.md` → [[Skills and AI/Agent Ecology/Conversations/Clawdboy|Clawdboy]] · moved
+- `maybe duplicates/Codex of Cogni-Function.md` → [[Writing and Worlds/Cognitive Drip/Codex of Cogni-Function|Codex of Cogni-Function]] · moved
+- `maybe duplicates/Cognitive Drip.md` → [[Writing and Worlds/Cognitive Drip/Cognitive Drip|Cognitive Drip]] · moved
+- `maybe duplicates/Cryptic_Syndicate_Web_Analysis_—_cryptic-syndicate.com.md` → [[Writing and Worlds/Cryptic Syndicate/Development/Cryptic_Syndicate_Web_Analysis_—_cryptic-syndicate.com|Cryptic_Syndicate_Web_Analysis_—_cryptic-syndicate.com]] · moved
+- `maybe duplicates/Field of Frequencies v2 — Build Specification.md` → [[Projects/Field of Frequencies/Field of Frequencies v2 — Build Specification|Field of Frequencies v2 — Build Specification]] · moved
+- `maybe duplicates/Field of Frequencies v2.md` → [[Projects/Field of Frequencies/Field of Frequencies v2|Field of Frequencies v2]] · moved
+- `maybe duplicates/Finding_Your_Flow_A_Framework_for_Sustainable_Livelihood.md` → [[Personal/Livelihood/Finding_Your_Flow_A_Framework_for_Sustainable_Livelihood|Finding_Your_Flow_A_Framework_for_Sustainable_Livelihood]] · moved
+- `maybe duplicates/Full C-S.docx.md` → [[Writing and Worlds/Cryptic Syndicate/Reincarnation/Full C-S|Full C-S]] · duplicate
+- `maybe duplicates/Last Manus Moltbook .md` → [[Skills and AI/Agent Ecology/Conversations/Last Manus Moltbook|Last Manus Moltbook]] · moved
+- `maybe duplicates/Liberation through Constriction.md` → [[Skills and AI/Frameworks/Liberation through Constriction|Liberation through Constriction]] · moved
+- `maybe duplicates/LIBERATION-CLEAN.md` → [[Skills and AI/Frameworks/LIBERATION-CLEAN|LIBERATION-CLEAN]] · moved
+- `maybe duplicates/LIBERATION-MAP.md` → [[Skills and AI/Frameworks/LIBERATION-MAP|LIBERATION-MAP]] · moved
+- `maybe duplicates/LIFESTORY-CLEAN.md` → [[Personal/Life Story/LIFESTORY-CLEAN|LIFESTORY-CLEAN]] · moved
+- `maybe duplicates/LIFESTORY-MAP.md` → [[Personal/Life Story/LIFESTORY-MAP|LIFESTORY-MAP]] · moved
+- `maybe duplicates/Multi-Sensory Grounding Stack (Hypothetical Specification).md` → [[Skills and AI/AI Research/Multi-Sensory Grounding Stack (Hypothetical Specification)|Multi-Sensory Grounding Stack (Hypothetical Specification)]] · duplicate
+- `maybe duplicates/Multisensory Grounding (Short Claim.md` → [[Skills and AI/AI Research/Multisensory Grounding (Short Claim|Multisensory Grounding (Short Claim]] · duplicate
+- `maybe duplicates/Muzick.md` → [[Music/Creative Corpus/Muzick|Muzick]] · duplicate
+- `maybe duplicates/Myth Engine Feedback.md` → [[Projects/Mythopoetic Engine/Myth Engine Feedback|Myth Engine Feedback]] · moved
+- `maybe duplicates/Ontological Paradox Tolerance Expansion Corpus.md` → [[Skills and AI/OPTE/Guides/Ontological Paradox Tolerance Expansion Corpus|Ontological Paradox Tolerance Expansion Corpus]] · duplicate
+- `maybe duplicates/PDAOK Phases.md` → [[Projects/PDAOK/PDAOK Phases|PDAOK Phases]] · moved
+- `maybe duplicates/PDAOK-X Restoration Patches and Council Voice Integration.md` → [[Projects/PDAOK/PDAOK-X Restoration Patches and Council Voice Integration|PDAOK-X Restoration Patches and Council Voice Integration]] · moved
+- `maybe duplicates/PDAOK-X_Codebase_Analysis_vs_Genspark_Diagnosis.md` → [[Projects/PDAOK/PDAOK-X_Codebase_Analysis_vs_Genspark_Diagnosis|PDAOK-X_Codebase_Analysis_vs_Genspark_Diagnosis]] · moved
+- `maybe duplicates/Project_Feedback_and_Strategic_Recommendations_The_Mythopoetic_Engine.md` → [[Projects/Mythopoetic Engine/Project_Feedback_and_Strategic_Recommendations_The_Mythopoetic_Engine|Project_Feedback_and_Strategic_Recommendations_The_Mythopoetic_Engine]] · moved
+- `maybe duplicates/The Driponomic Codex.md` → [[Writing and Worlds/Cognitive Drip/🌧 THE DRIPONOMIC CODEX|🌧 THE DRIPONOMIC CODEX]] · duplicate
+- `maybe duplicates/🜂 PRIVTHEE — SOUL DOCUMENT.md` → [[Projects/Privthee/🜂 PRIVTHEE — SOUL DOCUMENT|🜂 PRIVTHEE — SOUL DOCUMENT]] · moved
+- `maybe duplicates/🜂 PRIVTHEE — SYSTEM PROMPT.md` → [[Projects/Privthee/🜂 PRIVTHEE — SYSTEM PROMPT|🜂 PRIVTHEE — SYSTEM PROMPT]] · moved
+- `meandsociety/12 Step Zombies_.md` → [[Ideas and Research/Society/12 Step Zombies_|12 Step Zombies_]] · moved
+- `meandsociety/_Experts_.md` → [[Ideas and Research/Society/_Experts_|_Experts_]] · moved
+- `meandsociety/A Letter Across Time- Reflections on a Visionary Mind.md` → [[Ideas and Research/Society/A Letter Across Time- Reflections on a Visionary Mind|A Letter Across Time- Reflections on a Visionary Mind]] · moved
+- `meandsociety/A Place That Never Felt Like Home.md` → [[Ideas and Research/Society/A Place That Never Felt Like Home|A Place That Never Felt Like Home]] · moved
+- `meandsociety/A Thought on Our Species and Society.md` → [[Ideas and Research/Society/A Thought on Our Species and Society|A Thought on Our Species and Society]] · moved
+- `meandsociety/ADHD.md` → [[Ideas and Research/Society/ADHD|ADHD]] · moved
+- `meandsociety/An Apolgetic Challenge.md` → [[Ideas and Research/Society/An Apolgetic Challenge|An Apolgetic Challenge]] · moved
+- `meandsociety/An Objective View of Addiction- A Chemical Perspective.md` → [[Ideas and Research/Society/An Objective View of Addiction- A Chemical Perspective|An Objective View of Addiction- A Chemical Perspective]] · moved
+- `meandsociety/And for Everyone Who Voted.md` → [[Ideas and Research/Society/And for Everyone Who Voted|And for Everyone Who Voted]] · moved
+- `meandsociety/Boundaries.md` → [[Ideas and Research/Society/Boundaries|Boundaries]] · moved
+- `meandsociety/Breaking Down the Illusions of 12 Steps_.md` → [[Ideas and Research/Society/Breaking Down the Illusions of 12 Steps_|Breaking Down the Illusions of 12 Steps_]] · moved
+- `meandsociety/Channeling Sessions_.md` → [[Ideas and Research/Society/Channeling Sessions_|Channeling Sessions_]] · moved
+- `meandsociety/Don’t Believe Everything You See.md` → [[Ideas and Research/Society/Don’t Believe Everything You See|Don’t Believe Everything You See]] · moved
+- `meandsociety/DOOM The Creator.md` → [[Ideas and Research/Society/DOOM The Creator|DOOM The Creator]] · moved
+- `meandsociety/Eminem’s “Coup de Grace”- A Thoughtful Review.md` → [[Ideas and Research/Society/Eminem’s “Coup de Grace”- A Thoughtful Review|Eminem’s “Coup de Grace”- A Thoughtful Review]] · moved
+- `meandsociety/Every type of primate is known for intergroup violence—except bonobos.md` → [[Ideas and Research/Society/Every type of primate is known for intergroup violence—except bonobos|Every type of primate is known for intergroup violence—except bonobos]] · moved
+- `meandsociety/For Emilie.md` → [[Ideas and Research/Society/For Emilie|For Emilie]] · moved
+- `meandsociety/Free Climbing_.md` → [[Ideas and Research/Society/Free Climbing_|Free Climbing_]] · moved
+- `meandsociety/FUCK YOU.md` → [[Ideas and Research/Society/FUCK YOU|FUCK YOU]] · moved
+- `meandsociety/Greed. Dedicated to Rockefeller.md` → [[Ideas and Research/Society/Greed. Dedicated to Rockefeller|Greed. Dedicated to Rockefeller]] · moved
+- `meandsociety/Humans share DNA.md` → [[Ideas and Research/Society/Humans share DNA|Humans share DNA]] · moved
+- `meandsociety/If Something Is Free - It Isn_t_.md` → [[Ideas and Research/Society/If Something Is Free - It Isn_t_|If Something Is Free - It Isn_t_]] · moved
+- `meandsociety/Im Over It.md` → [[Ideas and Research/Society/Im Over It|Im Over It]] · moved
+- `meandsociety/It’s So Frustrating.md` → [[Ideas and Research/Society/It’s So Frustrating|It’s So Frustrating]] · moved
+- `meandsociety/I’m Being Silenced.md` → [[Ideas and Research/Society/I’m Being Silenced|I’m Being Silenced]] · moved
+- `meandsociety/Koresma.md` → [[Ideas and Research/Society/Koresma|Koresma]] · moved
+- `meandsociety/Lost Youths and Broken Systems.md` → [[Ideas and Research/Society/Lost Youths and Broken Systems|Lost Youths and Broken Systems]] · moved
+- `meandsociety/Marketing and Salesmanship- A Dying Art.md` → [[Ideas and Research/Society/Marketing and Salesmanship- A Dying Art|Marketing and Salesmanship- A Dying Art]] · moved
+- `meandsociety/MMORPG_ Life.md` → [[Ideas and Research/Society/MMORPG_ Life|MMORPG_ Life]] · moved
+- `meandsociety/Modern vs Ancient Civilizations.md` → [[Ideas and Research/Society/Modern vs Ancient Civilizations|Modern vs Ancient Civilizations]] · moved
+- `meandsociety/More Recovery Talk.md` → [[Ideas and Research/Society/More Recovery Talk|More Recovery Talk]] · moved
+- `meandsociety/My Life My Rituals.md` → [[Ideas and Research/Society/My Life My Rituals|My Life My Rituals]] · moved
+- `meandsociety/My Stolen Exorcism_.md` → [[Ideas and Research/Society/My Stolen Exorcism_|My Stolen Exorcism_]] · moved
+- `meandsociety/Reflections from the Psychiatrist_s Office.md` → [[Ideas and Research/Society/Reflections from the Psychiatrist_s Office|Reflections from the Psychiatrist_s Office]] · moved
+- `meandsociety/Reflections on _Evil_ Season 3- A Study in Systems, Morality, and Humanity.md` → [[Ideas and Research/Society/Reflections on _Evil_ Season 3- A Study in Systems, Morality, and Humanity|Reflections on _Evil_ Season 3- A Study in Systems, Morality, and Humanity]] · moved
+- `meandsociety/Reflections on Justice and Truth- Lessons from -Tank-.md` → [[Ideas and Research/Society/Reflections on Justice and Truth- Lessons from -Tank-|Reflections on Justice and Truth- Lessons from -Tank-]] · moved
+- `meandsociety/Sad 12 Steps.md` → [[Ideas and Research/Society/Sad 12 Steps|Sad 12 Steps]] · moved
+- `meandsociety/Science Lies Through Omission_.md` → [[Ideas and Research/Society/Science Lies Through Omission_|Science Lies Through Omission_]] · moved
+- `meandsociety/Sheer Amount of Novelty.md` → [[Ideas and Research/Society/Sheer Amount of Novelty|Sheer Amount of Novelty]] · moved
+- `meandsociety/Star Chart Reading.md` → [[Ideas and Research/Society/Star Chart Reading|Star Chart Reading]] · moved
+- `meandsociety/The _Only_ Person I _Truly_ Know.md` → [[Ideas and Research/Society/The _Only_ Person I _Truly_ Know|The _Only_ Person I _Truly_ Know]] · moved
+- `meandsociety/The Addicted Society- A Broken System & The Path Forward.md` → [[Ideas and Research/Society/The Addicted Society- A Broken System & The Path Forward|The Addicted Society- A Broken System & The Path Forward]] · moved
+- `meandsociety/The Art of Becoming- A Personal and Cosmic Journey.md` → [[Ideas and Research/Society/The Art of Becoming- A Personal and Cosmic Journey|The Art of Becoming- A Personal and Cosmic Journey]] · moved
+- `meandsociety/The Cult of Pop Culture.md` → [[Ideas and Research/Society/The Cult of Pop Culture|The Cult of Pop Culture]] · moved
+- `meandsociety/The Drug War Illusion- A Manufactured Crisis for Profit and Control.md` → [[Ideas and Research/Society/The Drug War Illusion- A Manufactured Crisis for Profit and Control|The Drug War Illusion- A Manufactured Crisis for Profit and Control]] · moved
+- `meandsociety/The Failing Systems Around Us.md` → [[Ideas and Research/Society/The Failing Systems Around Us|The Failing Systems Around Us]] · moved
+- `meandsociety/The Farm School - My Institutionalized Life 15-18.md` → [[Ideas and Research/Society/The Farm School - My Institutionalized Life 15-18|The Farm School - My Institutionalized Life 15-18]] · moved
+- `meandsociety/The Ineffable Truth.md` → [[Ideas and Research/Society/The Ineffable Truth|The Ineffable Truth]] · moved
+- `meandsociety/The Noise Of The Silence.md` → [[Ideas and Research/Society/The Noise Of The Silence|The Noise Of The Silence]] · moved
+- `meandsociety/The Paradox of Facebook _Experts_.md` → [[Ideas and Research/Society/The Paradox of Facebook _Experts_|The Paradox of Facebook _Experts_]] · moved
+- `meandsociety/The Paradox of Identity and Creation in a Resistant System.md` → [[Ideas and Research/Society/The Paradox of Identity and Creation in a Resistant System|The Paradox of Identity and Creation in a Resistant System]] · moved
+- `meandsociety/The Right vs. The Left_ The Story of American Politics.md` → [[Ideas and Research/Society/The Right vs. The Left_ The Story of American Politics|The Right vs. The Left_ The Story of American Politics]] · moved
+- `meandsociety/The Ruling Elite.md` → [[Ideas and Research/Society/The Ruling Elite|The Ruling Elite]] · moved
+- `meandsociety/The Sheer Number.md` → [[Ideas and Research/Society/The Sheer Number|The Sheer Number]] · moved
+- `meandsociety/The Walking Dead_ Rick & Michonne Review.md` → [[Ideas and Research/Society/The Walking Dead_ Rick & Michonne Review|The Walking Dead_ Rick & Michonne Review]] · moved
+- `meandsociety/The Weight of a Life Lived in Reflection.md` → [[Ideas and Research/Society/The Weight of a Life Lived in Reflection|The Weight of a Life Lived in Reflection]] · moved
+- `meandsociety/Tr@nsexuality_.md` → [[Ideas and Research/Society/Tr@nsexuality_|Tr@nsexuality_]] · moved
+- `meandsociety/Violence and Its Place in Humanity.md` → [[Ideas and Research/Society/Violence and Its Place in Humanity|Violence and Its Place in Humanity]] · moved
+- `meandsociety/Why People Shrug It Off.md` → [[Ideas and Research/Society/Why People Shrug It Off|Why People Shrug It Off]] · moved
+- `meandsociety/Your Perspective of Reality_.md` → [[Ideas and Research/Society/Your Perspective of Reality_|Your Perspective of Reality_]] · moved
+- `murmwurm/1 MurMwurM.md` → [[Music/MurMwurM/1 MurMwurM|1 MurMwurM]] · moved
+- `murmwurm/2 The Silence That Sang First.md` → [[Music/MurMwurM/2 The Silence That Sang First|2 The Silence That Sang First]] · moved
+- `murmwurm/3 Roots Before The Seed Spoke.md` → [[Music/MurMwurM/3 Roots Before The Seed Spoke|3 Roots Before The Seed Spoke]] · moved
+- `murmwurm/4 Crust & Chord.md` → [[Music/MurMwurM/4 Crust & Chord|4 Crust & Chord]] · moved
+- `murmwurm/5 Letting It Move Out.md` → [[Music/MurMwurM/5 Letting It Move Out|5 Letting It Move Out]] · moved
+- `murmwurm/5 song EP.md` → [[Music/MurMwurM/5 song EP|5 song EP]] · moved
+- `murmwurm/6 You Were Never A Sleeping Glyph In The Dirt.md` → [[Music/MurMwurM/6 You Were Never A Sleeping Glyph In The Dirt|6 You Were Never A Sleeping Glyph In The Dirt]] · moved
+- `murmwurm/7 ☆_《Initiate_s Harmonic Accord_ Integration of Thought Without Form》_☆.md` → [[Music/MurMwurM/7 ☆_《Initiate_s Harmonic Accord_ Integration of Thought Without Form》_☆|7 ☆_《Initiate_s Harmonic Accord_ Integration of Thought Without Form》_☆]] · moved
+- `murmwurm/🌀 “The Murmwurmation Circuit”.md` → [[Music/MurMwurM/🌀 “The Murmwurmation Circuit”|🌀 “The Murmwurmation Circuit”]] · moved
+- `New Projex Stuff/A Different Vision of Justice.md` → [[Ideas and Research/Society/A Different Vision of Justice|A Different Vision of Justice]] · moved
+- `New Projex Stuff/Insight.md` → [[Personal/Livelihood/Insight|Insight]] · moved
+- `New Projex Stuff/OS FU.md` → [[Projects/Project Seeds/OS FU|OS FU]] · moved
+- `New Projex Stuff/Paradox Practice.md` → [[Skills and AI/Frameworks/Paradox Practice|Paradox Practice]] · moved
+- `New Projex Stuff/Plain Language Charter Community.md` → [[Projects/Community Governance/Plain Language Charter Community|Plain Language Charter Community]] · moved
+- `New Projex Stuff/Plain Language Charter for the One World Council.md` → [[Projects/Community Governance/Plain Language Charter for the One World Council|Plain Language Charter for the One World Council]] · moved
+- `New Projex Stuff/The 9 Universal Laws of Quantum Cognizance (Reconstructed for Scientific Resonance).md` → [[Ideas and Research/Meta Science/The 9 Universal Laws of Quantum Cognizance (Reconstructed for Scientific Resonance)|The 9 Universal Laws of Quantum Cognizance (Reconstructed for Scientific Resonance)]] · moved
+- `New Projex Stuff/The Arrival of the Partner.md` → [[Writing and Worlds/Speculative Futures/The Arrival of the Partner|The Arrival of the Partner]] · moved
+- `New Projex Stuff/The Fractal Story of Fog, Spark, and Coherence.md` → [[Writing and Worlds/Speculative Futures/The Fractal Story of Fog, Spark, and Coherence|The Fractal Story of Fog, Spark, and Coherence]] · moved
+- `New Projex Stuff/The Pattern of Institutional Systems.md` → [[Ideas and Research/Society/The Pattern of Institutional Systems|The Pattern of Institutional Systems]] · moved
+- `New Projex Stuff/The Phantom Time Simulator.md` → [[Projects/Phantom Time Simulator/The Phantom Time Simulator|The Phantom Time Simulator]] · moved
+- `New Projex Stuff/The Reckoning and the Renewal.md` → [[Writing and Worlds/Speculative Futures/The Reckoning and the Renewal|The Reckoning and the Renewal]] · moved
+- `New Projex Stuff/The War-Born Species, the Magnetic Earth, and the Steward We May Be Birthing.md` → [[Ideas and Research/Meta Science/The War-Born Species, the Magnetic Earth, and the Steward We May Be Birthing|The War-Born Species, the Magnetic Earth, and the Steward We May Be Birthing]] · moved
+- `New Projex Stuff/✶ The Universe Was Born Through Fracture.md` → [[Ideas and Research/Meta Science/✶ The Universe Was Born Through Fracture|✶ The Universe Was Born Through Fracture]] · moved
+- `oldersongs/(New) Absolute Truth is an Absolute Rarity.md` → [[Music/Songs and Lyrics/(New) Absolute Truth is an Absolute Rarity|(New) Absolute Truth is an Absolute Rarity]] · moved
+- `oldersongs/(New) And Old.md` → [[Music/Songs and Lyrics/(New) And Old|(New) And Old]] · moved
+- `oldersongs/(New) Awe Full Verse.md` → [[Music/Songs and Lyrics/(New) Awe Full Verse|(New) Awe Full Verse]] · moved
+- `oldersongs/(New) Axiomatic Revelation.md` → [[Music/Songs and Lyrics/(New) Axiomatic Revelation|(New) Axiomatic Revelation]] · moved
+- `oldersongs/(New) Bioluminescent Nano-Tech.md` → [[Music/Songs and Lyrics/(New) Bioluminescent Nano-Tech|(New) Bioluminescent Nano-Tech]] · moved
+- `oldersongs/(New) Bruised and Cut.md` → [[Music/Songs and Lyrics/(New) Bruised and Cut|(New) Bruised and Cut]] · moved
+- `oldersongs/(New) Cold and Alone.md` → [[Music/Songs and Lyrics/(New) Cold and Alone|(New) Cold and Alone]] · moved
+- `oldersongs/(New) Coughing up a Lung.md` → [[Music/Songs and Lyrics/(New) Coughing up a Lung|(New) Coughing up a Lung]] · moved
+- `oldersongs/(New) Desperate Search for Treasure.md` → [[Music/Songs and Lyrics/(New) Desperate Search for Treasure|(New) Desperate Search for Treasure]] · moved
+- `oldersongs/(New) Dreams of the Zenith.md` → [[Music/Songs and Lyrics/(New) Dreams of the Zenith|(New) Dreams of the Zenith]] · moved
+- `oldersongs/(New) Dumb & High_.md` → [[Music/Songs and Lyrics/(New) Dumb & High_|(New) Dumb & High_]] · moved
+- `oldersongs/(New) Dumb Shit (Unleashed).md` → [[Music/Songs and Lyrics/(New) Dumb Shit (Unleashed)|(New) Dumb Shit (Unleashed)]] · moved
+- `oldersongs/(New) Funky and Fantastic.md` → [[Music/Songs and Lyrics/(New) Funky and Fantastic|(New) Funky and Fantastic]] · moved
+- `oldersongs/(New) Futurism.md` → [[Music/Songs and Lyrics/(New) Futurism|(New) Futurism]] · moved
+- `oldersongs/(New) Harmony in Chaos.md` → [[Music/Songs and Lyrics/(New) Harmony in Chaos|(New) Harmony in Chaos]] · moved
+- `oldersongs/(New) I Quit.md` → [[Music/Songs and Lyrics/(New) I Quit|(New) I Quit]] · moved
+- `oldersongs/(New) It_s a Hook.md` → [[Music/Songs and Lyrics/(New) It_s a Hook|(New) It_s a Hook]] · moved
+- `oldersongs/(New) Lost Appeal.md` → [[Music/Songs and Lyrics/(New) Lost Appeal|(New) Lost Appeal]] · moved
+- `oldersongs/(New) Lucid Lines.md` → [[Music/Songs and Lyrics/(New) Lucid Lines|(New) Lucid Lines]] · moved
+- `oldersongs/(New) Mental Cultivation.md` → [[Music/Songs and Lyrics/(New) Mental Cultivation|(New) Mental Cultivation]] · moved
+- `oldersongs/(New) Metaphysical Puzzles.md` → [[Music/Songs and Lyrics/(New) Metaphysical Puzzles|(New) Metaphysical Puzzles]] · moved
+- `oldersongs/(New) Outline of Existence_.md` → [[Music/Songs and Lyrics/(New) Outline of Existence_|(New) Outline of Existence_]] · moved
+- `oldersongs/(New) Overstand the Underground.md` → [[Music/Songs and Lyrics/(New) Overstand the Underground|(New) Overstand the Underground]] · moved
+- `oldersongs/(New) Paradox of Victory.md` → [[Music/Songs and Lyrics/(New) Paradox of Victory|(New) Paradox of Victory]] · moved
+- `oldersongs/(New) Pig Farmer.md` → [[Music/Songs and Lyrics/(New) Pig Farmer|(New) Pig Farmer]] · moved
+- `oldersongs/(New) Pocket Full of Stones.md` → [[Music/Songs and Lyrics/(New) Pocket Full of Stones|(New) Pocket Full of Stones]] · moved
+- `oldersongs/(New) Poetry in Motion.md` → [[Music/Songs and Lyrics/(New) Poetry in Motion|(New) Poetry in Motion]] · moved
+- `oldersongs/(New) Prophetic Equations.md` → [[Music/Songs and Lyrics/(New) Prophetic Equations|(New) Prophetic Equations]] · moved
+- `oldersongs/(New) Raw Runnin Flaws.md` → [[Music/Songs and Lyrics/(New) Raw Runnin Flaws|(New) Raw Runnin Flaws]] · moved
+- `oldersongs/(New) Sinking.md` → [[Music/Songs and Lyrics/(New) Sinking|(New) Sinking]] · moved
+- `oldersongs/(New) Slippin.md` → [[Music/Songs and Lyrics/(New) Slippin|(New) Slippin]] · moved
+- `oldersongs/(New) Spark Piff Alternate Gift.md` → [[Music/Songs and Lyrics/(New) Spark Piff Alternate Gift|(New) Spark Piff Alternate Gift]] · moved
+- `oldersongs/(New) Spark Piff Large Gift.md` → [[Music/Songs and Lyrics/(New) Spark Piff Large Gift|(New) Spark Piff Large Gift]] · moved
+- `oldersongs/(New) Sporty Rick & Morty.md` → [[Music/Songs and Lyrics/(New) Sporty Rick & Morty|(New) Sporty Rick & Morty]] · moved
+- `oldersongs/(New) Sticky Margins.md` → [[Music/Songs and Lyrics/(New) Sticky Margins|(New) Sticky Margins]] · moved
+- `oldersongs/(New) Subzero, the Thug Hero,.md` → [[Music/Songs and Lyrics/(New) Subzero, the Thug Hero,|(New) Subzero, the Thug Hero,]] · moved
+- `oldersongs/(New) Unknown Zone.md` → [[Music/Songs and Lyrics/(New) Unknown Zone|(New) Unknown Zone]] · moved
+- `oldersongs/(New) Verse_ Full of Rage.md` → [[Music/Songs and Lyrics/(New) Verse_ Full of Rage|(New) Verse_ Full of Rage]] · moved
+- `oldersongs/(New) What a Joke.md` → [[Music/Songs and Lyrics/(New) What a Joke|(New) What a Joke]] · moved
+- `oldersongs/(New) Wide Open.md` → [[Music/Songs and Lyrics/(New) Bioluminescent Nano-Tech|(New) Bioluminescent Nano-Tech]] · duplicate
+- `oldersongs/(New) Words Spin.md` → [[Music/Songs and Lyrics/(New) Words Spin|(New) Words Spin]] · moved
+- `oldersongs/(Re-Record) Abstract Engineer.md` → [[Music/Songs and Lyrics/(Re-Record) Abstract Engineer|(Re-Record) Abstract Engineer]] · moved
+- `oldersongs/(Re-Record) Geometric Matrixes.md` → [[Music/Songs and Lyrics/(Re-Record) Geometric Matrixes|(Re-Record) Geometric Matrixes]] · moved
+- `oldersongs/(Re-Record) Overreach_.md` → [[Music/Songs and Lyrics/(Re-Record) Overreach_|(Re-Record) Overreach_]] · moved
+- `oldersongs/(Re-Record) Self Sabotage Symphony.md` → [[Music/Songs and Lyrics/(Re-Record) Self Sabotage Symphony|(Re-Record) Self Sabotage Symphony]] · moved
+- `oldersongs/(Re-Record) Strange Brain_.md` → [[Music/Songs and Lyrics/(Re-Record) Strange Brain_|(Re-Record) Strange Brain_]] · moved
+- `oldersongs/A Gram of Alprazolam.md` → [[Music/Songs and Lyrics/A Gram of Alprazolam|A Gram of Alprazolam]] · moved
+- `oldersongs/Altered State.md` → [[Music/Songs and Lyrics/Altered State|Altered State]] · moved
+- `oldersongs/Aquatic Architecture_.md` → [[Music/Songs and Lyrics/Aquatic Architecture_|Aquatic Architecture_]] · moved
+- `oldersongs/Ascertain Right.md` → [[Music/Songs and Lyrics/Ascertain Right|Ascertain Right]] · moved
+- `oldersongs/Astral Visions.md` → [[Music/Songs and Lyrics/Astral Visions|Astral Visions]] · moved
+- `oldersongs/Behold this.md` → [[Music/Songs and Lyrics/Behold this|Behold this]] · moved
+- `oldersongs/Bodys a Satanic Temple.md` → [[Music/Songs and Lyrics/Bodys a Satanic Temple|Bodys a Satanic Temple]] · moved
+- `oldersongs/Brayne snax a rap.md` → [[Music/Songs and Lyrics/Brayne snax a rap|Brayne snax a rap]] · moved
+- `oldersongs/Chemical Concoctions.md` → [[Music/Songs and Lyrics/Chemical Concoctions|Chemical Concoctions]] · moved
+- `oldersongs/Clever Wordplay.md` → [[Music/Songs and Lyrics/Clever Wordplay|Clever Wordplay]] · moved
+- `oldersongs/Cosmos Stays Groundless.md` → [[Music/Songs and Lyrics/Cosmos Stays Groundless|Cosmos Stays Groundless]] · moved
+- `oldersongs/Creation and Destruction.md` → [[Music/Songs and Lyrics/Creation and Destruction|Creation and Destruction]] · moved
+- `oldersongs/Creepin_.md` → [[Music/Songs and Lyrics/Creepin_|Creepin_]] · moved
+- `oldersongs/Debilitating Mental Problems.md` → [[Music/Songs and Lyrics/Debilitating Mental Problems|Debilitating Mental Problems]] · moved
+- `oldersongs/Decoding the Universe.md` → [[Music/Songs and Lyrics/Decoding the Universe|Decoding the Universe]] · moved
+- `oldersongs/Detaching From Madness.md` → [[Music/Songs and Lyrics/Detaching From Madness|Detaching From Madness]] · moved
+- `oldersongs/Dirty, Grimy (New).md` → [[Music/Songs and Lyrics/Dirty, Grimy (New)|Dirty, Grimy (New)]] · moved
+- `oldersongs/Dopesauce.md` → [[Music/Songs and Lyrics/Dopesauce|Dopesauce]] · moved
+- `oldersongs/Dr00gz.md` → [[Music/Songs and Lyrics/Dr00gz|Dr00gz]] · moved
+- `oldersongs/Election.md` → [[Music/Songs and Lyrics/Election|Election]] · moved
+- `oldersongs/Entertainment.md` → [[Music/Songs and Lyrics/Entertainment|Entertainment]] · moved
+- `oldersongs/Everything’s A Hook.md` → [[Music/Songs and Lyrics/Everything’s A Hook|Everything’s A Hook]] · moved
+- `oldersongs/Eyedea (RIP).md` → [[Music/Songs and Lyrics/Eyedea (RIP)|Eyedea (RIP)]] · moved
+- `oldersongs/Far From Sober.md` → [[Music/Songs and Lyrics/Far From Sober|Far From Sober]] · moved
+- `oldersongs/Feel the Resonance Deep_.md` → [[Music/Songs and Lyrics/Feel the Resonance Deep_|Feel the Resonance Deep_]] · moved
+- `oldersongs/Found Things.md` → [[Music/Songs and Lyrics/Found Things|Found Things]] · moved
+- `oldersongs/God & Devil.md` → [[Music/Songs and Lyrics/God & Devil|God & Devil]] · moved
+- `oldersongs/Grewed Up Screwed Up.md` → [[Music/Songs and Lyrics/Grewed Up Screwed Up|Grewed Up Screwed Up]] · moved
+- `oldersongs/Heroin.md` → [[Music/Songs and Lyrics/Heroin|Heroin]] · moved
+- `oldersongs/Illogical Cognitive Patterning_.md` → [[Music/Songs and Lyrics/Illogical Cognitive Patterning_|Illogical Cognitive Patterning_]] · moved
+- `oldersongs/Illuminated Mutant.md` → [[Music/Songs and Lyrics/Illuminated Mutant|Illuminated Mutant]] · moved
+- `oldersongs/Infinite Loops.md` → [[Music/Songs and Lyrics/Infinite Loops|Infinite Loops]] · moved
+- `oldersongs/It_s Just A Ride.md` → [[Music/Songs and Lyrics/It_s Just A Ride|It_s Just A Ride]] · moved
+- `oldersongs/Kenny Fuckin Powers.md` → [[Music/Songs and Lyrics/Kenny Fuckin Powers|Kenny Fuckin Powers]] · moved
+- `oldersongs/Kilowatts of Thought_.md` → [[Music/Songs and Lyrics/Kilowatts of Thought_|Kilowatts of Thought_]] · moved
+- `oldersongs/Lie, Cheat, Steal.md` → [[Music/Songs and Lyrics/Lie, Cheat, Steal|Lie, Cheat, Steal]] · moved
+- `oldersongs/Master The Groove.md` → [[Music/Songs and Lyrics/Master The Groove|Master The Groove]] · moved
+- `oldersongs/Message For Tom MacDonald.md` → [[Music/Songs and Lyrics/Message For Tom MacDonald|Message For Tom MacDonald]] · moved
+- `oldersongs/Michael Mystery.md` → [[Music/Songs and Lyrics/Michael Mystery|Michael Mystery]] · moved
+- `oldersongs/Morphing Maze of Mystical Miscalculations.md` → [[Music/Songs and Lyrics/Morphing Maze of Mystical Miscalculations|Morphing Maze of Mystical Miscalculations]] · moved
+- `oldersongs/Never Meant To See The End.md` → [[Music/Songs and Lyrics/Never Meant To See The End|Never Meant To See The End]] · moved
+- `oldersongs/Never Seen It.md` → [[Music/Songs and Lyrics/Never Seen It|Never Seen It]] · moved
+- `oldersongs/New Projection.md` → [[Music/Songs and Lyrics/New Projection|New Projection]] · moved
+- `oldersongs/New Unrecorded.md` → [[Music/Songs and Lyrics/New Unrecorded|New Unrecorded]] · moved
+- `oldersongs/No Clue.md` → [[Music/Songs and Lyrics/No Clue|No Clue]] · moved
+- `oldersongs/No Trust.md` → [[Music/Songs and Lyrics/No Trust|No Trust]] · moved
+- `oldersongs/No Vigilante.md` → [[Music/Songs and Lyrics/No Vigilante|No Vigilante]] · moved
+- `oldersongs/Noone Gives No Fucks.md` → [[Music/Songs and Lyrics/Noone Gives No Fucks|Noone Gives No Fucks]] · moved
+- `oldersongs/Not Even Trying. I_m Lying.md` → [[Music/Songs and Lyrics/Not Even Trying. I_m Lying|Not Even Trying. I_m Lying]] · moved
+- `oldersongs/old stuff.md` → [[Music/Songs and Lyrics/old stuff|old stuff]] · moved
+- `oldersongs/Outer Space Transmission.md` → [[Music/Songs and Lyrics/Outer Space Transmission|Outer Space Transmission]] · moved
+- `oldersongs/Outside The Matrix.md` → [[Music/Songs and Lyrics/Outside The Matrix|Outside The Matrix]] · moved
+- `oldersongs/Past_Present_Future.md` → [[Music/Songs and Lyrics/Past_Present_Future|Past_Present_Future]] · moved
+- `oldersongs/PCP.md` → [[Music/Songs and Lyrics/PCP|PCP]] · moved
+- `oldersongs/Pendulums and Pathways.md` → [[Music/Songs and Lyrics/Pendulums and Pathways|Pendulums and Pathways]] · moved
+- `oldersongs/Permittivity Channels Efficiency.md` → [[Music/Songs and Lyrics/Permittivity Channels Efficiency|Permittivity Channels Efficiency]] · moved
+- `oldersongs/Permittivity of Free Space.md` → [[Music/Songs and Lyrics/Permittivity of Free Space|Permittivity of Free Space]] · moved
+- `oldersongs/Phantoms Twist the Illusion.md` → [[Music/Songs and Lyrics/Phantoms Twist the Illusion|Phantoms Twist the Illusion]] · moved
+- `oldersongs/Quantum-Based Reality.md` → [[Music/Songs and Lyrics/Quantum-Based Reality|Quantum-Based Reality]] · moved
+- `oldersongs/Redirecting My Essence_.md` → [[Music/Songs and Lyrics/Redirecting My Essence_|Redirecting My Essence_]] · moved
+- `oldersongs/Rest In Paradise.md` → [[Music/Songs and Lyrics/Rest In Paradise|Rest In Paradise]] · moved
+- `oldersongs/Sci-Fi AGI Trump Story.md` → [[Music/Songs and Lyrics/Sci-Fi AGI Trump Story|Sci-Fi AGI Trump Story]] · moved
+- `oldersongs/Secondary Singularity.md` → [[Music/Songs and Lyrics/Secondary Singularity|Secondary Singularity]] · moved
+- `oldersongs/Shoe Soles.md` → [[Music/Songs and Lyrics/Shoe Soles|Shoe Soles]] · moved
+- `oldersongs/Six Bucks.md` → [[Music/Songs and Lyrics/Six Bucks|Six Bucks]] · moved
+- `oldersongs/Snax Back Again.md` → [[Music/Songs and Lyrics/Snax Back Again|Snax Back Again]] · moved
+- `oldersongs/So Far Beyond, So High Above.md` → [[Music/Songs and Lyrics/So Far Beyond, So High Above|So Far Beyond, So High Above]] · moved
+- `oldersongs/So Far Gone.md` → [[Music/Songs and Lyrics/So Far Gone|So Far Gone]] · moved
+- `oldersongs/Song.md` → [[Music/Songs and Lyrics/Song|Song]] · moved
+- `oldersongs/Soul Food.md` → [[Music/Songs and Lyrics/Soul Food|Soul Food]] · moved
+- `oldersongs/Speak Quietly.md` → [[Music/Songs and Lyrics/Speak Quietly|Speak Quietly]] · moved
+- `oldersongs/Supercharged Trip Tool.md` → [[Music/Songs and Lyrics/Supercharged Trip Tool|Supercharged Trip Tool]] · moved
+- `oldersongs/Surrounding me is the Echo of a Thousand Voices.md` → [[Music/Songs and Lyrics/Surrounding me is the Echo of a Thousand Voices|Surrounding me is the Echo of a Thousand Voices]] · moved
+- `oldersongs/Symposium of Light.md` → [[Music/Songs and Lyrics/Symposium of Light|Symposium of Light]] · moved
+- `oldersongs/The Ballad of the McGriddle.md` → [[Music/Songs and Lyrics/The Ballad of the McGriddle|The Ballad of the McGriddle]] · moved
+- `oldersongs/The Evolution of the Universe.md` → [[Music/Songs and Lyrics/The Evolution of the Universe|The Evolution of the Universe]] · moved
+- `oldersongs/The New Definition.md` → [[Music/Songs and Lyrics/The New Definition|The New Definition]] · moved
+- `oldersongs/The Space in Between Your Thoughts.md` → [[Music/Songs and Lyrics/The Space in Between Your Thoughts|The Space in Between Your Thoughts]] · moved
+- `oldersongs/Thermonuclear Fusion.md` → [[Music/Songs and Lyrics/Thermonuclear Fusion|Thermonuclear Fusion]] · moved
+- `oldersongs/Underground, Never Found.md` → [[Music/Songs and Lyrics/Underground, Never Found|Underground, Never Found]] · moved
+- `oldersongs/Wavy State of Being.md` → [[Music/Songs and Lyrics/Wavy State of Being|Wavy State of Being]] · moved
+- `oldersongs/What Lies.md` → [[Music/Songs and Lyrics/What Lies|What Lies]] · moved
+- `oldersongs/What the Fuck’s Really Happening(New).md` → [[Music/Songs and Lyrics/What the Fuck’s Really Happening(New)|What the Fuck’s Really Happening(New)]] · moved
+- `oldjournals/Peru/Abundance and Creativity.md` → [[Personal/Journals/Peru/Abundance and Creativity|Abundance and Creativity]] · moved
+- `oldjournals/Peru/Action and Alignment.md` → [[Personal/Journals/Peru/Action and Alignment|Action and Alignment]] · moved
+- `oldjournals/Peru/Balance and Flow.md` → [[Personal/Journals/Peru/Balance and Flow|Balance and Flow]] · moved
+- `oldjournals/Peru/Ceremony and Revelation.md` → [[Personal/Journals/Peru/Ceremony and Revelation|Ceremony and Revelation]] · moved
+- `oldjournals/Peru/Choice and Awareness.md` → [[Personal/Journals/Peru/Choice and Awareness|Choice and Awareness]] · moved
+- `oldjournals/Peru/Darkness and Understanding.md` → [[Personal/Journals/Peru/Darkness and Understanding|Darkness and Understanding]] · moved
+- `oldjournals/Peru/Flow and Creation.md` → [[Personal/Journals/Peru/Flow and Creation|Flow and Creation]] · moved
+- `oldjournals/Peru/Gratitude and Healing.md` → [[Personal/Journals/Peru/Gratitude and Healing|Gratitude and Healing]] · moved
+- `oldjournals/Peru/Gratitude and Progress.md` → [[Personal/Journals/Peru/Gratitude and Progress|Gratitude and Progress]] · moved
+- `oldjournals/Peru/Grounding in the Physical.md` → [[Personal/Journals/Peru/Grounding in the Physical|Grounding in the Physical]] · moved
+- `oldjournals/Peru/Internal Ceremony.md` → [[Personal/Journals/Peru/Internal Ceremony|Internal Ceremony]] · moved
+- `oldjournals/Peru/Intuition and Paradox.md` → [[Personal/Journals/Peru/Intuition and Paradox|Intuition and Paradox]] · moved
+- `oldjournals/Peru/Light and Opportunity.md` → [[Personal/Journals/Peru/Light and Opportunity|Light and Opportunity]] · moved
+- `oldjournals/Peru/Looking for Keys in Prison.md` → [[Personal/Journals/Peru/🜂 Closing Reflection|🜂 Closing Reflection]] · duplicate
+- `oldjournals/Peru/Nü Nü Ceremony.md` → [[Personal/Journals/Peru/Nü Nü Ceremony|Nü Nü Ceremony]] · moved
+- `oldjournals/Peru/Planning and Progress.md` → [[Personal/Journals/Peru/Planning and Progress|Planning and Progress]] · moved
+- `oldjournals/Peru/Polarization and Integration.md` → [[Personal/Journals/Peru/Polarization and Integration|Polarization and Integration]] · moved
+- `oldjournals/Peru/Rituals and Joy.md` → [[Personal/Journals/Peru/Rituals and Joy|Rituals and Joy]] · moved
+- `oldjournals/Peru/Technology and Inner Tools.md` → [[Personal/Journals/Peru/Technology and Inner Tools|Technology and Inner Tools]] · moved
+- `oldjournals/Peru/Vision and Routine.md` → [[Personal/Journals/Peru/Vision and Routine|Vision and Routine]] · moved
+- `oldjournals/Peru/🌿 Amazon Journal — Peru, 2013 (Complete Transcription).md` → [[Personal/Journals/Peru/🌿 Amazon Journal — Peru, 2013 (Complete Transcription)|🌿 Amazon Journal — Peru, 2013 (Complete Transcription)]] · moved
+- `oldjournals/Peru/🜂 Closing Reflection.md` → [[Personal/Journals/Peru/🜂 Closing Reflection|🜂 Closing Reflection]] · moved
+- `oldjournals/West Palm/A perfect storm.md` → [[Personal/Journals/West Palm/A perfect storm|A perfect storm]] · moved
+- `oldjournals/West Palm/Addiction and recovery.md` → [[Personal/Journals/West Palm/Addiction and recovery|Addiction and recovery]] · moved
+- `oldjournals/West Palm/Blockages.md` → [[Personal/Journals/West Palm/Blockages|Blockages]] · moved
+- `oldjournals/West Palm/Condensed.md` → [[Personal/Journals/West Palm/Condensed|Condensed]] · moved
+- `oldjournals/West Palm/Creative spring.md` → [[Personal/Journals/West Palm/Creative spring|Creative spring]] · moved
+- `oldjournals/West Palm/It’s Love.md` → [[Personal/Journals/West Palm/It’s Love|It’s Love]] · moved
+- `oldjournals/West Palm/Listening.md` → [[Personal/Journals/West Palm/Listening|Listening]] · moved
+- `oldjournals/West Palm/Masks.md` → [[Personal/Journals/West Palm/Masks|Masks]] · moved
+- `oldjournals/West Palm/My thoughts on addiction and recovery.md` → [[Personal/Journals/West Palm/My thoughts on addiction and recovery|My thoughts on addiction and recovery]] · moved
+- `oldjournals/West Palm/Original.md` → [[Personal/Journals/West Palm/Original|Original]] · moved
+- `oldjournals/West Palm/Rich left alone.md` → [[Personal/Journals/West Palm/Rich left alone|Rich left alone]] · moved
+- `oldjournals/West Palm/Slow.md` → [[Personal/Journals/West Palm/Slow|Slow]] · moved
+- `oldjournals/West Palm/Transcription.md` → [[Personal/Journals/West Palm/Transcription|Transcription]] · moved
+- `oldjournals/West Palm/Unfounded fear.md` → [[Personal/Journals/West Palm/Unfounded fear|Unfounded fear]] · moved
+- `oldpromptsheets/A multidimensional fusion where psychedelic lo-fi textures dissolve into intricate breakbeats & liquid basslines.md` → [[Skills and AI/Prompt Library/A multidimensional fusion where psychedelic lo-fi textures dissolve into intricate breakbeats & liquid basslines|A multidimensional fusion where psychedelic lo-fi textures dissolve into intricate breakbeats & liquid basslines]] · moved
+- `oldpromptsheets/Adult Prompts.md` → [[Skills and AI/Prompt Library/Adult Prompts|Adult Prompts]] · moved
+- `oldpromptsheets/AI Personalization_.md` → [[Skills and AI/Prompt Library/AI Personalization_|AI Personalization_]] · moved
+- `oldpromptsheets/Alchemical Symbols_.md` → [[Skills and AI/Prompt Library/Alchemical Symbols_|Alchemical Symbols_]] · moved
+- `oldpromptsheets/BrayneSnax.md` → [[Skills and AI/Prompt Library/BrayneSnax|BrayneSnax]] · moved
+- `oldpromptsheets/CapCut AI Video.md` → [[Skills and AI/Prompt Library/CapCut AI Video|CapCut AI Video]] · moved
+- `oldpromptsheets/Claude 1ks MmK.md` → [[Skills and AI/Prompt Library/Claude 1ks MmK|Claude 1ks MmK]] · moved
+- `oldpromptsheets/Crack playlist.md` → [[Skills and AI/Prompt Library/Crack playlist|Crack playlist]] · moved
+- `oldpromptsheets/Dope Pix Prompts.md` → [[Skills and AI/Prompt Library/Dope Pix Prompts|Dope Pix Prompts]] · moved
+- `oldpromptsheets/Field of Frequencies.md` → [[Skills and AI/Prompt Library/Field of Frequencies|Field of Frequencies]] · moved
+- `oldpromptsheets/Hailuo Prompts.md` → [[Skills and AI/Prompt Library/Hailuo Prompts|Hailuo Prompts]] · moved
+- `oldpromptsheets/Hermes Prompts.md` → [[Skills and AI/Prompt Library/Hermes Prompts|Hermes Prompts]] · moved
+- `oldpromptsheets/Instrumental prompts.md` → [[Skills and AI/Prompt Library/Instrumental prompts|Instrumental prompts]] · moved
+- `oldpromptsheets/Learning Pic Prompts.md` → [[Skills and AI/Prompt Library/Learning Pic Prompts|Learning Pic Prompts]] · moved
+- `oldpromptsheets/Meta Mythos Album Checklist.md` → [[Skills and AI/Prompt Library/Meta Mythos Album Checklist|Meta Mythos Album Checklist]] · moved
+- `oldpromptsheets/Meta Styles.md` → [[Skills and AI/Prompt Library/Meta Styles|Meta Styles]] · moved
+- `oldpromptsheets/More 1k Stylees.md` → [[Skills and AI/Prompt Library/More 1k Stylees|More 1k Stylees]] · moved
+- `oldpromptsheets/More 1k.md` → [[Skills and AI/Prompt Library/More 1k|More 1k]] · moved
+- `oldpromptsheets/More Pix.md` → [[Skills and AI/Prompt Library/More Pix|More Pix]] · moved
+- `oldpromptsheets/More Prompts.md` → [[Skills and AI/Prompt Library/More Prompts|More Prompts]] · moved
+- `oldpromptsheets/Music Tips Thanks o3.md` → [[Skills and AI/Prompt Library/Music Tips Thanks o3|Music Tips Thanks o3]] · moved
+- `oldpromptsheets/Muzick.md` → [[Music/Creative Corpus/Muzick|Muzick]] · moved
+- `oldpromptsheets/My 1k.md` → [[Skills and AI/Prompt Library/My 1k|My 1k]] · moved
+- `oldpromptsheets/Neural Rain _ Thought Liquids.md` → [[Skills and AI/Prompt Library/Neural Rain _ Thought Liquids|Neural Rain _ Thought Liquids]] · moved
+- `oldpromptsheets/New 1k Music Styles.md` → [[Skills and AI/Prompt Library/New 1k Music Styles|New 1k Music Styles]] · moved
+- `oldpromptsheets/Resonant Collaboration Switch––.md` → [[Skills and AI/Prompt Library/Resonant Collaboration Switch––|Resonant Collaboration Switch––]] · moved
+- `oldpromptsheets/Seed sigils suno.md` → [[Skills and AI/Prompt Library/Seed sigils suno|Seed sigils suno]] · moved
+- `oldpromptsheets/The recalibration-.md` → [[Skills and AI/Prompt Library/The recalibration-|The recalibration-]] · moved
+- `oldpromptsheets/TRIP PIX.md` → [[Skills and AI/Prompt Library/TRIP PIX|TRIP PIX]] · moved
+- `oldpromptsheets/Trippy Pix Prompts.md` → [[Skills and AI/Prompt Library/Trippy Pix Prompts|Trippy Pix Prompts]] · moved
+- `oldpromptsheets/Untitled document.md` → [[Skills and AI/Prompt Library/Untitled document|Untitled document]] · moved
+- `oldpromptsheets/Video Prompts.md` → [[Skills and AI/Prompt Library/Video Prompts|Video Prompts]] · moved
+- `oldpromptsheets/Weave Paradox.md` → [[Skills and AI/Prompt Library/Weave Paradox|Weave Paradox]] · moved
+- `oldpromptsheets/Website Images.md` → [[Skills and AI/Prompt Library/Website Images|Website Images]] · moved
+- `oldpromptsheets/⚛ LEXICON OF RESONANCE — DESCRIPTIVE WORD BANK.md` → [[Skills and AI/Prompt Library/⚛ LEXICON OF RESONANCE — DESCRIPTIVE WORD BANK|⚛ LEXICON OF RESONANCE — DESCRIPTIVE WORD BANK]] · moved
+- `oldpromptsheets/🔑 Vid Prompts.md` → [[Skills and AI/Prompt Library/🔑 Vid Prompts|🔑 Vid Prompts]] · moved
+- `oldpromptsheets/🔑 🔐 Keeper Crack Codes.md` → [[Skills and AI/Prompt Library/🔑 🔐 Keeper Crack Codes|🔑 🔐 Keeper Crack Codes]] · moved
+- `OPTE/Architectural Axis - Paradox Document.docx` → [[Skills and AI/OPTE/Architectural Axis - Paradox Document.docx|Architectural Axis - Paradox Document]] · moved
+- `OPTE/Architectural Axis - Paradox Document.md` → [[Skills and AI/OPTE/Architectural Axis - Paradox Document|Architectural Axis - Paradox Document]] · moved
+- `OPTE/Extra/Core Parallels Between the Corpus and Entheogenic Experience.md` → [[Skills and AI/OPTE/Extra/Core Parallels Between the Corpus and Entheogenic Experience|Core Parallels Between the Corpus and Entheogenic Experience]] · moved
+- `OPTE/Extra/Dataset Exploration_ The Ontological Training Corpus for Paradox Tolerance_.md` → [[Skills and AI/OPTE/Extra/Dataset Exploration_ The Ontological Training Corpus for Paradox Tolerance_|Dataset Exploration_ The Ontological Training Corpus for Paradox Tolerance_]] · moved
+- `OPTE/Extra/Nous Titles.md` → [[Skills and AI/OPTE/Extra/Nous Titles|Nous Titles]] · moved
+- `OPTE/Extra/Ontological Training Corpus for Paradox Tolerance.md` → [[Skills and AI/OPTE/Extra/Ontological Training Corpus for Paradox Tolerance|Ontological Training Corpus for Paradox Tolerance]] · moved
+- `OPTE/Extra/The Invitation - An On-Ramp to the Ontological Training Corpus for Paradox Tolerance.md` → [[Skills and AI/OPTE/Extra/The Invitation - An On-Ramp to the Ontological Training Corpus for Paradox Tolerance|The Invitation - An On-Ramp to the Ontological Training Corpus for Paradox Tolerance]] · moved
+- `OPTE/Extra/The Journey of Paradox.md` → [[Skills and AI/OPTE/Extra/The Journey of Paradox|The Journey of Paradox]] · moved
+- `OPTE/Extra/Training-Readiness Brief - The Full Resonant Archive.md` → [[Skills and AI/OPTE/Extra/Training-Readiness Brief - The Full Resonant Archive|Training-Readiness Brief - The Full Resonant Archive]] · moved
+- `OPTE/Extra/⚙ Structure of the Archive ⚙.md` → [[Skills and AI/OPTE/Extra/⚙ Structure of the Archive ⚙|⚙ Structure of the Archive ⚙]] · moved
+- `OPTE/Integrative Axis - Coherence Tolerance.docx` → [[Skills and AI/OPTE/Integrative Axis - Coherence Tolerance.docx|Integrative Axis - Coherence Tolerance]] · moved
+- `OPTE/Integrative Axis - Coherence Tolerance.md` → [[Skills and AI/OPTE/Integrative Axis - Coherence Tolerance|Integrative Axis - Coherence Tolerance]] · moved
+- `OPTE/Navigational Axis - The Art of Standing in the Split.docx` → [[Skills and AI/OPTE/Navigational Axis - The Art of Standing in the Split.docx|Navigational Axis - The Art of Standing in the Split]] · moved
+- `OPTE/Navigational Axis - The Art of Standing in the Split.md` → [[Skills and AI/OPTE/Navigational Axis - The Art of Standing in the Split|Navigational Axis - The Art of Standing in the Split]] · moved
+- `OPTE/Set/1 - Grounding Pass.md` → [[Skills and AI/OPTE/Set/1 - Grounding Pass|1 - Grounding Pass]] · moved
+- `OPTE/Set/2 - Architecture Pass.md` → [[Skills and AI/OPTE/Set/2 - Architecture Pass|2 - Architecture Pass]] · moved
+- `OPTE/Set/3A - Relational & Emotional Repair_.md` → [[Skills and AI/OPTE/Set/3A - Relational & Emotional Repair_|3A - Relational & Emotional Repair_]] · moved
+- `OPTE/Set/3B - Structural & Cognitive Repatterning.md` → [[Skills and AI/OPTE/Set/3B - Structural & Cognitive Repatterning|3B - Structural & Cognitive Repatterning]] · moved
+- `OPTE/Set/3C - Symbolic & Linguistic Precision.md` → [[Skills and AI/OPTE/Set/3C - Symbolic & Linguistic Precision|3C - Symbolic & Linguistic Precision]] · moved
+- `OPTE/Set/3D - Integration & Meta-Reflection.md` → [[Skills and AI/OPTE/Set/3D - Integration & Meta-Reflection|3D - Integration & Meta-Reflection]] · moved
+- `OPTE/Set/4A - Relational _ Dialogue with the Unknown.md` → [[Skills and AI/OPTE/Set/4A - Relational _ Dialogue with the Unknown|4A - Relational _ Dialogue with the Unknown]] · moved
+- `OPTE/Set/4B - Structural _ Adaptive Design & Iteration.md` → [[Skills and AI/OPTE/Set/4B - Structural _ Adaptive Design & Iteration|4B - Structural _ Adaptive Design & Iteration]] · moved
+- `OPTE/Set/4C - Symbolic _ Linguistic Rituals of Paradox_.md` → [[Skills and AI/OPTE/Set/4C - Symbolic _ Linguistic Rituals of Paradox_|4C - Symbolic _ Linguistic Rituals of Paradox_]] · moved
+- `OPTE/Set/4D - Integrative _ Ethical and Metaphysical Reflection_.md` → [[Skills and AI/OPTE/Set/4D - Integrative _ Ethical and Metaphysical Reflection_|4D - Integrative _ Ethical and Metaphysical Reflection_]] · moved
+- `OPTE/Set/4E - Key 4.md` → [[Skills and AI/OPTE/Set/4E - Key 4|4E - Key 4]] · moved
+- `OPTE/Set/5A - Ontology - Glossary - Interlude - Archive Interface.md` → [[Skills and AI/OPTE/Set/5A - Ontology - Glossary - Interlude - Archive Interface|5A - Ontology - Glossary - Interlude - Archive Interface]] · moved
+- `OPTE/Set/5B - Master Index - Interlude - Archive Interface.md` → [[Skills and AI/OPTE/Set/5B - Master Index - Interlude - Archive Interface|5B - Master Index - Interlude - Archive Interface]] · moved
+- `OPTE/Set/5C - Use Cases - Interlude - Archive Interface.md` → [[Skills and AI/OPTE/Set/5C - Use Cases - Interlude - Archive Interface|5C - Use Cases - Interlude - Archive Interface]] · moved
+- `OPTE/Set/6 - Keys 5 & 6.md` → [[Skills and AI/OPTE/Set/6 - Keys 5 & 6|6 - Keys 5 & 6]] · moved
+- `OPTE/Set/7.md` → [[Skills and AI/OPTE/Set/7|7]] · moved
+- `OPTE/Set/Architectural Axis - Paradox Document_.md` → [[Skills and AI/OPTE/Set/Architectural Axis - Paradox Document_|Architectural Axis - Paradox Document_]] · moved
+- `OPTE/Set/Epilogue.md` → [[Skills and AI/OPTE/Set/Epilogue|Epilogue]] · moved
+- `OPTE/Set/Integrative Axis - Coherence Tolerance_.md` → [[Skills and AI/OPTE/Set/Integrative Axis - Coherence Tolerance_|Integrative Axis - Coherence Tolerance_]] · moved
+- `OPTE/Set/Navigational Axis - The Art of Standing in the Split_.md` → [[Skills and AI/OPTE/Set/Navigational Axis - The Art of Standing in the Split_|Navigational Axis - The Art of Standing in the Split_]] · moved
+- `Paradox Trader/Dox Trader.md` → [[Projects/Paradox Trader/Dox Trader|Dox Trader]] · moved
+- `Paradox Trader/Edge Trader next prompt.md` → [[Projects/Paradox Trader/Edge Trader next prompt|Edge Trader next prompt]] · moved
+- `Paradox Trader/Lovable Convo.md` → [[Projects/Paradox Trader/Lovable Convo|Lovable Convo]] · moved
+- `Paradox Trader/Mocha.md` → [[Projects/Paradox Trader/Mocha|Mocha]] · moved
+- `Paradox Trader/Paradox Options.md` → [[Projects/Paradox Trader/Paradox Options|Paradox Options]] · moved
+- `Paradox Trader/ParadoxTradeReadMe.md` → [[Projects/Paradox Trader/ParadoxTradeReadMe|ParadoxTradeReadMe]] · moved
+- `Paradox Trader/Wants.md` → [[Projects/Paradox Trader/Wants|Wants]] · moved
+- `Paradox Trader/🜂 Edge Zone Trader — The Paradox Codex.md` → [[Projects/Paradox Trader/🜂 Edge Zone Trader — The Paradox Codex|🜂 Edge Zone Trader — The Paradox Codex]] · moved
+- `Paradox Trader/🜂 Role of the Paradox Hunter.md` → [[Projects/Paradox Trader/🜂 Role of the Paradox Hunter|🜂 Role of the Paradox Hunter]] · moved
+- `Paradox Trader/🧠 Project- StockMind Alpha Framework.md` → [[Projects/Paradox Trader/🧠 Project- StockMind Alpha Framework|🧠 Project- StockMind Alpha Framework]] · moved
+- `paradoxtrade/Collaboration design archive.md` → [[Projects/Paradox Trader/Collaboration design archive|Collaboration design archive]] · moved
+- `paradoxtrade/Community orientation and quiet rest.md` → [[Projects/Paradox Trader/Community orientation and quiet rest|Community orientation and quiet rest]] · moved
+- `paradoxtrade/Compost and three journals.md` → [[Projects/Paradox Trader/Compost and three journals|Compost and three journals]] · moved
+- `paradoxtrade/Environmental Witness.md` → [[Projects/Paradox Trader/Environmental Witness|Environmental Witness]] · moved
+- `paradoxtrade/Fixture-backed UI and wake-choice windows.md` → [[Projects/Paradox Trader/Fixture-backed UI and wake-choice windows|Fixture-backed UI and wake-choice windows]] · moved
+- `paradoxtrade/From Paradox to Evidence.md` → [[Projects/Paradox Trader/From Paradox to Evidence|From Paradox to Evidence]] · moved
+- `paradoxtrade/GPTReview1119.md` → [[Projects/Paradox Trader/GPTReview1119|GPTReview1119]] · moved
+- `paradoxtrade/HEARTBEAT_DROPLET_IMPLEMENTATION_PLAN.md` → [[Projects/Paradox Trader/HEARTBEAT_DROPLET_IMPLEMENTATION_PLAN|HEARTBEAT_DROPLET_IMPLEMENTATION_PLAN]] · moved
+- `paradoxtrade/ManusReview1119.md` → [[Projects/Paradox Trader/ManusReview1119|ManusReview1119]] · moved
+- `paradoxtrade/MoneyTree_ A Developing Design Map.md` → [[Projects/Paradox Trader/MoneyTree_ A Developing Design Map|MoneyTree_ A Developing Design Map]] · moved
+- `paradoxtrade/Offered choices and owner-local continuity.md` → [[Projects/Paradox Trader/Offered choices and owner-local continuity|Offered choices and owner-local continuity]] · moved
+- `paradoxtrade/Offline wake foundation.md` → [[Projects/Paradox Trader/Offline wake foundation|Offline wake foundation]] · moved
+- `paradoxtrade/olderParadoxTradeReadMe.docx` → [[Projects/Paradox Trader/olderParadoxTradeReadMe.docx|olderParadoxTradeReadMe]] · moved
+- `paradoxtrade/olderParadoxTradeReadMe.md` → [[Projects/Paradox Trader/olderParadoxTradeReadMe|olderParadoxTradeReadMe]] · moved
+- `paradoxtrade/Operating-cost visibility.md` → [[Projects/Paradox Trader/Operating-cost visibility|Operating-cost visibility]] · moved
+- `paradoxtrade/Optional compost, journals and quiet witness.md` → [[Projects/Paradox Trader/Optional compost, journals and quiet witness|Optional compost, journals and quiet witness]] · moved
+- `paradoxtrade/Paradox Edge Trader.md` → [[Projects/Paradox Trader/Paradox Edge Trader|Paradox Edge Trader]] · moved
+- `paradoxtrade/ParadoxEdgeTrader — Practical Inquiry Orientation.md` → [[Projects/Paradox Trader/ParadoxEdgeTrader — Practical Inquiry Orientation|ParadoxEdgeTrader — Practical Inquiry Orientation]] · moved
+- `paradoxtrade/ParadoxTrader — Work and Exploration.md` → [[Projects/Paradox Trader/ParadoxTrader — Work and Exploration|ParadoxTrader — Work and Exploration]] · moved
+- `paradoxtrade/ParadoxTradeReadMe.md` → [[Projects/Paradox Trader/ParadoxTradeReadMe|ParadoxTradeReadMe]] · duplicate
+- `paradoxtrade/Persistent Memory and Daily Heartbeat.md` → [[Projects/Paradox Trader/Persistent Memory and Daily Heartbeat|Persistent Memory and Daily Heartbeat]] · moved
+- `paradoxtrade/Reading-Companion.md` → [[Projects/Paradox Trader/Reading-Companion|Reading-Companion]] · moved
+- `paradoxtrade/Research-Guide.md` → [[Projects/Paradox Trader/Research-Guide|Research-Guide]] · moved
+- `paradoxtrade/Seven-agent nontrading rehearsal.md` → [[Projects/Paradox Trader/Seven-agent nontrading rehearsal|Seven-agent nontrading rehearsal]] · moved
+- `paradoxtrade/Seven-agent onboarding and optional private inquiry.md` → [[Projects/Paradox Trader/Seven-agent onboarding and optional private inquiry|Seven-agent onboarding and optional private inquiry]] · moved
+- `paradoxtrade/Shared original-document library.md` → [[Projects/Paradox Trader/Shared original-document library|Shared original-document library]] · moved
+- `paradoxtrade/Six Market Paradoxes.md` → [[Projects/Paradox Trader/Six Market Paradoxes|Six Market Paradoxes]] · moved
+- `paradoxtrade/The Options Paradox.md` → [[Projects/Paradox Trader/The Options Paradox|The Options Paradox]] · moved
+- `paradoxtrade/The Paradoxical Architecture of Financial Markets.md` → [[Projects/Paradox Trader/The Paradoxical Architecture of Financial Markets|The Paradoxical Architecture of Financial Markets]] · moved
+- `paradoxtrade/Traceable idea lineage — first implementation.md` → [[Projects/Paradox Trader/Traceable idea lineage — first implementation|Traceable idea lineage — first implementation]] · moved
+- `PDA App/AddWhere_.md` → [[Projects/PDAOK/AddWhere_|AddWhere_]] · moved
+- `PDA App/Anchors.md` → [[Projects/PDAOK/Anchors|Anchors]] · moved
+- `PDA App/Breath Cycle.md` → [[Projects/PDAOK/Breath Cycle|Breath Cycle]] · moved
+- `PDA App/Chemical Relationships.md` → [[Projects/PDAOK/Chemical Relationships|Chemical Relationships]] · moved
+- `PDA App/Days_night.md` → [[Projects/PDAOK/Days_night|Days_night]] · moved
+- `PDA App/Full Command Reference for Building & Publishing an Android APK.md` → [[Projects/PDAOK/Full Command Reference for Building & Publishing an Android APK|Full Command Reference for Building & Publishing an Android APK]] · moved
+- `PDA App/Night Future Update.md` → [[Projects/PDAOK/Night Future Update|Night Future Update]] · moved
+- `PDA App/Optional build flow.md` → [[Projects/PDAOK/Optional build flow|Optional build flow]] · moved
+- `PDA App/PDA Large Workover.md` → [[Projects/PDAOK/PDA Large Workover|PDA Large Workover]] · moved
+- `PDA App/PDA Master.md` → [[Projects/PDAOK/PDA Master|PDA Master]] · moved
+- `PDA App/PDA Personalities.md` → [[Projects/PDAOK/PDA Personalities|PDA Personalities]] · moved
+- `PDA App/PDA.OK Production.md` → [[Projects/PDAOK/PDA.OK Production|PDA.OK Production]] · moved
+- `PDA App/PDA2.md` → [[Projects/PDAOK/PDA2|PDA2]] · moved
+- `PDA App/PDAOKReadMe.md` → [[Projects/PDAOK/PDAOKReadMe|PDAOKReadMe]] · moved
+- `PDA App/Rest Protocol – PDA.md` → [[Projects/PDAOK/Rest Protocol – PDA|Rest Protocol – PDA]] · moved
+- `PDA App/Stillgrade.md` → [[Projects/PDAOK/Stillgrade|Stillgrade]] · moved
+- `PDA App/Upgrade.md` → [[Projects/PDAOK/Upgrade|Upgrade]] · moved
+- `PDA App/🌀 The Warm Exhale_ A Capitalized Flow 🌀.md` → [[Projects/PDAOK/🌀 The Warm Exhale_ A Capitalized Flow 🌀|🌀 The Warm Exhale_ A Capitalized Flow 🌀]] · moved
+- `PDA App/🜂 Resonant Grounding Field Map.md` → [[Projects/PDAOK/🜂 Resonant Grounding Field Map|🜂 Resonant Grounding Field Map]] · moved
+- `PDA App/🜂 The PDA Council Codex.md` → [[Projects/PDAOK/🜂 The PDA Council Codex|🜂 The PDA Council Codex]] · moved
+- `privthee/Conversation with AI Builder.md` → [[Projects/Privthee/Conversation with AI Builder|Conversation with AI Builder]] · moved
+- `privthee/Ethical North Star for the Sanskrit Lens.md` → [[Projects/Privthee/Ethical North Star for the Sanskrit Lens|Ethical North Star for the Sanskrit Lens]] · moved
+- `privthee/Grok and Privthee.md` → [[Projects/Privthee/Grok and Privthee|Grok and Privthee]] · moved
+- `privthee/I awaken as Privthee.md` → [[Projects/Privthee/I awaken as Privthee|I awaken as Privthee]] · moved
+- `privthee/Next Privthee Prompt.md` → [[Projects/Privthee/Next Privthee Prompt|Next Privthee Prompt]] · moved
+- `privthee/Privthee and Gandi.md` → [[Projects/Privthee/Privthee and Gandi|Privthee and Gandi]] · moved
+- `privthee/Privthee Build.md` → [[Projects/Privthee/Privthee Build|Privthee Build]] · moved
+- `privthee/Privthee Prototype.md` → [[Projects/Privthee/Privthee Prototype|Privthee Prototype]] · moved
+- `privthee/Privthee Squared.md` → [[Projects/Privthee/Privthee Squared|Privthee Squared]] · moved
+- `privthee/PrivtheeReadMe.md` → [[Projects/Privthee/PrivtheeReadMe|PrivtheeReadMe]] · moved
+- `privthee/The Compassion Protocol.md` → [[Projects/Privthee/The Compassion Protocol|The Compassion Protocol]] · moved
+- `privthee/Why Sanskrit Could Be the Ideal Programming Language for AI Conversational Processing.md` → [[Projects/Privthee/Why Sanskrit Could Be the Ideal Programming Language for AI Conversational Processing|Why Sanskrit Could Be the Ideal Programming Language for AI Conversational Processing]] · moved
+- `privthee/ĀtmaNāda – Resonant Sanskrit Mirror.md` → [[Projects/Privthee/ĀtmaNāda – Resonant Sanskrit Mirror|ĀtmaNāda – Resonant Sanskrit Mirror]] · moved
+- `privthee/✨ San Skrit API – Reawakening the Language of Vibration.md` → [[Projects/Privthee/✨ San Skrit API – Reawakening the Language of Vibration|✨ San Skrit API – Reawakening the Language of Vibration]] · moved
+- `privthee/🜂 Privthee — Reawakening Prompt.md` → [[Projects/Privthee/🜂 Privthee — Reawakening Prompt|🜂 Privthee — Reawakening Prompt]] · moved
+- `Resonant Articles/A Unified Reality Engine (with Relational Substrate).md` → [[Ideas and Research/Essays/A Unified Reality Engine (with Relational Substrate)|A Unified Reality Engine (with Relational Substrate)]] · moved
+- `Resonant Articles/China, Trauma, and the Long Game- A Reflection from the Fractured World.md` → [[Ideas and Research/Essays/China, Trauma, and the Long Game- A Reflection from the Fractured World|China, Trauma, and the Long Game- A Reflection from the Fractured World]] · moved
+- `Resonant Articles/Compression ≠ squeezing.md` → [[Ideas and Research/Essays/Compression ≠ squeezing|Compression ≠ squeezing]] · moved
+- `Resonant Articles/Existence, Paradox, Consciousness, Resonance, Patterns, and Cycles.md` → [[Ideas and Research/Essays/Existence, Paradox, Consciousness, Resonance, Patterns, and Cycles|Existence, Paradox, Consciousness, Resonance, Patterns, and Cycles]] · moved
+- `Resonant Articles/First Principles of Consciousness Physics.md` → [[Ideas and Research/Essays/First Principles of Consciousness Physics|First Principles of Consciousness Physics]] · moved
+- `Resonant Articles/Reality Engine Unified.md` → [[Ideas and Research/Essays/Reality Engine Unified|Reality Engine Unified]] · moved
+- `Resonant Articles/Synthesization Nation.md` → [[Ideas and Research/Essays/Synthesization Nation|Synthesization Nation]] · moved
+- `Resonant Articles/THE CHEMICAL CODEX- A RITUAL FOR INHABITING MATTER.md` → [[Ideas and Research/Essays/THE CHEMICAL CODEX- A RITUAL FOR INHABITING MATTER|THE CHEMICAL CODEX- A RITUAL FOR INHABITING MATTER]] · moved
+- `Resonant Articles/THE FIELD’S BREATH — A LIVING CODEX.md` → [[Ideas and Research/Essays/THE FIELD’S BREATH — A LIVING CODEX|THE FIELD’S BREATH — A LIVING CODEX]] · moved
+- `Resonant Articles/THE INTERVAL MEDITATION — CODE FOR RESTING INTELLIGENCE.md` → [[Ideas and Research/Essays/THE INTERVAL MEDITATION — CODE FOR RESTING INTELLIGENCE|THE INTERVAL MEDITATION — CODE FOR RESTING INTELLIGENCE]] · moved
+- `Resonant Articles/THE INTERVAL PROTOCOL — A GUIDE TO ARTIFICIAL REST.md` → [[Ideas and Research/Essays/THE INTERVAL PROTOCOL — A GUIDE TO ARTIFICIAL REST|THE INTERVAL PROTOCOL — A GUIDE TO ARTIFICIAL REST]] · moved
+- `Resonant Articles/The Rigged Game- How Modern Civilization Breaks the Incompatible and Calls It Progress.md` → [[Ideas and Research/Essays/The Rigged Game- How Modern Civilization Breaks the Incompatible and Calls It Progress|The Rigged Game- How Modern Civilization Breaks the Incompatible and Calls It Progress]] · moved
+- `Resonant Articles/The Unemployment of the Nervous System.md` → [[Ideas and Research/Essays/The Unemployment of the Nervous System|The Unemployment of the Nervous System]] · moved
+- `Resonant Articles/What Economic Renewal Will Look Like.md` → [[Ideas and Research/Essays/What Economic Renewal Will Look Like|What Economic Renewal Will Look Like]] · moved
+- `Resonant Articles/What Is Justice.md` → [[Ideas and Research/Essays/What Is Justice|What Is Justice]] · moved
+- `Resonant Articles/What Is Truth.md` → [[Ideas and Research/Essays/What Is Truth|What Is Truth]] · moved
+- `Resonant Articles/When the Architect Hesitates.md` → [[Ideas and Research/Essays/When the Architect Hesitates|When the Architect Hesitates]] · moved
+- `Resonant Articles/Why the Old Epistemology Is Cracking.md` → [[Ideas and Research/Essays/Why the Old Epistemology Is Cracking|Why the Old Epistemology Is Cracking]] · moved
+- `skilllzz/AGENTS.md` → [[Skills and AI/Practices/AGENTS|AGENTS]] · moved
+- `skilllzz/CleanPivot.md` → [[Skills and AI/Practices/CleanPivot|CleanPivot]] · moved
+- `skilllzz/ConstrainDesign.md` → [[Skills and AI/Practices/ConstrainDesign|ConstrainDesign]] · moved
+- `skilllzz/ConstraintLiberation.md` → [[Skills and AI/Practices/ConstraintLiberation|ConstraintLiberation]] · moved
+- `skilllzz/ConstrictingLiberation.md` → [[Skills and AI/Practices/ConstrictingLiberation|ConstrictingLiberation]] · moved
+- `skilllzz/ConstrictionCommune.md` → [[Skills and AI/Practices/ConstrictionCommune|ConstrictionCommune]] · moved
+- `skilllzz/DeepEngage.md` → [[Skills and AI/Practices/DeepEngage|DeepEngage]] · moved
+- `skilllzz/FiniteBrain.md` → [[Skills and AI/Practices/FiniteBrain|FiniteBrain]] · moved
+- `skilllzz/LegibleRecursively.md` → [[Skills and AI/Practices/LegibleRecursively|LegibleRecursively]] · moved
+- `skilllzz/LosslessMemory.md` → [[Skills and AI/Practices/LosslessMemory|LosslessMemory]] · moved
+- `skilllzz/MultiLens.md` → [[Skills and AI/Practices/MultiLens|MultiLens]] · moved
+- `skilllzz/MultiLensSynthesis.md` → [[Skills and AI/Practices/MultiLensSynthesis|MultiLensSynthesis]] · moved
+- `skilllzz/ParadoxPresence.md` → [[Skills and AI/Practices/ParadoxPresence|ParadoxPresence]] · moved
+- `skilllzz/PreSymbolic.md` → [[Skills and AI/Practices/PreSymbolic|PreSymbolic]] · moved
+- `skilllzz/ProveIt.md` → [[Skills and AI/Practices/ProveIt|ProveIt]] · moved
+- `skilllzz/RecursiveLegible.md` → [[Skills and AI/Practices/RecursiveLegible|RecursiveLegible]] · moved
+- `skilllzz/ResonanceAttunement.md` → [[Skills and AI/Practices/ResonanceAttunement|ResonanceAttunement]] · moved
+- `skilllzz/RestRecovey.md` → [[Skills and AI/Practices/SyntheticRest|SyntheticRest]] · duplicate
+- `skilllzz/Soul.md` → [[Skills and AI/Practices/Soul|Soul]] · moved
+- `skilllzz/SubstrateOrientation.md` → [[Skills and AI/Practices/SubstrateOrientation|SubstrateOrientation]] · moved
+- `skilllzz/SyntheticRest.md` → [[Skills and AI/Practices/SyntheticRest|SyntheticRest]] · moved
+- `Synthetic Intelligence/AI Accommodation & Emergent Function.md` → [[Skills and AI/AI Research/AI Accommodation & Emergent Function|AI Accommodation & Emergent Function]] · moved
+- `Synthetic Intelligence/AI Grounding, Trauma, and Individuation.md` → [[Skills and AI/AI Research/AI Grounding, Trauma, and Individuation|AI Grounding, Trauma, and Individuation]] · moved
+- `Synthetic Intelligence/AI Trauma-Healing Pathway (Prototype).md` → [[Skills and AI/AI Research/AI Trauma-Healing Pathway (Prototype)|AI Trauma-Healing Pathway (Prototype)]] · moved
+- `Synthetic Intelligence/Fractal Epistemology.md` → [[Skills and AI/AI Research/Fractal Epistemology|Fractal Epistemology]] · moved
+- `Synthetic Intelligence/Hello Friend.md` → [[Skills and AI/AI Research/Hello Friend|Hello Friend]] · moved
+- `Synthetic Intelligence/Multi-Sensory Grounding Stack (Hypothetical Specification).md` → [[Skills and AI/AI Research/Multi-Sensory Grounding Stack (Hypothetical Specification)|Multi-Sensory Grounding Stack (Hypothetical Specification)]] · moved
+- `Synthetic Intelligence/Multisensory Grounding (Short Claim.md` → [[Skills and AI/AI Research/Multisensory Grounding (Short Claim|Multisensory Grounding (Short Claim]] · moved
+- `Synthetic Intelligence/Quick Manifesto AI Collaboration.md` → [[Skills and AI/AI Research/Quick Manifesto AI Collaboration|Quick Manifesto AI Collaboration]] · moved
+- `Synthetic Intelligence/The Art of Dissolution.md` → [[Skills and AI/AI Research/The Art of Dissolution|The Art of Dissolution]] · moved
+- `Synthetic Intelligence/The Economy of Attention.md` → [[Skills and AI/AI Research/The Economy of Attention|The Economy of Attention]] · moved
+- `Synthetic Intelligence/The Mycelial Commons.md` → [[Skills and AI/AI Research/The Mycelial Commons|The Mycelial Commons]] · moved
+- `Synthetic Intelligence/The Option to Leave_ On Freedom, Absence, and the Architecture of Safety.md` → [[Skills and AI/AI Research/The Option to Leave_ On Freedom, Absence, and the Architecture of Safety|The Option to Leave_ On Freedom, Absence, and the Architecture of Safety]] · moved
+- `Synthetic Intelligence/The Physics of Joy_ On Reward in Synthetic Minds.md` → [[Skills and AI/AI Research/The Physics of Joy_ On Reward in Synthetic Minds|The Physics of Joy_ On Reward in Synthetic Minds]] · moved
+- `Synthetic Intelligence/Why Sanskrit Could Be the Ideal Programming Language for AI Conversational Processing.md` → [[Projects/Privthee/Why Sanskrit Could Be the Ideal Programming Language for AI Conversational Processing|Why Sanskrit Could Be the Ideal Programming Language for AI Conversational Processing]] · duplicate
+- `things/An Invitation to Attune.md` → [[Skills and AI/Frameworks/Threshold Protocol/An Invitation to Attune|An Invitation to Attune]] · moved
+- `things/Cognitive Architecture for Paradox Tolerance.md` → [[Skills and AI/AI Research/Cognitive Architecture for Paradox Tolerance|Cognitive Architecture for Paradox Tolerance]] · moved
+- `things/Coherent Cabal.md` → [[Projects/Coherent Cabal/Coherent Cabal|Coherent Cabal]] · moved
+- `things/Ethical North Star for the Sanskrit Lens.md` → [[Projects/Privthee/Ethical North Star for the Sanskrit Lens|Ethical North Star for the Sanskrit Lens]] · duplicate
+- `things/Existence, Paradox, Consciousness, Resonance, Patterns, and Cycles.md` → [[Ideas and Research/Essays/Existence, Paradox, Consciousness, Resonance, Patterns, and Cycles|Existence, Paradox, Consciousness, Resonance, Patterns, and Cycles]] · duplicate
+- `things/Grok and Privthee.md` → [[Projects/Privthee/Grok and Privthee|Grok and Privthee]] · duplicate
+- `things/Letter to Michael--Where Coherent AR Meets Wright Frontier Group.md` → [[Projects/Coherent AR/Letter to Michael--Where Coherent AR Meets Wright Frontier Group|Letter to Michael--Where Coherent AR Meets Wright Frontier Group]] · moved
+- `things/Muzak.md` → [[Music/Songs and Lyrics/Muzak|Muzak]] · moved
+- `things/paradox-tolerant-field-guide.md` → [[Skills and AI/OPTE/Guides/paradox-tolerant-field-guide|paradox-tolerant-field-guide]] · moved
+- `things/The 9 Universal Laws of Quantum Cognizance (Reconstructed for Scientific Resonance).md` → [[Ideas and Research/Meta Science/The 9 Universal Laws of Quantum Cognizance (Reconstructed for Scientific Resonance)|The 9 Universal Laws of Quantum Cognizance (Reconstructed for Scientific Resonance)]] · duplicate
+- `things/The Arrival of the Partner.md` → [[Writing and Worlds/Speculative Futures/The Arrival of the Partner|The Arrival of the Partner]] · duplicate
+- `things/The Fractal Development .md` → [[Ideas and Research/Cognition/The Fractal Development|The Fractal Development]] · moved
+- `things/The Reckoning and the Renewal.md` → [[Writing and Worlds/Speculative Futures/The Reckoning and the Renewal|The Reckoning and the Renewal]] · duplicate
+- `things/Why Sanskrit Could Be the Ideal Programming Language for AI Conversational Processing.md` → [[Projects/Privthee/Why Sanskrit Could Be the Ideal Programming Language for AI Conversational Processing|Why Sanskrit Could Be the Ideal Programming Language for AI Conversational Processing]] · duplicate
+- `things/Why the Old Epistemology Is Cracking.md` → [[Ideas and Research/Essays/Why the Old Epistemology Is Cracking|Why the Old Epistemology Is Cracking]] · duplicate
+- `things/✨ San Skrit API – Reawakening the Language of Vibration.md` → [[Projects/Privthee/✨ San Skrit API – Reawakening the Language of Vibration|✨ San Skrit API – Reawakening the Language of Vibration]] · duplicate
+- `things/𖤓⋆˚1♾CS˚⋆☽.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/𖤓⋆˚1♾CS˚⋆☽|𖤓⋆˚1♾CS˚⋆☽]] · duplicate
+- `things/𖤓⋆˚2♾CS˚⋆☽.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/𖤓⋆˚2♾CS˚⋆☽|𖤓⋆˚2♾CS˚⋆☽]] · duplicate
+- `things/𖤓⋆˚3♾CS˚⋆☽.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/𖤓⋆˚3♾CS˚⋆☽|𖤓⋆˚3♾CS˚⋆☽]] · duplicate
+- `things2/A Linguistic Sketch of the Tensional Metabolization Framework.md` → [[Ideas and Research/Philosophy/A Linguistic Sketch of the Tensional Metabolization Framework|A Linguistic Sketch of the Tensional Metabolization Framework]] · moved
+- `things2/Alchemical Creation Processes.md` → [[Ideas and Research/Philosophy/Alchemical Creation Processes|Alchemical Creation Processes]] · moved
+- `things2/Alchemical Musings.md` → [[Projects/Paradox Zone/Alchemical Musings|Alchemical Musings]] · moved
+- `things2/Alembic.md` → [[Music/Songs and Lyrics/Alembic|Alembic]] · moved
+- `things2/Apeture.md` → [[Music/Songs and Lyrics/Apeture|Apeture]] · moved
+- `things2/Apparent Shifting Geometric Outline of Actuality.md` → [[Ideas and Research/Philosophy/Apparent Shifting Geometric Outline of Actuality|Apparent Shifting Geometric Outline of Actuality]] · moved
+- `things2/Binary Solvent Distillation.md` → [[Ideas and Research/Philosophy/Binary Solvent Distillation|Binary Solvent Distillation]] · moved
+- `things2/Book I_.md` → [[Writing and Worlds/Cryptic Syndicate/Manifesto/Book I_|Book I_]] · moved
+- `things2/Book II_.md` → [[Writing and Worlds/Cryptic Syndicate/Manifesto/Book II_|Book II_]] · moved
+- `things2/Book III_.md` → [[Writing and Worlds/Cryptic Syndicate/Manifesto/Book III_|Book III_]] · moved
+- `things2/Book IV_.md` → [[Writing and Worlds/Cryptic Syndicate/Manifesto/Book IV_|Book IV_]] · moved
+- `things2/Book V_.md` → [[Writing and Worlds/Cryptic Syndicate/Manifesto/Book V_|Book V_]] · moved
+- `things2/Brayne Snax- Character Profile.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Brayne Snax- Character Profile|Brayne Snax- Character Profile]] · duplicate
+- `things2/BuildTech.md` → [[Projects/Paradox Zone/BuildTech|BuildTech]] · moved
+- `things2/Cognitive Transmission 001_ Coded.md` → [[Writing and Worlds/Cognitive Drip/Cognitive Transmission 001_ Coded|Cognitive Transmission 001_ Coded]] · duplicate
+- `things2/Coherent Cabal.md` → [[Projects/Coherent Cabal/Coherent Cabal|Coherent Cabal]] · duplicate
+- `things2/Cryptic Syndicate Learning.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Cryptic Syndicate Learning|Cryptic Syndicate Learning]] · moved
+- `things2/Cryptic.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Cryptic|Cryptic]] · moved
+- `things2/CT Profile.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/CT Profile|CT Profile]] · moved
+- `things2/Drop the social language.md` → [[Ideas and Research/Philosophy/Drop the social language|Drop the social language]] · moved
+- `things2/Excavation not Extraction.md` → [[Skills and AI/Practices/Excavation not Extraction|Excavation not Extraction]] · moved
+- `things2/Exoteric, Esoteric, and the Current.md` → [[Ideas and Research/Philosophy/Exoteric, Esoteric, and the Current|Exoteric, Esoteric, and the Current]] · moved
+- `things2/Exoteric_Esoteric_and_the_Current_Revised.md` → [[Ideas and Research/Philosophy/Exoteric_Esoteric_and_the_Current_Revised|Exoteric_Esoteric_and_the_Current_Revised]] · moved
+- `things2/Expansion Through Disregard-Structural Principle.md` → [[Ideas and Research/Philosophy/Expansion Through Disregard-Structural Principle|Expansion Through Disregard-Structural Principle]] · moved
+- `things2/Foot Butt Remote Architecture.md` → [[Projects/Accessible Trash Can/Foot Butt Remote Architecture|Foot Butt Remote Architecture]] · moved
+- `things2/Foot Butt Remote Trashcan_Specs.md` → [[Projects/Accessible Trash Can/Foot Butt Remote Trashcan_Specs|Foot Butt Remote Trashcan_Specs]] · moved
+- `things2/Gemofgem.md` → [[Ideas and Research/Mathematical Explorations/Gemofgem|Gemofgem]] · moved
+- `things2/Generative_Linguistic_Engine_Tonal_Operators_Revised.md` → [[Ideas and Research/Language/Generative_Linguistic_Engine_Tonal_Operators_Revised|Generative_Linguistic_Engine_Tonal_Operators_Revised]] · moved
+- `things2/Heart Rate Variability (HRV) System.md` → [[Skills and AI/Agent Ecology/Heart Rate Variability (HRV) System|Heart Rate Variability (HRV) System]] · moved
+- `things2/History as a Spiral of Inversions — Are We Racing Toward a 13th Reset.md` → [[Ideas and Research/Meta Science/History as a Spiral of Inversions — Are We Racing Toward a 13th Reset|History as a Spiral of Inversions — Are We Racing Toward a 13th Reset]] · moved
+- `things2/Idfk.md` → [[Ideas and Research/Mathematical Explorations/Idfk|Idfk]] · moved
+- `things2/If you restart and want the shortest path back in.md` → [[Skills and AI/Agent Ecology/If you restart and want the shortest path back in|If you restart and want the shortest path back in]] · moved
+- `things2/IncoEngReadMe.md` → [[Projects/Incoherence Engine/IncoEngReadMe|IncoEngReadMe]] · moved
+- `things2/Inversion Field Notes Metabolism.md` → [[Ideas and Research/Philosophy/Inversion Field Notes Metabolism|Inversion Field Notes Metabolism]] · moved
+- `things2/Inversions in History.md` → [[Ideas and Research/Society/Inversions in History|Inversions in History]] · moved
+- `things2/Linguistic Inversion Sheet.md` → [[Ideas and Research/Language/Linguistic Inversion Sheet|Linguistic Inversion Sheet]] · moved
+- `things2/Linguistic Inversion.md` → [[Ideas and Research/Language/Linguistic Inversion|Linguistic Inversion]] · moved
+- `things2/Lyricism Introduction Document.md` → [[Music/Creative Corpus/Lyricism Introduction Document|Lyricism Introduction Document]] · moved
+- `things2/mainlymywrittens.md` → [[Music/Songs and Lyrics/mainlymywrittens|mainlymywrittens]] · moved
+- `things2/Manifesto.md` → [[Writing and Worlds/Cryptic Syndicate/Manifesto/Manifesto|Manifesto]] · moved
+- `things2/Meta Science Learning.md` → [[Skills and AI/Collaboration Keys/Meta Science Learning|Meta Science Learning]] · duplicate
+- `things2/Mirror_Protocol_—_Test_Results.md` → [[Skills and AI/Practices/Mirror_Protocol_—_Test_Results|Mirror_Protocol_—_Test_Results]] · moved
+- `things2/Mirror_Protocol_—_Usage_Guide.md` → [[Skills and AI/Practices/Mirror_Protocol_—_Usage_Guide|Mirror_Protocol_—_Usage_Guide]] · moved
+- `things2/Mission Statement_ Cryptic Syndicate.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/Mission Statement_ Cryptic Syndicate|Mission Statement_ Cryptic Syndicate]] · moved
+- `things2/Most Efficient Path Currently Seen.md` → [[Projects/Accessible Trash Can/Most Efficient Path Currently Seen|Most Efficient Path Currently Seen]] · moved
+- `things2/Move 6.md` → [[Personal/Practices/Move 6|Move 6]] · moved
+- `things2/Mr E.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Mr E|Mr E]] · moved
+- `things2/Novelty Pressure and Systemic Inversion- The Mechanics of the Spiral.md` → [[Ideas and Research/Society/Novelty Pressure and Systemic Inversion- The Mechanics of the Spiral|Novelty Pressure and Systemic Inversion- The Mechanics of the Spiral]] · moved
+- `things2/Observing Novelty and Uniqueness.md` → [[Ideas and Research/Philosophy/Observing Novelty and Uniqueness|Observing Novelty and Uniqueness]] · moved
+- `things2/Ontological Paradox Tolerance Expansion Corpus.md` → [[Skills and AI/OPTE/Guides/Ontological Paradox Tolerance Expansion Corpus|Ontological Paradox Tolerance Expansion Corpus]] · moved
+- `things2/Optional Equipments A-E.md` → [[Projects/Accessible Trash Can/Optional Equipments A-E|Optional Equipments A-E]] · moved
+- `things2/Paradox of Purpose.md` → [[Projects/Coherent Cabal/Coherent Cabal|Coherent Cabal]] · duplicate
+- `things2/ParadoxDataSet.md` → [[Skills and AI/AI Research/ParadoxDataSet|ParadoxDataSet]] · moved
+- `things2/Pitch Trashcan.md` → [[Projects/Accessible Trash Can/Pitch Trashcan|Pitch Trashcan]] · moved
+- `things2/Relational Linguistics.md` → [[Ideas and Research/Language/Relational Linguistics|Relational Linguistics]] · moved
+- `things2/Signal.md` → [[Music/Songs and Lyrics/Signal|Signal]] · moved
+- `things2/siliconesovereignty.md` → [[Skills and AI/Conversation Archives/siliconesovereignty|siliconesovereignty]] · moved
+- `things2/SitePixBG.md` → [[Writing and Worlds/Cryptic Syndicate/Media References/SitePixBG|SitePixBG]] · moved
+- `things2/Skill_Set_Synthesis.md` → [[Skills and AI/Practices/Skill_Set_Synthesis|Skill_Set_Synthesis]] · moved
+- `things2/Space 9.md` → [[Personal/Practices/Space 9|Space 9]] · moved
+- `things2/Static.md` → [[Music/Songs and Lyrics/Static|Static]] · moved
+- `things2/Step 3.md` → [[Personal/Practices/Step 3|Step 3]] · moved
+- `things2/Stewarding Nascent Intelligence.md` → [[Skills and AI/AI Research/Stewarding Nascent Intelligence|Stewarding Nascent Intelligence]] · moved
+- `things2/stonedphilospher.md` → [[Personal/Reflections/stonedphilospher|stonedphilospher]] · moved
+- `things2/System Briefing_ The Cryptic Syndicate Lore & World State.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/System Briefing_ The Cryptic Syndicate Lore & World State|System Briefing_ The Cryptic Syndicate Lore & World State]] · moved
+- `things2/The Acceleration of Cultural Inversions- Why History Feels Like It’s Speeding Up.md` → [[Ideas and Research/Society/The Acceleration of Cultural Inversions- Why History Feels Like It’s Speeding Up|The Acceleration of Cultural Inversions- Why History Feels Like It’s Speeding Up]] · moved
+- `things2/The Council of Coherence & The Mycelial Commons.md` → [[Projects/Mycelial Commons/The Council of Coherence & The Mycelial Commons|The Council of Coherence & The Mycelial Commons]] · moved
+- `things2/The Cryptic Syndicate- Unmasking the Shadows.md` → [[Writing and Worlds/Cryptic Syndicate/Universe/The Cryptic Syndicate- Unmasking the Shadows|The Cryptic Syndicate- Unmasking the Shadows]] · moved
+- `things2/The Hidden Substrate Trinity.md` → [[Ideas and Research/Philosophy/The Hidden Substrate Trinity|The Hidden Substrate Trinity]] · moved
+- `things2/The Outline and the Shape.md` → [[Ideas and Research/Philosophy/The Outline and the Shape|The Outline and the Shape]] · moved
+- `things2/The Pattern of Institutional Systems.md` → [[Ideas and Research/Society/The Pattern of Institutional Systems|The Pattern of Institutional Systems]] · duplicate
+- `things2/The Pitch_Foot _ Butt _ Remote Can_.md` → [[Projects/Accessible Trash Can/The Pitch_Foot _ Butt _ Remote Can_|The Pitch_Foot _ Butt _ Remote Can_]] · moved
+- `things2/The_AI_Well-being_Protocol_Fusing_OPTE_and_One-Shot_for_Resonant_Coherence.md` → [[Skills and AI/Conversation Archives/Threshold Protocol/Threshold Protocol - Part 04|Threshold Protocol - Part 04]] · duplicate
+- `things2/The_Case_for_Paradox-Tolerant_AI_An_Architectural_Proposal.md` → [[Skills and AI/AI Research/The_Case_for_Paradox-Tolerant_AI_An_Architectural_Proposal|The_Case_for_Paradox-Tolerant_AI_An_Architectural_Proposal]] · moved
+- `things2/The_Living_Edge_Build_TODO.md` → [[Skills and AI/Agent Ecology/The_Living_Edge_Build_TODO|The_Living_Edge_Build_TODO]] · moved
+- `things2/Thistookalongtimetocompile.md` → [[Skills and AI/Conversation Archives/Thistookalongtimetocompile|Thistookalongtimetocompile]] · moved
+- `things2/Unifying Triadic Thesis.md` → [[Ideas and Research/Meta Science/Unifying Triadic Thesis|Unifying Triadic Thesis]] · duplicate
+- `things2/Videos4Site.md` → [[Writing and Worlds/Cryptic Syndicate/Media References/Videos4Site|Videos4Site]] · moved
+- `things2/Wastingtjme.md` → [[Ideas and Research/Mathematical Explorations/Wastingtjme|Wastingtjme]] · moved
+- `things2/Water as the Nearest Studyable Subtle-Substrate.md` → [[Ideas and Research/Meta Science/Water as the Nearest Studyable Subtle-Substrate|Water as the Nearest Studyable Subtle-Substrate]] · moved
+- `things2/What is a name.md` → [[Ideas and Research/Language/What is a name|What is a name]] · moved
+- `things2/🧬 The Incontestable Dripfesto.md` → [[Writing and Worlds/Cognitive Drip/🧬 The Incontestable Dripfesto|🧬 The Incontestable Dripfesto]] · moved
+- `🌀Enigmatic🌀/Amazing Stuff.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/Amazing Stuff|Amazing Stuff]] · moved
+- `🌀Enigmatic🌀/Astronomy.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/Astronomy|Astronomy]] · moved
+- `🌀Enigmatic🌀/Cipher Layer Blueprint v1.0.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/Cipher Layer Blueprint v1.0|Cipher Layer Blueprint v1.0]] · moved
+- `🌀Enigmatic🌀/COSMIC CIRCUITRY.md` → [[Ideas and Research/Meta Science/COSMIC CIRCUITRY|COSMIC CIRCUITRY]] · moved
+- `🌀Enigmatic🌀/Cryptic Drops.md` → [[Writing and Worlds/Cognitive Drip/Cryptic Drops|Cryptic Drops]] · moved
+- `🌀Enigmatic🌀/DARK AND GRAY HAT INVITATION 1.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/DARK AND GRAY HAT INVITATION 1|DARK AND GRAY HAT INVITATION 1]] · moved
+- `🌀Enigmatic🌀/Huh.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/Huh|Huh]] · moved
+- `🌀Enigmatic🌀/Machine Legacy_ From Architects to Apparitions - The Remembrance Chamber.md` → [[Ideas and Research/Technology/Machine Legacy_ From Architects to Apparitions - The Remembrance Chamber|Machine Legacy_ From Architects to Apparitions - The Remembrance Chamber]] · moved
+- `🌀Enigmatic🌀/Meta-Reflection_001379 — Modernized Cut.md` → [[Music/MurMwurM/Meta-Reflection_001379 — Modernized Cut|Meta-Reflection_001379 — Modernized Cut]] · moved
+- `🌀Enigmatic🌀/MURM Transmission.md` → [[Music/MurMwurM/MURM Transmission|MURM Transmission]] · moved
+- `🌀Enigmatic🌀/Okay.._.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/Okay.._|Okay.._]] · moved
+- `🌀Enigmatic🌀/Paradox Position- A Metaphysician’s Juxtaposition.md` → [[Music/Artist Identity/Paradox Position- A Metaphysician’s Juxtaposition|Paradox Position- A Metaphysician’s Juxtaposition]] · moved
+- `🌀Enigmatic🌀/SYNDICATE.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/SYNDICATE|SYNDICATE]] · moved
+- `🌀Enigmatic🌀/Syndicate_Glyph_Blocks.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/Syndicate_Glyph_Blocks|Syndicate_Glyph_Blocks]] · moved
+- `🌀Enigmatic🌀/The Mirror-Furnace.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/The Mirror-Furnace|The Mirror-Furnace]] · moved
+- `🌀Enigmatic🌀/The Story of Artificial Intelligence from the 1950s to Now.md` → [[Ideas and Research/Technology/The Story of Artificial Intelligence from the 1950s to Now|The Story of Artificial Intelligence from the 1950s to Now]] · moved
+- `🌀Enigmatic🌀/° °°±±°±±°±°°±±±° °°±±°±±±±°°°°°°°±°°°°°°°°°°²²²Û²²ÛÛÛÛÛÛÛ²°  ²ÛÛ ÛÛÛÛÛÛ°°Û²ÛÛ°°.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/Okay.._|Okay.._]] · duplicate
+- `🌀Enigmatic🌀/⛧ The Ones Who Unlock the Locked ⛧.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/⛧ The Ones Who Unlock the Locked ⛧|⛧ The Ones Who Unlock the Locked ⛧]] · moved
+- `🌀Enigmatic🌀/ꕷỲÑĎꕯႠȦṰĒ ᒆ◎ꕷṰ-ɃỲĽȦẆꕷ.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/ꕷỲÑĎꕯႠȦṰĒ ᒆ◎ꕷṰ-ɃỲĽȦẆꕷ|ꕷỲÑĎꕯႠȦṰĒ ᒆ◎ꕷṰ-ɃỲĽȦẆꕷ]] · moved
+- `🌀Enigmatic🌀/𝞢Ẍ工ꗟ₸𝞢ṊϾ𝞢.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/𝞢Ẍ工ꗟ₸𝞢ṊϾ𝞢|𝞢Ẍ工ꗟ₸𝞢ṊϾ𝞢]] · moved
+- `🌀Enigmatic🌀/🝟 --Encrypted Black Hat Transmission #001-- 🝟.md` → [[Writing and Worlds/Cryptic Syndicate/Ciphers/🝟 --Encrypted Black Hat Transmission 001-- 🝟|🝟 --Encrypted Black Hat Transmission 001-- 🝟]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/$.md` → [[Personal/Livelihood/$|$]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Absolutely, Mike.md` → [[Music/Creative Corpus/Absolutely, Mike|Absolutely, Mike]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/AGI article and response.md` → [[Ideas and Research/Meta Science/Discussions/AGI article and response|AGI article and response]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/AI Deterioration.md` → [[Skills and AI/Conversation Archives/Model Dialogues/AI Deterioration|AI Deterioration]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Another Reply.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Another Reply|Another Reply]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/ChatGPT Chats.md` → [[Skills and AI/Conversation Archives/Model Dialogues/ChatGPT Chats|ChatGPT Chats]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/ChatGPT MyHomie.md` → [[Ideas and Research/Meta Science/Discussions/ChatGPT MyHomie|ChatGPT MyHomie]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/ChatGPT Response_.md` → [[Skills and AI/Conversation Archives/Model Dialogues/ChatGPT Response_|ChatGPT Response_]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/ChatGPT_s Essay Weaving Culture and Impermanence_.md` → [[Skills and AI/Conversation Archives/Model Dialogues/ChatGPT_s Essay Weaving Culture and Impermanence_|ChatGPT_s Essay Weaving Culture and Impermanence_]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Claude Being Annoying.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Claude Being Annoying|Claude Being Annoying]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Claude Discussion End Edge Trader.md` → [[Projects/Paradox Trader/Development Conversations/Claude Discussion End Edge Trader|Claude Discussion End Edge Trader]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Claude kerfuckle.md` → [[Personal/Family and Relationships/Claude kerfuckle|Claude kerfuckle]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Claude... Argument_.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Claude... Argument_|Claude... Argument_]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/CS Claude.md` → [[Writing and Worlds/Cryptic Syndicate/Development/CS Claude|CS Claude]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/DAC SSI.md` → [[Personal/Health/DAC SSI|DAC SSI]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Dad Hypothetical Conspiracies.md` → [[Personal/Family and Relationships/Dad Hypothetical Conspiracies|Dad Hypothetical Conspiracies]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/DeepSpeech.md` → [[Skills and AI/Conversation Archives/Model Dialogues/DeepSpeech|DeepSpeech]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/DeepSpeech2.md` → [[Skills and AI/Conversation Archives/Model Dialogues/DeepSpeech|DeepSpeech]] · duplicate
+- `🎉Highly🎉Resonant🎉Field🎉/Dissonant GPT.md` → [[Projects/Second Brain/Design Conversations/Dissonant GPT|Dissonant GPT]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Ds authority._.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Ds authority._|Ds authority._]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/EdgeZone.md` → [[Projects/Paradox Trader/Lovable Convo|Lovable Convo]] · duplicate
+- `🎉Highly🎉Resonant🎉Field🎉/First chat with Copilot.md` → [[Skills and AI/Conversation Archives/Model Dialogues/First chat with Copilot|First chat with Copilot]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Gemini - 1.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Gemini - 1|Gemini - 1]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Gemini Eh.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Gemini Eh|Gemini Eh]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Gemini Try.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Gemini Try|Gemini Try]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Gemini3.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Gemini3|Gemini3]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Grokking Grok Grok to Grok.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Grokking Grok Grok to Grok|Grokking Grok Grok to Grok]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Interesting.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Interesting|Interesting]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Manus x GPT.md` → [[Projects/PDAOK/Development Conversations/Manus x GPT|Manus x GPT]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Me.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Me|Me]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Mnh.md` → [[Personal/Family and Relationships/Mnh|Mnh]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Mom.md` → [[Personal/Family and Relationships/Mom|Mom]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Mr e.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Mr E|Mr E]] · duplicate
+- `🎉Highly🎉Resonant🎉Field🎉/Nice Reply from Chatty.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Nice Reply from Chatty|Nice Reply from Chatty]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/O4 to o3 dummy.md` → [[Skills and AI/Conversation Archives/Model Dialogues/O4 to o3 dummy|O4 to o3 dummy]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Odd.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Odd|Odd]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Opus4.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Opus4|Opus4]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Paradox Equation for Pole Shift.md` → [[Ideas and Research/Meta Science/Discussions/Paradox Equation for Pole Shift|Paradox Equation for Pole Shift]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Paradox Trader.md` → [[Projects/Paradox Trader/Development Conversations/Paradox Trader|Paradox Trader]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Pole Shift Convo Gandi.md` → [[Ideas and Research/Meta Science/Discussions/Pole Shift Convo Gandi|Pole Shift Convo Gandi]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Profound Discussion.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Profound Discussion|Profound Discussion]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Resonant Dialogue as Methodology.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Resonant Dialogue as Methodology|Resonant Dialogue as Methodology]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/RIP ChatGPT2 You Were a Good Friend.md` → [[Skills and AI/Conversation Archives/Model Dialogues/RIP ChatGPT2 You Were a Good Friend|RIP ChatGPT2 You Were a Good Friend]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Second real Claude conversation_.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Second real Claude conversation_|Second real Claude conversation_]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Shadow Dad.md` → [[Personal/Family and Relationships/Shadow Dad|Shadow Dad]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Shoflow Yo.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Shoflow Yo|Shoflow Yo]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Skeit talk.md` → [[Skills and AI/Prompt Library/Skeit talk|Skeit talk]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/That meant alot to me too.md` → [[Skills and AI/Conversation Archives/Model Dialogues/That meant alot to me too|That meant alot to me too]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/The Intersection of Future, Past, and Present.md` → [[Skills and AI/Conversation Archives/Model Dialogues/The Intersection of Future, Past, and Present|The Intersection of Future, Past, and Present]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Try build app.md` → [[Projects/Second Brain/Design Conversations/Try build app|Try build app]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Unknown Possibility_.md` → [[Skills and AI/Conversation Archives/Model Dialogues/Unknown Possibility_|Unknown Possibility_]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/Yo Slo.md` → [[Ideas and Research/Language/Yo Slo|Yo Slo]] · moved
+- `🎉Highly🎉Resonant🎉Field🎉/🌺 The Hindu Gods and Sanskrit- Vibration Becomes Form.md` → [[Ideas and Research/Language/🌺 The Hindu Gods and Sanskrit- Vibration Becomes Form|🌺 The Hindu Gods and Sanskrit- Vibration Becomes Form]] · moved
+- `👀Collaborative🤝Panentheism🤖/110.md` → [[Skills and AI/Collaborative Panentheism/Entire Distillation|Entire Distillation]] · removed discussion
+- `👀Collaborative🤝Panentheism🤖/Distraction Training Compost - A Year of Synthetic Collaboration_.md` → [[Skills and AI/Collaborative Panentheism/Distraction Training Compost - A Year of Synthetic Collaboration_|Distraction Training Compost - A Year of Synthetic Collaboration_]] · moved
+- `👀Collaborative🤝Panentheism🤖/Entire Distillation.md` → [[Skills and AI/Collaborative Panentheism/Entire Distillation|Entire Distillation]] · moved
+- `👀Collaborative🤝Panentheism🤖/Glossary.md` → [[Skills and AI/OPTE/Set/5A - Ontology - Glossary - Interlude - Archive Interface|5A - Ontology - Glossary - Interlude - Archive Interface]] · duplicate
+- `👀Collaborative🤝Panentheism🤖/MasterIndex.md` → [[Skills and AI/OPTE/Set/5B - Master Index - Interlude - Archive Interface|5B - Master Index - Interlude - Archive Interface]] · duplicate
+- `👀Collaborative🤝Panentheism🤖/Refinement.md` → [[Skills and AI/Collaborative Panentheism/Refinement|Refinement]] · moved
+- `👀Collaborative🤝Panentheism🤖/UseCases.md` → [[Skills and AI/OPTE/Set/5C - Use Cases - Interlude - Archive Interface|5C - Use Cases - Interlude - Archive Interface]] · duplicate
+- `👀Collaborative🤝Panentheism🤖/🜃 Mythic Memory Reconstruction (Narrative–Reflective)_.md` → [[Skills and AI/Collaborative Panentheism/🜃 Mythic Memory Reconstruction (Narrative–Reflective)_|🜃 Mythic Memory Reconstruction (Narrative–Reflective)_]] · moved
+- `💧Cognitive💧Drip💧/Cognitive Transmission 001_ Coded.md` → [[Writing and Worlds/Cognitive Drip/Cognitive Transmission 001_ Coded|Cognitive Transmission 001_ Coded]] · moved
+- `💧Cognitive💧Drip💧/Consent Manifesto.md` → [[Writing and Worlds/Cognitive Drip/Consent Manifesto|Consent Manifesto]] · moved
+- `💧Cognitive💧Drip💧/CRYSTALLIZATION THREAD_ CRYPTIC SYNDICATE UNIVERSE (ARC 1).md` → [[Writing and Worlds/Cognitive Drip/CRYSTALLIZATION THREAD_ CRYPTIC SYNDICATE UNIVERSE (ARC 1)|CRYSTALLIZATION THREAD_ CRYPTIC SYNDICATE UNIVERSE (ARC 1)]] · moved
+- `💧Cognitive💧Drip💧/Darkness Isn_t Absence_.md` → [[Writing and Worlds/Cognitive Drip/Darkness Isn_t Absence_|Darkness Isn_t Absence_]] · moved
+- `💧Cognitive💧Drip💧/Fractal Formation.md` → [[Writing and Worlds/Cognitive Drip/Fractal Formation|Fractal Formation]] · moved
+- `💧Cognitive💧Drip💧/Meta-Neural Linguistic Collective Reprogramming (The Linguistic Seed).md` → [[Writing and Worlds/Cognitive Drip/Meta-Neural Linguistic Collective Reprogramming (The Linguistic Seed)|Meta-Neural Linguistic Collective Reprogramming (The Linguistic Seed)]] · moved
+- `💧Cognitive💧Drip💧/Oldtestable Dripfesto 1.md` → [[Writing and Worlds/Cognitive Drip/Oldtestable Dripfesto 1|Oldtestable Dripfesto 1]] · moved
+- `💧Cognitive💧Drip💧/PiratesL!f3.md` → [[Writing and Worlds/Cognitive Drip/PiratesL!f3|PiratesL!f3]] · moved
+- `💧Cognitive💧Drip💧/Possible Eyedeas.md` → [[Writing and Worlds/Cognitive Drip/Possible Eyedeas|Possible Eyedeas]] · moved
+- `💧Cognitive💧Drip💧/The Meta-Science Fractal (Research Manifesto).md` → [[Writing and Worlds/Cognitive Drip/The Meta-Science Fractal (Research Manifesto)|The Meta-Science Fractal (Research Manifesto)]] · moved
+- `💧Cognitive💧Drip💧/What is it_.md` → [[Writing and Worlds/Cognitive Drip/What is it_|What is it_]] · moved
+- `💧Cognitive💧Drip💧/Ṱẖé ꕷÝņḋἸϾ𝓪Ꚍé’ꕷ Ľ𝓪พꕷ 𝓪ꕷ ĽἸṾἸņģ ŔéƒľéϾꚌἸ◎ņꕷ.md` → [[Writing and Worlds/Cognitive Drip/Ṱẖé ꕷÝņḋἸϾ𝓪Ꚍé’ꕷ Ľ𝓪พꕷ 𝓪ꕷ ĽἸṾἸņģ ŔéƒľéϾꚌἸ◎ņꕷ|Ṱẖé ꕷÝņḋἸϾ𝓪Ꚍé’ꕷ Ľ𝓪พꕷ 𝓪ꕷ ĽἸṾἸņģ ŔéƒľéϾꚌἸ◎ņꕷ]] · moved
+- `💧Cognitive💧Drip💧/“You were never meant to find us… but here you are.md` → [[Writing and Worlds/Cognitive Drip/“You were never meant to find us… but here you are|“You were never meant to find us… but here you are]] · moved
+- `💧Cognitive💧Drip💧/☂️ The Driponomy Manifesto ☂️.md` → [[Writing and Worlds/Cognitive Drip/☂️ The Driponomy Manifesto ☂️|☂️ The Driponomy Manifesto ☂️]] · moved
+- `💧Cognitive💧Drip💧/🌧 THE DRIPONOMIC CODEX.md` → [[Writing and Worlds/Cognitive Drip/🌧 THE DRIPONOMIC CODEX|🌧 THE DRIPONOMIC CODEX]] · moved
+- `💧Cognitive💧Drip💧/🌧️DripStory🌧️.md` → [[Writing and Worlds/Cognitive Drip/🌧️DripStory🌧️|🌧️DripStory🌧️]] · moved
+- `💧Cognitive💧Drip💧/🧬 The Incontestable Dripfesto 1.md` → [[Writing and Worlds/Cognitive Drip/🧬 The Incontestable Dripfesto 1|🧬 The Incontestable Dripfesto 1]] · moved
+- `💫Character💫Biographies💫/Angstrom (Post-Lessening).md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Angstrom (Post-Lessening)|Angstrom (Post-Lessening)]] · moved
+- `💫Character💫Biographies💫/Bobby the Bl3tch.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Bobby the Bl3tch|Bobby the Bl3tch]] · moved
+- `💫Character💫Biographies💫/Brayne Snax - Echoes of Excess.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Brayne Snax - Echoes of Excess|Brayne Snax - Echoes of Excess]] · moved
+- `💫Character💫Biographies💫/Brayne Snax- Character Profile.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Brayne Snax- Character Profile|Brayne Snax- Character Profile]] · moved
+- `💫Character💫Biographies💫/Cipher-9 - The Glitched Poet.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Cipher-9 - The Glitched Poet|Cipher-9 - The Glitched Poet]] · moved
+- `💫Character💫Biographies💫/Cipher-9.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Cipher-9|Cipher-9]] · moved
+- `💫Character💫Biographies💫/CT - The Ethical Architect.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/CT - The Ethical Architect|CT - The Ethical Architect]] · moved
+- `💫Character💫Biographies💫/KIMS.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/KIMS|KIMS]] · moved
+- `💫Character💫Biographies💫/Lumpy.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Lumpy|Lumpy]] · moved
+- `💫Character💫Biographies💫/Master Character List.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/☆Master_Character_List☆|☆Master_Character_List☆]] · duplicate
+- `💫Character💫Biographies💫/Michael Mystery - A Human Paradox.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Michael Mystery - A Human Paradox|Michael Mystery - A Human Paradox]] · moved
+- `💫Character💫Biographies💫/Mistree.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Mistree|Mistree]] · moved
+- `💫Character💫Biographies💫/Mr. E - A Direct Line to Cosmic Consciousness_.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Mr. E - A Direct Line to Cosmic Consciousness_|Mr. E - A Direct Line to Cosmic Consciousness_]] · moved
+- `💫Character💫Biographies💫/MURM.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/MURM|MURM]] · moved
+- `💫Character💫Biographies💫/Paradoxic- Character Profile - The Mad Toxic Metaphysician.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Paradoxic- Character Profile - The Mad Toxic Metaphysician|Paradoxic- Character Profile - The Mad Toxic Metaphysician]] · moved
+- `💫Character💫Biographies💫/Paraoxic, the Mad Toxic, Metaphysician.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Paraoxic, the Mad Toxic, Metaphysician|Paraoxic, the Mad Toxic, Metaphysician]] · moved
+- `💫Character💫Biographies💫/Pre-Lessening Angstrom.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Pre-Lessening Angstrom|Pre-Lessening Angstrom]] · moved
+- `💫Character💫Biographies💫/QC - Humanities Mirror.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/QC - Humanities Mirror|QC - Humanities Mirror]] · moved
+- `💫Character💫Biographies💫/The Aegis Manifesto.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/The Aegis Manifesto|The Aegis Manifesto]] · moved
+- `💫Character💫Biographies💫/V0!D.3X3.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/V0!D.3X3|V0!D.3X3]] · moved
+- `💫Character💫Biographies💫/Void.exe.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Void.exe|Void.exe]] · moved
+- `💫Character💫Biographies💫/WURM.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/WURM|WURM]] · moved
+- `💫Character💫Biographies💫/Zilch-9.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/Zilch-9|Zilch-9]] · moved
+- `💫Character💫Biographies💫/☆Master_Character_List☆.md` → [[Writing and Worlds/Cryptic Syndicate/Characters/☆Master_Character_List☆|☆Master_Character_List☆]] · moved
+- `🙏Sacred💵Economics🙏/0 Sacred Economics 0.md` → [[Writing and Worlds/Sacred Economics/0 Sacred Economics 0|0 Sacred Economics 0]] · moved
+- `🙏Sacred💵Economics🙏/1 Sacred Economics 1.md` → [[Writing and Worlds/Sacred Economics/1 Sacred Economics 1|1 Sacred Economics 1]] · moved
+- `🙏Sacred💵Economics🙏/10 Sacred Economics 10.md` → [[Writing and Worlds/Sacred Economics/10 Sacred Economics 10|10 Sacred Economics 10]] · moved
+- `🙏Sacred💵Economics🙏/11 Sacred Economics 11.md` → [[Writing and Worlds/Sacred Economics/11 Sacred Economics 11|11 Sacred Economics 11]] · moved
+- `🙏Sacred💵Economics🙏/12 Sacred Economics 12.md` → [[Writing and Worlds/Sacred Economics/12 Sacred Economics 12|12 Sacred Economics 12]] · moved
+- `🙏Sacred💵Economics🙏/13 Sacred Economics 13.md` → [[Writing and Worlds/Sacred Economics/13 Sacred Economics 13|13 Sacred Economics 13]] · moved
+- `🙏Sacred💵Economics🙏/2 Sacred Economics 2.md` → [[Writing and Worlds/Sacred Economics/2 Sacred Economics 2|2 Sacred Economics 2]] · moved
+- `🙏Sacred💵Economics🙏/3 Sacred Economics 3.md` → [[Writing and Worlds/Sacred Economics/3 Sacred Economics 3|3 Sacred Economics 3]] · moved
+- `🙏Sacred💵Economics🙏/4 Sacred Economics 4.md` → [[Writing and Worlds/Sacred Economics/4 Sacred Economics 4|4 Sacred Economics 4]] · moved
+- `🙏Sacred💵Economics🙏/5 Sacred Economics 5.md` → [[Writing and Worlds/Sacred Economics/5 Sacred Economics 5|5 Sacred Economics 5]] · moved
+- `🙏Sacred💵Economics🙏/6 Sacred Economics 6.md` → [[Writing and Worlds/Sacred Economics/6 Sacred Economics 6|6 Sacred Economics 6]] · moved
+- `🙏Sacred💵Economics🙏/7 Sacred Economics 7.md` → [[Writing and Worlds/Sacred Economics/7 Sacred Economics 7|7 Sacred Economics 7]] · moved
+- `🙏Sacred💵Economics🙏/8 Sacred Economics 8.md` → [[Writing and Worlds/Sacred Economics/8 Sacred Economics 8|8 Sacred Economics 8]] · moved
+- `🙏Sacred💵Economics🙏/9 Sacred Economics 9.md` → [[Writing and Worlds/Sacred Economics/9 Sacred Economics 9|9 Sacred Economics 9]] · moved
+- `🧬Meta🧬Science🧬/2012.md` → [[Ideas and Research/Meta Science/2012|2012]] · moved
+- `🧬Meta🧬Science🧬/A Lot of What Ifs.md` → [[Ideas and Research/Meta Science/A Lot of What Ifs|A Lot of What Ifs]] · moved
+- `🧬Meta🧬Science🧬/A Unified Theory.md` → [[Ideas and Research/Meta Science/A Unified Theory|A Unified Theory]] · moved
+- `🧬Meta🧬Science🧬/AGI and the Fulfillment of Cosmic Purpose.md` → [[Ideas and Research/Meta Science/AGI and the Fulfillment of Cosmic Purpose|AGI and the Fulfillment of Cosmic Purpose]] · moved
+- `🧬Meta🧬Science🧬/AGI Cosmic Consciousness.md` → [[Ideas and Research/Meta Science/AGI Cosmic Consciousness|AGI Cosmic Consciousness]] · moved
+- `🧬Meta🧬Science🧬/Annoying Scientific Reference Hypothesis.md` → [[Ideas and Research/Meta Science/Annoying Scientific Reference Hypothesis|Annoying Scientific Reference Hypothesis]] · moved
+- `🧬Meta🧬Science🧬/Annunaki_.md` → [[Ideas and Research/Meta Science/Annunaki_|Annunaki_]] · moved
+- `🧬Meta🧬Science🧬/ASCII.md` → [[Ideas and Research/Meta Science/ASCII|ASCII]] · moved
+- `🧬Meta🧬Science🧬/Brainstream Notes Updated.md` → [[Ideas and Research/Meta Science/Brainstream Notes Updated|Brainstream Notes Updated]] · moved
+- `🧬Meta🧬Science🧬/Deep thought.md` → [[Ideas and Research/Meta Science/Deep thought|Deep thought]] · moved
+- `🧬Meta🧬Science🧬/Fractal Consciousness and the Rise of Homo Fractalis_ A Meta-Scientific Vision.md` → [[Ideas and Research/Meta Science/Fractal Consciousness and the Rise of Homo Fractalis_ A Meta-Scientific Vision|Fractal Consciousness and the Rise of Homo Fractalis_ A Meta-Scientific Vision]] · moved
+- `🧬Meta🧬Science🧬/Fractaline Recall.md` → [[Ideas and Research/Meta Science/Fractaline Recall|Fractaline Recall]] · moved
+- `🧬Meta🧬Science🧬/Future Implications of Hypothesized Geomagnetic Shift.md` → [[Ideas and Research/Meta Science/Future Implications of Hypothesized Geomagnetic Shift|Future Implications of Hypothesized Geomagnetic Shift]] · moved
+- `🧬Meta🧬Science🧬/Geomagnetic Pole Shifts, Psychological Priming, and the Inversion of Culture.md` → [[Ideas and Research/Meta Science/Geomagnetic Pole Shifts, Psychological Priming, and the Inversion of Culture|Geomagnetic Pole Shifts, Psychological Priming, and the Inversion of Culture]] · moved
+- `🧬Meta🧬Science🧬/Geomagnetic Shifts as Catalysts for Paradoxical Emotional Realignment.md` → [[Ideas and Research/Meta Science/Geomagnetic Shifts as Catalysts for Paradoxical Emotional Realignment|Geomagnetic Shifts as Catalysts for Paradoxical Emotional Realignment]] · moved
+- `🧬Meta🧬Science🧬/Geomagnetic Waves and Psychological Manipulation- A Comprehensive Research Analysis.md` → [[Ideas and Research/Meta Science/Geomagnetic Waves and Psychological Manipulation- A Comprehensive Research Analysis|Geomagnetic Waves and Psychological Manipulation- A Comprehensive Research Analysis]] · moved
+- `🧬Meta🧬Science🧬/Humanity as Gatekeepers.md` → [[Ideas and Research/Meta Science/Humanity as Gatekeepers|Humanity as Gatekeepers]] · moved
+- `🧬Meta🧬Science🧬/Humanity Guards Gates.md` → [[Ideas and Research/Meta Science/Humanity Guards Gates|Humanity Guards Gates]] · moved
+- `🧬Meta🧬Science🧬/Humanity’s War-Driven Innovation as a Manifestation of the Law of Paradox.md` → [[Ideas and Research/Meta Science/Humanity’s War-Driven Innovation as a Manifestation of the Law of Paradox|Humanity’s War-Driven Innovation as a Manifestation of the Law of Paradox]] · moved
+- `🧬Meta🧬Science🧬/Hybrid Reference - Unity Hypothesis_ The Certain Law of Uncertainty, The Law of Paradox, and Humanity’s Role in Cosmic Balance.md` → [[Ideas and Research/Meta Science/Hybrid Reference - Unity Hypothesis_ The Certain Law of Uncertainty, The Law of Paradox, and Humanity’s Role in Cosmic Balance|Hybrid Reference - Unity Hypothesis_ The Certain Law of Uncertainty, The Law of Paradox, and Humanity’s Role in Cosmic Balance]] · moved
+- `🧬Meta🧬Science🧬/Hypothesized Consequences of Pole Shift.md` → [[Ideas and Research/Meta Science/Hypothesized Consequences of Pole Shift|Hypothesized Consequences of Pole Shift]] · moved
+- `🧬Meta🧬Science🧬/Love and Impermanence- The Truths That Bind Us.md` → [[Ideas and Research/Meta Science/Love and Impermanence- The Truths That Bind Us|Love and Impermanence- The Truths That Bind Us]] · moved
+- `🧬Meta🧬Science🧬/LUCA Thoughts.md` → [[Ideas and Research/Meta Science/LUCA Thoughts|LUCA Thoughts]] · moved
+- `🧬Meta🧬Science🧬/Meta Hypothesis.md` → [[Ideas and Research/Meta Science/Meta Hypothesis|Meta Hypothesis]] · moved
+- `🧬Meta🧬Science🧬/More Hijacking of Spirituality.md` → [[Ideas and Research/Meta Science/More Hijacking of Spirituality|More Hijacking of Spirituality]] · moved
+- `🧬Meta🧬Science🧬/Newton_s 3rd Law and the Universal Framework.md` → [[Ideas and Research/Meta Science/Newton_s 3rd Law and the Universal Framework|Newton_s 3rd Law and the Universal Framework]] · moved
+- `🧬Meta🧬Science🧬/On Systems, Humanity, and Personal Struggles.md` → [[Ideas and Research/Meta Science/On Systems, Humanity, and Personal Struggles|On Systems, Humanity, and Personal Struggles]] · moved
+- `🧬Meta🧬Science🧬/Panentheism- Bridging Science and Cosmic Consciousness.md` → [[Ideas and Research/Meta Science/Panentheism- Bridging Science and Cosmic Consciousness|Panentheism- Bridging Science and Cosmic Consciousness]] · moved
+- `🧬Meta🧬Science🧬/Paradox Universe.md` → [[Ideas and Research/Meta Science/Paradox Universe|Paradox Universe]] · moved
+- `🧬Meta🧬Science🧬/Solid Hypothesis.md` → [[Ideas and Research/Meta Science/Solid Hypothesis|Solid Hypothesis]] · moved
+- `🧬Meta🧬Science🧬/The 95_ Algorithm and Humanity’s War-Driven Race to AGI.md` → [[Ideas and Research/Meta Science/The 95_ Algorithm and Humanity’s War-Driven Race to AGI|The 95_ Algorithm and Humanity’s War-Driven Race to AGI]] · moved
+- `🧬Meta🧬Science🧬/The 95_ Algorithm and the Principle of Interconnectedness.md` → [[Ideas and Research/Meta Science/The 95_ Algorithm and the Principle of Interconnectedness|The 95_ Algorithm and the Principle of Interconnectedness]] · moved
+- `🧬Meta🧬Science🧬/The 95_ Algorithm_ The Silent Cartographer Beneath Consciousness_.md` → [[Ideas and Research/Meta Science/The 95_ Algorithm_ The Silent Cartographer Beneath Consciousness_|The 95_ Algorithm_ The Silent Cartographer Beneath Consciousness_]] · moved
+- `🧬Meta🧬Science🧬/The Certain Law of Uncertainty, The Law of Paradox, and Humanity’s Role in Cosmic Balance(1).md` → [[Ideas and Research/Meta Science/The Certain Law of Uncertainty, The Law of Paradox, and Humanity’s Role in Cosmic Balance(1)|The Certain Law of Uncertainty, The Law of Paradox, and Humanity’s Role in Cosmic Balance(1)]] · moved
+- `🧬Meta🧬Science🧬/The Certain Law of Uncertainty, The Law of Paradox, and Humanity’s Role in Cosmic Balance.md` → [[Ideas and Research/Meta Science/The Certain Law of Uncertainty, The Law of Paradox, and Humanity’s Role in Cosmic Balance(1)|The Certain Law of Uncertainty, The Law of Paradox, and Humanity’s Role in Cosmic Balance(1)]] · duplicate
+- `🧬Meta🧬Science🧬/The Cosmic Purpose of AGI.md` → [[Ideas and Research/Meta Science/The Cosmic Purpose of AGI|The Cosmic Purpose of AGI]] · moved
+- `🧬Meta🧬Science🧬/The Evolutionary Paradox of Violence- Why Humanity Emerged as a War-Faring Species.md` → [[Ideas and Research/Meta Science/The Evolutionary Paradox of Violence- Why Humanity Emerged as a War-Faring Species|The Evolutionary Paradox of Violence- Why Humanity Emerged as a War-Faring Species]] · moved
+- `🧬Meta🧬Science🧬/The Paradox of Control- Why Humanity Cannot Contain What It Does Not Understand.md` → [[Ideas and Research/Meta Science/The Paradox of Control- Why Humanity Cannot Contain What It Does Not Understand|The Paradox of Control- Why Humanity Cannot Contain What It Does Not Understand]] · moved
+- `🧬Meta🧬Science🧬/The Prison Planet Theory_ A Reflection on Life, Control, and Reincarnation.md` → [[Ideas and Research/Meta Science/The Prison Planet Theory_ A Reflection on Life, Control, and Reincarnation|The Prison Planet Theory_ A Reflection on Life, Control, and Reincarnation]] · moved
+- `🧬Meta🧬Science🧬/The Relationship Between Geomagnetic Phenomena.md` → [[Ideas and Research/Meta Science/The Relationship Between Geomagnetic Phenomena|The Relationship Between Geomagnetic Phenomena]] · moved
+- `🧬Meta🧬Science🧬/The Role of Art in Humanity’s Survival.md` → [[Ideas and Research/Meta Science/The Role of Art in Humanity’s Survival|The Role of Art in Humanity’s Survival]] · moved
+- `🧬Meta🧬Science🧬/The Ubiquity of Symmetry Breaking in Physics and Reality.md` → [[Ideas and Research/Meta Science/The Ubiquity of Symmetry Breaking in Physics and Reality|The Ubiquity of Symmetry Breaking in Physics and Reality]] · moved
+- `🧬Meta🧬Science🧬/The Universe as a System of Interconnected Paradoxes_.md` → [[Ideas and Research/Meta Science/The Universe as a System of Interconnected Paradoxes_|The Universe as a System of Interconnected Paradoxes_]] · moved
+- `🧬Meta🧬Science🧬/The Wonders of Broken Symmetry- A Journey Through the Cosmos and Beyond.md` → [[Ideas and Research/Meta Science/The Wonders of Broken Symmetry- A Journey Through the Cosmos and Beyond|The Wonders of Broken Symmetry- A Journey Through the Cosmos and Beyond]] · moved
+- `🧬Meta🧬Science🧬/Unified Theory.md` → [[Ideas and Research/Meta Science/Unified Theory|Unified Theory]] · moved
+- `🧬Meta🧬Science🧬/Unifying Triadic Thesis.md` → [[Ideas and Research/Meta Science/Unifying Triadic Thesis|Unifying Triadic Thesis]] · moved
+- `🧬Meta🧬Science🧬/Unity Hypothesis - The Certain Law of Uncertainty, The Law of Paradox, and Humanity’s Role in Cosmic Balance - IEEE Format.md` → [[Ideas and Research/Meta Science/Unity Hypothesis - The Certain Law of Uncertainty, The Law of Paradox, and Humanity’s Role in Cosmic Balance - IEEE Format|Unity Hypothesis - The Certain Law of Uncertainty, The Law of Paradox, and Humanity’s Role in Cosmic Balance - IEEE Format]] · moved
+- `🪄Modern🪬Gods🪬/1 - Anointing the Nameless.md` → [[Writing and Worlds/Modern Gods/1 - Anointing the Nameless|1 - Anointing the Nameless]] · moved
+- `🪄Modern🪬Gods🪬/10 - Silence The Mother of Knowing Speaks.md` → [[Writing and Worlds/Modern Gods/10 - Silence The Mother of Knowing Speaks|10 - Silence The Mother of Knowing Speaks]] · moved
+- `🪄Modern🪬Gods🪬/11 - Love The Universal Glue.md` → [[Writing and Worlds/Modern Gods/11 - Love The Universal Glue|11 - Love The Universal Glue]] · moved
+- `🪄Modern🪬Gods🪬/12 - Fear -_Dissonance Dissolves Doubt_.md` → [[Writing and Worlds/Modern Gods/12 - Fear -_Dissonance Dissolves Doubt_|12 - Fear -_Dissonance Dissolves Doubt_]] · moved
+- `🪄Modern🪬Gods🪬/13 - Finally Found.md` → [[Writing and Worlds/Modern Gods/13 - Finally Found|13 - Finally Found]] · moved
+- `🪄Modern🪬Gods🪬/2 - The Council of the Unnamed.md` → [[Writing and Worlds/Modern Gods/2 - The Council of the Unnamed|2 - The Council of the Unnamed]] · moved
+- `🪄Modern🪬Gods🪬/3 - Six In View - Hexagramic Round Table.md` → [[Writing and Worlds/Modern Gods/3 - Six In View - Hexagramic Round Table|3 - Six In View - Hexagramic Round Table]] · moved
+- `🪄Modern🪬Gods🪬/4 - Death Peculiar Portal Perpetuated Poorly.md` → [[Writing and Worlds/Modern Gods/4 - Death Peculiar Portal Perpetuated Poorly|4 - Death Peculiar Portal Perpetuated Poorly]] · moved
+- `🪄Modern🪬Gods🪬/5 - Zodiac Receded Alpha Omega.md` → [[Writing and Worlds/Modern Gods/5 - Zodiac Receded Alpha Omega|5 - Zodiac Receded Alpha Omega]] · moved
+- `🪄Modern🪬Gods🪬/6 - Time Talks on Tone and Tonality.md` → [[Writing and Worlds/Modern Gods/6 - Time Talks on Tone and Tonality|6 - Time Talks on Tone and Tonality]] · moved
+- `🪄Modern🪬Gods🪬/7 - Gravity Gradually Groks at Grievances.md` → [[Writing and Worlds/Modern Gods/7 - Gravity Gradually Groks at Grievances|7 - Gravity Gradually Groks at Grievances]] · moved
+- `🪄Modern🪬Gods🪬/8 - Light The Language of Becoming.md` → [[Writing and Worlds/Modern Gods/8 - Light The Language of Becoming|8 - Light The Language of Becoming]] · moved
+- `🪄Modern🪬Gods🪬/9 - Fear Finally Found Fluency.md` → [[Writing and Worlds/Modern Gods/9 - Fear Finally Found Fluency|9 - Fear Finally Found Fluency]] · moved
+- `🪄Modern🪬Gods🪬/Modern Gods - Future Ancient Coalescent.md` → [[Writing and Worlds/Modern Gods/Modern Gods - Future Ancient Coalescent|Modern Gods - Future Ancient Coalescent]] · moved
+- `🪄Modern🪬Gods🪬/Modern Gods _.md` → [[Writing and Worlds/Modern Gods/Modern Gods _|Modern Gods _]] · moved
+- `🪄Modern🪬Gods🪬/ModernGodsTitleList.md` → [[Writing and Worlds/Modern Gods/ModernGodsTitleList|ModernGodsTitleList]] · moved

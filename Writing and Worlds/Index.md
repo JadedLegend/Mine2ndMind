@@ -85,7 +85,7 @@ tags:
 - [[Writing and Worlds/Cryptic Syndicate/Ciphers/⛧ The Ones Who Unlock the Locked ⛧|⛧ The Ones Who Unlock the Locked ⛧]]
 - [[Writing and Worlds/Cryptic Syndicate/Ciphers/ꕷỲÑĎꕯႠȦṰĒ ᒆ◎ꕷṰ-ɃỲĽȦẆꕷ|ꕷỲÑĎꕯႠȦṰĒ ᒆ◎ꕷṰ-ɃỲĽȦẆꕷ]]
 - [[Writing and Worlds/Cryptic Syndicate/Ciphers/𝞢Ẍ工ꗟ₸𝞢ṊϾ𝞢|𝞢Ẍ工ꗟ₸𝞢ṊϾ𝞢]]
-- [[Writing and Worlds/Cryptic Syndicate/Ciphers/🝟 --Encrypted Black Hat Transmission #001-- 🝟|🝟 --Encrypted Black Hat Transmission #001-- 🝟]]
+- [[Writing and Worlds/Cryptic Syndicate/Ciphers/🝟 --Encrypted Black Hat Transmission 001-- 🝟|🝟 --Encrypted Black Hat Transmission 001-- 🝟]]
 
 ## Cryptic Syndicate\Development
 

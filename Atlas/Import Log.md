@@ -137,9 +137,3 @@ Each line gives the old path and the surviving note. Collection indexes link to 
 The user’s updated Git baseline was `2664a86`. This pass filed the surviving sources into six areas, removed 59 user-confirmed redundant versions and one leftover numbered discussion, and repaired internal references to moved sources.
 
 The current source collection has 946 Markdown notes and four Word originals. Source wording is retained in preferred copies, with link repairs and alternate-title metadata where applicable. See [[Atlas/Organization Review|Organization Review]], [[Atlas/Duplicate Log|Duplicate Log]], and [[Atlas/Records/Path Map.csv|the path map]].
-
-## Consolidation pass — November 23, 2026
-
-The user’s updated Git baseline was `2664a86`. This pass filed the surviving sources into six areas, removed 59 user-confirmed redundant versions and one leftover numbered discussion, and repaired internal references to moved sources.
-
-The current source collection has 946 Markdown notes and four Word originals. Source wording is retained in preferred copies, with link repairs and alternate-title metadata where applicable. See [[Atlas/Organization Review|Organization Review]], [[Atlas/Duplicate Log|Duplicate Log]], and [[Atlas/Records/Path Map.csv|the path map]].
