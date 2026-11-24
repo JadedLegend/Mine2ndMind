@@ -1,0 +1,110 @@
+{
+  "scope": "Small authored pilot sanity check, not a corpus-wide benchmark",
+  "cases": 10,
+  "top_one": 8,
+  "top_three": 10,
+  "results": [
+    {
+      "query": "What is remembered so I can pick a project back up later?",
+      "expected": "flowtion-continuity",
+      "rank": 1,
+      "top_three": [
+        "flowtion-continuity",
+        "trader-inquiry-open",
+        "pda-council-plan"
+      ]
+    },
+    {
+      "query": "How does a user consent to actions with minimal controls?",
+      "expected": "flowtion-interaction",
+      "rank": 2,
+      "top_three": [
+        "privthee-user-agency",
+        "flowtion-interaction",
+        "trader-approval-dispatch"
+      ]
+    },
+    {
+      "query": "Which workspace turns exploration into an artifact or handoff?",
+      "expected": "flowtion-spaces",
+      "rank": 1,
+      "top_three": [
+        "flowtion-spaces",
+        "trader-inquiry-open",
+        "flowtion-interaction"
+      ]
+    },
+    {
+      "query": "Must the app disclose its Sanskrit reinterpretation?",
+      "expected": "privthee-transparent-lens",
+      "rank": 1,
+      "top_three": [
+        "privthee-transparent-lens",
+        "trader-inquiry-open",
+        "trader-source-provenance"
+      ]
+    },
+    {
+      "query": "Who keeps the final say in the Sanskrit companion?",
+      "expected": "privthee-user-agency",
+      "rank": 2,
+      "top_three": [
+        "privthee-transparent-lens",
+        "privthee-user-agency",
+        "flowtion-interaction"
+      ]
+    },
+    {
+      "query": "May an investigation remain open without creating an order?",
+      "expected": "trader-inquiry-open",
+      "rank": 1,
+      "top_three": [
+        "trader-inquiry-open",
+        "trader-approval-dispatch",
+        "flowtion-continuity"
+      ]
+    },
+    {
+      "query": "Does approving a queued order immediately send it?",
+      "expected": "trader-approval-dispatch",
+      "rank": 1,
+      "top_three": [
+        "trader-approval-dispatch",
+        "flowtion-interaction",
+        "trader-inquiry-open"
+      ]
+    },
+    {
+      "query": "How do retrieved passages retain an auditable origin?",
+      "expected": "trader-source-provenance",
+      "rank": 1,
+      "top_three": [
+        "trader-source-provenance",
+        "trader-inquiry-open",
+        "trader-choice-evidence"
+      ]
+    },
+    {
+      "query": "What should be recorded before judging an agent's choice?",
+      "expected": "trader-choice-evidence",
+      "rank": 1,
+      "top_three": [
+        "trader-choice-evidence",
+        "trader-approval-dispatch",
+        "trader-source-provenance"
+      ]
+    },
+    {
+      "query": "Are council conversations installed or still a future phase?",
+      "expected": "pda-council-plan",
+      "filters": {
+        "project": "PDAOK",
+        "status": "planned"
+      },
+      "rank": 1,
+      "top_three": [
+        "pda-council-plan"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {"query":"What is remembered so I can pick a project back up later?","expected":"flowtion-continuity"},
+  {"query":"How does a user consent to actions with minimal controls?","expected":"flowtion-interaction"},
+  {"query":"Which workspace turns exploration into an artifact or handoff?","expected":"flowtion-spaces"},
+  {"query":"Must the app disclose its Sanskrit reinterpretation?","expected":"privthee-transparent-lens"},
+  {"query":"Who keeps the final say in the Sanskrit companion?","expected":"privthee-user-agency"},
+  {"query":"May an investigation remain open without creating an order?","expected":"trader-inquiry-open"},
+  {"query":"Does approving a queued order immediately send it?","expected":"trader-approval-dispatch"},
+  {"query":"How do retrieved passages retain an auditable origin?","expected":"trader-source-provenance"},
+  {"query":"What should be recorded before judging an agent's choice?","expected":"trader-choice-evidence"},
+  {"query":"Are council conversations installed or still a future phase?","expected":"pda-council-plan","filters":{"project":"PDAOK","status":"planned"}}
+]

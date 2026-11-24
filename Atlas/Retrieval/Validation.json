@@ -1,0 +1,32 @@
+{
+  "scope": "Projects and their decisions pilot only",
+  "date": "2026-11-24",
+  "distillations": 10,
+  "projects": [
+    "Flowtion",
+    "PDAOK",
+    "Paradox Trader",
+    "Privthee"
+  ],
+  "sources_verified": 6,
+  "unit_tests": 10,
+  "vector_dimensions": 384,
+  "embedding_backend": "pinned local ONNX model on CPU",
+  "oversized_inputs_rejected": true,
+  "metadata_filter_verified": true,
+  "unknown_source_dates_preserved": true,
+  "candidate_chunks": 6,
+  "candidate_quotes_and_source_coverage_verified": true,
+  "markdown_links_checked": 40,
+  "query_checks": {
+    "cases": 10,
+    "top_one": 8,
+    "top_three": 10
+  },
+  "limitations": [
+    "Ten authored queries are not an independent or corpus-wide benchmark.",
+    "Only ten project units have been distilled; automatic bulk distillation is not installed.",
+    "Automatic chunk boundaries are candidates requiring review.",
+    "Source implementation claims have not been re-verified against project runtimes."
+  ]
+}

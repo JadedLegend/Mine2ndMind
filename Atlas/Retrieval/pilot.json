@@ -1,0 +1,205 @@
+[
+  {
+    "id": "flowtion-interaction",
+    "title": "Flowtion uses say and choose as its interaction",
+    "source": "Projects/Flowtion/Core Idea.md",
+    "start": "a field steward that keeps big projects coherent",
+    "stop": "1) spaces (the only structure)",
+    "text": "Flowtion's design reduces the user's interaction to saying or writing something and choosing yes or no. The steward infers the surrounding work. This is an interaction proposal in the source, not confirmation of a deployed interface.",
+    "kind": "design_decision",
+    "status": "documented_design",
+    "area": "Projects",
+    "project": "Flowtion",
+    "source_date": null,
+    "tags": [
+      "interaction",
+      "agency",
+      "low-friction"
+    ],
+    "source_sha256": "8f559facfbed2cb968eae8e1a3496ca9cff7ae435531735eb45913f81f42d485",
+    "prepared_date": "2026-11-24"
+  },
+  {
+    "id": "flowtion-spaces",
+    "title": "Flowtion gives its four spaces different roles",
+    "source": "Projects/Flowtion/Core Idea.md",
+    "start": "1) spaces (the only structure)",
+    "stop": "2) interaction (no UI learning)",
+    "text": "The proposed Flowtion spaces are Focus for making, Dream for exploring, Reflect for making sense or deciding, and Synthesize for compressing, publishing, or handing off. Each space remembers locally while remaining able to sense the others; the source calls this porous memory.",
+    "kind": "design_decision",
+    "status": "documented_design",
+    "area": "Projects",
+    "project": "Flowtion",
+    "source_date": null,
+    "tags": [
+      "workspaces",
+      "memory",
+      "handoff"
+    ],
+    "source_sha256": "8f559facfbed2cb968eae8e1a3496ca9cff7ae435531735eb45913f81f42d485",
+    "prepared_date": "2026-11-24"
+  },
+  {
+    "id": "flowtion-continuity",
+    "title": "Flowtion keeps a small continuity record",
+    "source": "Projects/Flowtion/Core Idea.md",
+    "start": "3) what the steward maintains (quietly)",
+    "stop": "4) page anatomy (one screen)",
+    "text": "Flowtion proposes keeping a project's north star, current edge, next fifteen-minute step, and last change in a project heartbeat. A timestamped decision log, named tensions with status, and a one-paragraph story-so-far preserve continuity. The source says these update when the user accepts an offered action; automatic operation is a design claim, not verified here.",
+    "kind": "design_decision",
+    "status": "documented_design",
+    "area": "Projects",
+    "project": "Flowtion",
+    "source_date": null,
+    "tags": [
+      "continuity",
+      "decisions",
+      "project-state"
+    ],
+    "source_sha256": "8f559facfbed2cb968eae8e1a3496ca9cff7ae435531735eb45913f81f42d485",
+    "prepared_date": "2026-11-24"
+  },
+  {
+    "id": "privthee-transparent-lens",
+    "title": "Privthee makes its Sanskrit lens explicit",
+    "source": "Projects/Privthee/Ethical North Star for the Sanskrit Lens.md",
+    "start": "### **1\\. Transparency over Trickery**",
+    "stop": "### **2\\. Grounding over Escaping**",
+    "text": "Privthee's ethical north star commits to making its Sanskrit reinterpretation visible to the user and anyone the work is shared with. The lens is meant to deepen the encounter rather than operate as a hidden influence. This is a stated design commitment.",
+    "kind": "design_decision",
+    "status": "design_commitment",
+    "area": "Projects",
+    "project": "Privthee",
+    "source_date": null,
+    "tags": [
+      "Sanskrit",
+      "transparency",
+      "interpretation"
+    ],
+    "source_sha256": "ecba7c99f21dca178d7ebdb48a6bb968172dd2df6ecce0469fa1ab3f8cbe81a1",
+    "prepared_date": "2026-11-24"
+  },
+  {
+    "id": "privthee-user-agency",
+    "title": "Privthee leaves the user as the chooser",
+    "source": "Projects/Privthee/Ethical North Star for the Sanskrit Lens.md",
+    "start": "### **4\\. Agency over Authority**",
+    "stop": "### **5\\. Practice over Bypass**",
+    "text": "Privthee's north star places final choice with the user. Anvaya may suggest, nudge, and reflect, but should neither command nor override. This records an ethical commitment in the source; it does not establish how a current runtime behaves.",
+    "kind": "design_decision",
+    "status": "design_commitment",
+    "area": "Projects",
+    "project": "Privthee",
+    "source_date": null,
+    "tags": [
+      "agency",
+      "consent",
+      "authority"
+    ],
+    "source_sha256": "ecba7c99f21dca178d7ebdb48a6bb968172dd2df6ecce0469fa1ab3f8cbe81a1",
+    "prepared_date": "2026-11-24"
+  },
+  {
+    "id": "trader-inquiry-open",
+    "title": "Paradox Trader keeps inquiry separate from execution",
+    "source": "Projects/Paradox Trader/Traceable idea lineage — first implementation.md",
+    "start": "## Implemented continuity",
+    "stop": "## Working mock execution",
+    "text": "The lineage implementation document separates an inquiry, optional structured proposal, review authorization, and later interpretation into durable records. An inquiry may remain open indefinitely without a proposal or order. Pausing, abandoning, and revisiting append history rather than replacing earlier text. This is documented implementation in an offline pilot, not a fresh verification of the live service.",
+    "kind": "implementation_decision",
+    "status": "documented_implementation",
+    "area": "Projects",
+    "project": "Paradox Trader",
+    "source_date": null,
+    "tags": [
+      "inquiry",
+      "lineage",
+      "history"
+    ],
+    "source_sha256": "9053784d075ae95e478a599d8985dfd6e6b17e29283d21c810696620dbca7cc8",
+    "prepared_date": "2026-11-24"
+  },
+  {
+    "id": "trader-approval-dispatch",
+    "title": "Paradox Trader approval does not itself dispatch an order",
+    "source": "Projects/Paradox Trader/Traceable idea lineage — first implementation.md",
+    "start": "## Working mock execution",
+    "stop": "Acceptance, rejection, cancellation, partial fills",
+    "text": "The documented mock lifecycle requires explicit queue approval, but approval itself sends nothing. It persists an intent and deterministic client-order ID before dispatch. A lost acknowledgement stays unknown; a lookup outage does not cause another submission. The described execution service is restricted to one agent and a fixed fictional contract, not a connected paper or live broker.",
+    "kind": "implementation_decision",
+    "status": "documented_implementation",
+    "area": "Projects",
+    "project": "Paradox Trader",
+    "source_date": null,
+    "tags": [
+      "approval",
+      "dispatch",
+      "mock-only",
+      "uncertainty"
+    ],
+    "source_sha256": "9053784d075ae95e478a599d8985dfd6e6b17e29283d21c810696620dbca7cc8",
+    "prepared_date": "2026-11-24"
+  },
+  {
+    "id": "trader-source-provenance",
+    "title": "Paradox Trader keeps retrieved sources traceable",
+    "source": "Projects/Paradox Trader/Shared original-document library.md",
+    "start": "## Source provenance and agent records",
+    "stop": "## Run and boundary",
+    "text": "The shared-library document requires retrieved passages to carry an original filename, original hash, section ID, and extraction locator. Search offsets refer to Unicode characters in an extracted section, not original page coordinates. Agent interpretations can be stored separately with those references; source documents do not become agent-authored journal history. Original files are retained for fuller checking. This is the library document's implementation account.",
+    "kind": "implementation_decision",
+    "status": "documented_implementation",
+    "area": "Projects",
+    "project": "Paradox Trader",
+    "source_date": null,
+    "tags": [
+      "provenance",
+      "retrieval",
+      "interpretation"
+    ],
+    "source_sha256": "6815437b689261dbcd3e7ac915d7819aa5a450b4cbd4a34973b098c6565bd51b",
+    "prepared_date": "2026-11-24"
+  },
+  {
+    "id": "trader-choice-evidence",
+    "title": "Paradox Trader records the conditions around a choice",
+    "source": "Projects/Paradox Trader/Offered choices and owner-local continuity.md",
+    "start": "## What the record preserves",
+    "stop": "## Continuity without a recap obligation",
+    "text": "The Sessions update documents separate records for offered actions, costs and constraints, the committed choice, execution, and private admitted input. A malformed response is a processing failure, not an inferred decision to rest. Offered actions are not guaranteed resource allocations. A choice can therefore be described with its conditions and outcome without treating it as proof of an agent's personality or preference.",
+    "kind": "implementation_decision",
+    "status": "documented_implementation",
+    "area": "Projects",
+    "project": "Paradox Trader",
+    "source_date": null,
+    "tags": [
+      "choice",
+      "conditions",
+      "evidence",
+      "Sessions"
+    ],
+    "source_sha256": "12336f04b8e3c2262b2233115d48b4d2547edc6a05e75b6380e168876ccab471",
+    "prepared_date": "2026-11-24"
+  },
+  {
+    "id": "pda-council-plan",
+    "title": "PDAOK council sessions are a planned phase in this source",
+    "source": "Projects/PDAOK/PDAOK Phases.md",
+    "start": "Phase 4: Council Sessions (Cross-Agent Conversations)",
+    "stop": "## **The Vision**",
+    "text": "The PDAOK phase document places council sessions under planned future work. The proposed sessions are triggered selectively, run privately under strict turn and frequency budgets, and publish a distilled artifact containing a summary, tension, question, and suggestion. The source gives examples of budgets; it does not establish current deployment or operation.",
+    "kind": "proposal",
+    "status": "planned",
+    "area": "Projects",
+    "project": "PDAOK",
+    "source_date": null,
+    "tags": [
+      "council",
+      "distillation",
+      "planned",
+      "budgets"
+    ],
+    "source_sha256": "d5d82b2822dd181625e41aabb90d06323fca6e1b8f84d4747fa6f11478b552a6",
+    "prepared_date": "2026-11-24"
+  }
+]

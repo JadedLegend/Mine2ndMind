@@ -20,6 +20,7 @@ Your work, ideas, writing, and music, gathered into six areas. Choose an overvie
 
 ## Keep the thread
 
+- [[Atlas/Knowledge/Pilot|Projects and decisions pilot]] — small distilled units, exact sources, and local semantic retrieval.
 - [[Inbox/Inbox|Inbox]] — new finds and unfinished captures.
 - [[Atlas/Decisions|Decisions and solved problems]] — recover a choice and the source behind it.
 - [[Atlas/How to Use This Vault|How to use this vault]] — capture, search, link, and maintain.

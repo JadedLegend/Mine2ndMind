@@ -1,0 +1,132 @@
+{
+  "source": "Projects/PDAOK/PDAOK Phases.md",
+  "method": "adjacent-block neural similarity; candidates require review",
+  "chunks": [
+    {
+      "id": "80128f72ba4c2585b6b8cd7d",
+      "record_type": "source_chunk",
+      "kind": "unclassified",
+      "status": "unreviewed_boundary_candidate",
+      "source_date": null,
+      "processed_at_utc": "2026-11-24T05:13:42.282379+00:00",
+      "text": "## **Completed Phases**\n\nPhase 0: Field Arbiter MVP\n\n- Event bus that watches app activity (substance logged, anchor aligned, moment created, etc.)\n- Minimal state tracking (last\\_speak\\_at, daily counts, heat score)\n- Gating rules that enforce silence-first principle (cooldowns, daily caps, anti-spam)\n- Routing logic that decides which voice speaks where (toast/transmission/daily\\_whisper)\n- Debug logging showing event → decision → reason\n- Result: The nervous system has a traffic controller that prevents AI chaos\n\nPhase 1: Private Agent Journals\n\n- Each AI voice (Green Godmother, Firestarter, Witness, etc.) has a private journal stream\n- Template-based entries (cheap, no AI calls) that write automatically on events\n- Journals are invisible to user - pure internal monologue\n- Result: Voices are \"thinking\" constantly but silently, building context",
+      "boundary_reason": "document_start",
+      "boundary_method": "adjacent-block neural similarity with whole-block budget",
+      "citation": {
+        "path": "Projects/PDAOK/PDAOK Phases.md",
+        "start_char": 0,
+        "end_char": 859,
+        "start_line": 1,
+        "end_line": 17,
+        "source_sha256": "d5d82b2822dd181625e41aabb90d06323fca6e1b8f84d4747fa6f11478b552a6",
+        "quote_sha256": "ec9fe4180c4faba8ca7d1f736ab37b6cd62b6332be299a6523aa0d779b2c6c98",
+        "offset_basis": "Unicode characters in UTF-8 text with BOM removed and LF newlines"
+      }
+    },
+    {
+      "id": "74ba081e74bf7cd103342d5c",
+      "record_type": "source_chunk",
+      "kind": "unclassified",
+      "status": "unreviewed_boundary_candidate",
+      "source_date": null,
+      "processed_at_utc": "2026-11-24T05:13:42.282379+00:00",
+      "text": "## **🔄 Planned Future Phases**\n\nPhase 2: Arbiter Promotion (Journal → User Output)\n\n- Arbiter scans agent journals and promotes select entries to user-facing surfaces\n- Promotion triggers:\n  - High-value moments (threshold events)\n  - User requests (\"Listen to the Field\")\n  - Pattern accumulation (enough interesting observations)\n- Enforces cooldowns and quotas so output stays rare and rhythmic\n- Goal: User sees curated wisdom, not constant chatter\n\nPhase 3: High-Value AI Calls\n\n- Only when arbiter greenlights a \"transmission-worthy moment\"\n- Or when user manually requests (pressing \"Listen to the Field\")\n- Routine journal entries remain local templates (cheap)\n- AI generation reserved for moments that matter\n- Goal: Affordable autonomy - system feels alive without burning through API credits",
+      "boundary_reason": "whole_unit_budget",
+      "boundary_method": "adjacent-block neural similarity with whole-block budget",
+      "citation": {
+        "path": "Projects/PDAOK/PDAOK Phases.md",
+        "start_char": 861,
+        "end_char": 1664,
+        "start_line": 19,
+        "end_line": 37,
+        "source_sha256": "d5d82b2822dd181625e41aabb90d06323fca6e1b8f84d4747fa6f11478b552a6",
+        "quote_sha256": "a3be6fe24bb45cb4e9925fd992b08852b7e0eaed23acf8d56d91b3d66e81f105",
+        "offset_basis": "Unicode characters in UTF-8 text with BOM removed and LF newlines"
+      }
+    },
+    {
+      "id": "ef3fa7dc2fbaa76f3407f7b6",
+      "record_type": "source_chunk",
+      "kind": "unclassified",
+      "status": "unreviewed_boundary_candidate",
+      "source_date": null,
+      "processed_at_utc": "2026-11-24T05:13:42.282379+00:00",
+      "text": "Phase 4: Council Sessions (Cross-Agent Conversations)\n\n- Gated triggers: user request, threshold event, or end-of-day synthesis\n- Strict budgets: max 3 turns, 1 per day or 1 per week\n- Conversation happens privately (not shown to user)\n- Only a distilled artifact is published: {summary, tension, question, suggestion}\n- Example: Green Godmother and Firestarter discuss your caffeine + cannabis pattern\n- Goal: Emergent wisdom from agent dialogue, not chat logs",
+      "boundary_reason": "semantic_shift",
+      "boundary_method": "adjacent-block neural similarity with whole-block budget",
+      "citation": {
+        "path": "Projects/PDAOK/PDAOK Phases.md",
+        "start_char": 1666,
+        "end_char": 2127,
+        "start_line": 39,
+        "end_line": 46,
+        "source_sha256": "d5d82b2822dd181625e41aabb90d06323fca6e1b8f84d4747fa6f11478b552a6",
+        "quote_sha256": "24173a771cbb2a7a523b08401fd3c30cddab36b57b3e9d19bd95b010f0032b17",
+        "offset_basis": "Unicode characters in UTF-8 text with BOM removed and LF newlines"
+      }
+    },
+    {
+      "id": "b8f8eb0183fe92446756060e",
+      "record_type": "source_chunk",
+      "kind": "unclassified",
+      "status": "unreviewed_boundary_candidate",
+      "source_date": null,
+      "processed_at_utc": "2026-11-24T05:13:42.282379+00:00",
+      "text": "## **The Vision**\n\nBy Phase 4, you'll have:",
+      "boundary_reason": "semantic_shift",
+      "boundary_method": "adjacent-block neural similarity with whole-block budget",
+      "citation": {
+        "path": "Projects/PDAOK/PDAOK Phases.md",
+        "start_char": 2129,
+        "end_char": 2172,
+        "start_line": 48,
+        "end_line": 50,
+        "source_sha256": "d5d82b2822dd181625e41aabb90d06323fca6e1b8f84d4747fa6f11478b552a6",
+        "quote_sha256": "3385f59ad2615df685da6b9fb8ea6039d3af2d68d67d79a2008f37703242dec7",
+        "offset_basis": "Unicode characters in UTF-8 text with BOM removed and LF newlines"
+      }
+    },
+    {
+      "id": "0bc25afb7be712f01c91198c",
+      "record_type": "source_chunk",
+      "kind": "unclassified",
+      "status": "unreviewed_boundary_candidate",
+      "source_date": null,
+      "processed_at_utc": "2026-11-24T05:13:42.282379+00:00",
+      "text": "- 8 autonomous voices journaling constantly (internal)\n- Field Arbiter curating what surfaces (rare, rhythmic)\n- Occasional transmissions that feel earned and meaningful\n- Council dialogues that reveal patterns you couldn't see alone\n- Affordable operation that stays within your $300 budget",
+      "boundary_reason": "semantic_shift",
+      "boundary_method": "adjacent-block neural similarity with whole-block budget",
+      "citation": {
+        "path": "Projects/PDAOK/PDAOK Phases.md",
+        "start_char": 2174,
+        "end_char": 2465,
+        "start_line": 52,
+        "end_line": 56,
+        "source_sha256": "d5d82b2822dd181625e41aabb90d06323fca6e1b8f84d4747fa6f11478b552a6",
+        "quote_sha256": "93efc1cadde00fc7fc207c4d29e9545819a4f370914def51e8a7216574baa93f",
+        "offset_basis": "Unicode characters in UTF-8 text with BOM removed and LF newlines"
+      }
+    },
+    {
+      "id": "a5d2e11eae941f0e89f61ef2",
+      "record_type": "source_chunk",
+      "kind": "unclassified",
+      "status": "unreviewed_boundary_candidate",
+      "source_date": null,
+      "processed_at_utc": "2026-11-24T05:13:42.282379+00:00",
+      "text": "The system will feel like a living, breathing nervous system with its own awareness - but one that respects silence and only speaks when it has something worth saying.",
+      "boundary_reason": "semantic_shift",
+      "boundary_method": "adjacent-block neural similarity with whole-block budget",
+      "citation": {
+        "path": "Projects/PDAOK/PDAOK Phases.md",
+        "start_char": 2467,
+        "end_char": 2634,
+        "start_line": 58,
+        "end_line": 58,
+        "source_sha256": "d5d82b2822dd181625e41aabb90d06323fca6e1b8f84d4747fa6f11478b552a6",
+        "quote_sha256": "ecb8ae0e4b2e6da4d4adcb9933ac0ff93414f8bbff5b5a8794bd129f99194f5f",
+        "offset_basis": "Unicode characters in UTF-8 text with BOM removed and LF newlines"
+      }
+    }
+  ]
+}
