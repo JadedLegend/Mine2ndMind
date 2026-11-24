@@ -1,21 +1,18 @@
 ---
-title: Inbox
+title: "Inbox"
+date: 2026-11-23
 tags:
-  - atlas/inbox
+  - atlas/navigation
 ---
 
 # Inbox
 
-[[Home|Home]] · [[Atlas/Review|Review]] · [[Atlas/Decisions|Decisions]]
+[[Home|Home]]
 
-Save new finds here as one note per item. Give each note a recognizable title and include where it came from. For a chat, add the project and date, plus the original link or export if you have it.
+Drop new finds, chat excerpts, and unfinished notes here. A title and the material are enough to begin.
 
-```query
-path:"Inbox/" -path:"Inbox/Inbox.md"
-```
+- [[Atlas/Templates/Capture|Optional capture template]]
+- [[Atlas/Templates/Decision|Decision or solved-problem template]]
+- [[Atlas/How to Use This Vault|Capture and filing guide]]
 
-## File an item
-
-1. Search a distinctive phrase or title across the vault. If the item already exists, add its new context as a link to the existing note.
-2. If it is a new draft or alternate version, keep it and link the related notes. Put uncertain pairs on [[Atlas/Review|Review]].
-3. Move the note to its collection in Obsidian. If it records a choice or solution worth finding again, add it to [[Atlas/Decisions|Decisions]] with a source link and the circumstances it applies to.
+When a note’s connection becomes clear, move it into an area and add a useful link. Leaving a note here while its shape emerges is fine.
