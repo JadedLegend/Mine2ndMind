@@ -11,7 +11,7 @@ Welcome to **Mine2ndMind**. The vault is organized into seven core areas:
 ## 1. [[Atlas|Atlas]]
 Navigation, decisions, review records, and vault organizational maps.
 - **Folder**: `Atlas/`
-- **Key Records**: [[Atlas/Organization Review|Organization Review]] · [[Atlas/Decisions|Decisions]] · [[Atlas/Review|Review]] · [[Atlas/Import Log|Import Log]] · [[Atlas/Inbox/Inbox|Inbox]]
+- **Key Records**: [[Atlas/Organization Review|Organization Review]] · [[Atlas/Decisions|Decisions]] · [[Atlas/Review|Review]] · [[Atlas/Import Log|Import Log]] · [[Atlas/Inbox/Inbox|Inbox]] · [[Atlas/Ideas & Research Hub|Ideas & Research Hub]] · [[Atlas/Personal Hub|Personal Hub]]
 
 ## 2. [[Projects|Projects]]
 Active projects, systems, specifications, prototypes, and development inquiries.
